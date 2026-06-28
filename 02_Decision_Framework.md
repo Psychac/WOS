@@ -363,3 +363,84 @@ Each new garment should:
 The objective is not to own more clothing.
 
 The objective is to own a wardrobe that consistently performs its intended function with minimal compromise.
+
+## Permanent Footwear Constraints
+
+### Foot Profile
+
+- Wide forefoot (metatarsal area)
+- Above-average toe splay
+- Medium-to-high instep
+- Big toe and second toe approximately equal length
+
+### Common Fit Issues
+
+- Toe box feels cramped before shoe length becomes insufficient.
+- Pressure develops across the top of the foot.
+- Standard-width shoes often require sizing up unnecessarily.
+
+### Decision Rules
+
+Priority order:
+
+1. Last shape
+2. Forefoot width
+3. Instep volume
+4. Overall fit
+5. Size
+
+Never size up before confirming that the last is appropriate.
+
+A correctly shaped last in the proper size is preferred over a longer shoe with an unsuitable last.
+
+### Avoid
+
+- Narrow Italian lasts
+- Aggressive almond or pointed toes
+- Low-volume shoes
+- Narrow toe boxes
+- Shoes known to run narrow
+
+### Prefer
+
+- Anatomically generous toe boxes
+- Medium or wide lasts
+- Moderate toe taper
+- Medium-to-high instep volume
+
+## Footwear Decision Framework
+
+### Evaluation Priority
+
+When evaluating footwear, use the following order:
+
+1. Foot compatibility
+2. Last & Shape
+3. Construction
+4. Upper Material
+5. Comfort
+6. Sole
+7. Colour
+8. Brand
+
+### Foot Compatibility Rules
+
+For my foot shape:
+
+* Prioritize forefoot width before overall length.
+* Prioritize adequate instep volume before aesthetics.
+* Never size up before determining whether the last is appropriate.
+* Reject shoes with narrow or aggressively tapered toe boxes.
+* Avoid lasts known to run narrow.
+* Prefer medium or wide-fitting lasts with generous forefoot volume.
+
+### Recommendation Rules
+
+Every footwear recommendation should include:
+
+* Width compatibility
+* Last characteristics
+* Whether the model runs narrow, standard or wide
+* Sizing advice (only after assessing width)
+* Confidence that the shoe suits my foot profile
+

@@ -146,3 +146,17 @@ Strengthen the overall wardrobe rather than exist independently.
 Improve the quality and versatility of future outfit combinations.
 
 When choosing between two similar garments, preference should be given to the option that strengthens the wardrobe as a whole rather than the individual item.
+
+### Foot Profile
+
+* Wide forefoot (metatarsal area)
+* Medium-to-high instep
+* Big toe and second toe approximately equal length
+* Standard-width footwear often feels cramped despite adequate length
+
+#### Common Fit Issues
+
+* Pressure across the forefoot
+* Cramped toe box
+* Pressure over the top of the foot
+* Often required to size up to gain width rather than length
