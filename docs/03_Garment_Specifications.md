@@ -16,27 +16,12 @@ This section defines concepts that apply across multiple garment categories.
 
 Every garment exists somewhere on a spectrum rather than in a fixed category.
 
-Formal
-
-↓
-
-Business
-
-↓
-
-Business Casual
-
-↓
-
-Smart Casual
-
-↓
-
-Casual
-
-↓
-
-Relaxed Casual
+- Formal
+- Business
+- Business Casual
+- Smart Casual
+- Casual
+- Relaxed Casual
 
 A garment should be evaluated within its intended level of formality rather than against garments serving different purposes.
 
@@ -48,10 +33,10 @@ Fit describes how a garment follows the body's dimensions.
 
 A good fit should:
 
-* Allow unrestricted movement.
-* Follow the body's shape without excessive tightness.
-* Avoid unnecessary excess fabric.
-* Support the intended silhouette.
+- Allow unrestricted movement
+- Follow the body's shape without excessive tightness
+- Avoid unnecessary excess fabric
+- Support the intended silhouette
 
 Fit is independent of style.
 
@@ -77,11 +62,11 @@ Structure is the ability of a garment to create or maintain shape.
 
 Sources of structure include:
 
-* Fabric weight
-* Interfacing
-* Construction
-* Collar design
-* Shoulder design
+- Fabric weight
+- Interfacing
+- Construction
+- Collar design
+- Shoulder design
 
 Greater structure generally increases visual authority and masculinity, while excessive structure can reduce comfort and appear overly formal.
 
@@ -101,11 +86,11 @@ Visual weight is the perceived prominence of a garment.
 
 It is influenced by:
 
-* Colour value
-* Texture
-* Fabric weight
-* Pattern
-* Volume
+- Colour value
+- Texture
+- Fabric weight
+- Pattern
+- Volume
 
 Visual weight should be distributed intentionally to create balanced proportions.
 
@@ -117,11 +102,11 @@ Texture creates visual interest without relying on loud patterns.
 
 Examples include:
 
-* Oxford cloth
-* Twill
-* Linen
-* Corduroy
-* Brushed cotton
+- Oxford cloth
+- Twill
+- Linen
+- Corduroy
+- Brushed cotton
 
 Texture is generally preferred over bold prints for long-term versatility.
 
@@ -133,11 +118,11 @@ Construction determines durability, shape retention and finishing quality.
 
 Indicators include:
 
-* Stitching consistency
-* Pattern alignment
-* Reinforcement
-* Hardware quality
-* Seam finishing
+- Stitching consistency
+- Pattern alignment
+- Reinforcement
+- Hardware quality
+- Seam finishing
 
 Construction should be evaluated independently from branding.
 
@@ -149,11 +134,11 @@ Every garment should perform one primary function within the wardrobe.
 
 Examples:
 
-* Office foundation
-* Everyday casual
-* Evening smart casual
-* Travel
-* Seasonal layering
+- Office foundation
+- Everyday casual
+- Evening smart casual
+- Travel
+- Seasonal layering
 
 Garments without a clear role should generally be avoided.
 
@@ -165,40 +150,36 @@ Versatility is the ability of a garment to integrate naturally into multiple out
 
 It should be evaluated by practical use rather than theoretical combinations.
 
-Part II – Shirts
-    Formal Shirt
-    Oxford Shirt
-    Casual Shirt
-    Linen Shirt
-    Flannel Shirt
-    Denim Shirt
-    Chambray Shirt
+## Category Overview
 
-Part III – Trousers
-    Dress Trouser
-    Chino
-    Jeans
-    Linen Trouser
-    Shorts
-
-Part IV – Knitwear
-...
-
-Part V – Tailoring
-...
-
-Part VI – Outerwear
-...
-
-Part VII – Footwear
-...
-
-Part VIII – Accessories
-...
+- Part II: Shirts
+  - Formal Shirt
+  - Oxford Shirt
+  - Casual Shirt
+  - Linen Shirt
+  - Flannel Shirt
+  - Denim Shirt
+  - Chambray Shirt
+- Part III: Trousers
+  - Dress Trouser
+  - Chino
+  - Jeans
+  - Linen Trouser
+  - Shorts
+- Part IV: Knitwear
+  - ...
+- Part V: Tailoring
+  - ...
+- Part VI: Outerwear
+  - ...
+- Part VII: Footwear
+  - ...
+- Part VIII: Accessories
+  - ...
 
 # Part II – Shirts
 
-## Philosophy
+### Philosophy
 
 Shirts define the upper body of an outfit. They frame the face, influence perceived shoulder width, communicate formality and provide the primary visual connection between the wearer and the observer.
 
@@ -206,7 +187,7 @@ For this wardrobe, shirts should prioritize silhouette, versatility and timeless
 
 ---
 
-## Universal Principles
+### Universal Principles
 
 * Prioritize fit before colour.
 * Prioritize collar before brand.
@@ -218,9 +199,9 @@ For this wardrobe, shirts should prioritize silhouette, versatility and timeless
 
 ---
 
-## Foundation vs Accent
+### Foundation vs Accent
 
-### Foundation Shirts
+#### Foundation Shirts
 
 Foundation shirts form the core of the wardrobe and should maximise versatility.
 
@@ -237,7 +218,7 @@ Examples:
 * Oxford Cloth Button-Downs
 * Casual Button-Downs
 
-### Accent Shirts
+#### Accent Shirts
 
 Accent shirts introduce seasonal variety, texture or casual character.
 
@@ -257,7 +238,7 @@ Examples:
 
 ---
 
-## Categories
+### Categories
 
 * 2.1 Formal Shirt
 * 2.2 Oxford Cloth Button-Down (OCBD)
@@ -269,7 +250,7 @@ Examples:
 
 ## 2.1 Formal Shirt
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                              |
 | ------------ | ---------------------------------- |
@@ -282,13 +263,13 @@ Examples:
 
 ---
 
-## Role
+### Role
 
 A refined foundation for tailoring, business wear and formal occasions.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Interviews
 * Formal office
@@ -298,9 +279,9 @@ A refined foundation for tailoring, business wear and formal occasions.
 
 ---
 
-## Fit
+### Fit
 
-### Ideal
+#### Ideal
 
 * Tailored
 * Relaxed Slim
@@ -308,72 +289,72 @@ A refined foundation for tailoring, business wear and formal occasions.
 * Gentle waist suppression
 * Long enough to remain tucked
 
-### Acceptable
+#### Acceptable
 
 * Slightly relaxed classic fit
 
-### Avoid
+#### Avoid
 
 * Extra Slim
 * Oversized
 * Boxy cuts
 
-### Why
+#### Why
 
 Supports a clean silhouette while avoiding shapes that exaggerate a slim frame.
 
 ---
 
-## Collar
+### Collar
 
-### Ideal
+#### Ideal
 
 * Semi-spread
 * Moderate spread
 
-### Acceptable
+#### Acceptable
 
 * Classic point
 
-### Avoid
+#### Avoid
 
 * Extreme cutaway
 * Oversized collars
 * Button-down collars
 
-### Why
+#### Why
 
 Balances facial proportions, works with rectangular glasses and remains timeless.
 
 ---
 
-## Fabric
+### Fabric
 
-### Ideal
+#### Ideal
 
 * Cotton Poplin
 * Cotton Twill
 
-### Acceptable
+#### Acceptable
 
 * Pinpoint Oxford (less formal settings)
 
-### Avoid
+#### Avoid
 
 * Polyester-rich blends
 * Linen
 * Satin finishes
 * High-shine fabrics
 
-### Why
+#### Why
 
 Natural cotton offers better drape, breathability, longevity and refinement.
 
 ---
 
-## Construction
+### Construction
 
-### Ideal
+#### Ideal
 
 * Medium collar structure
 * Quality stitching
@@ -381,71 +362,71 @@ Natural cotton offers better drape, breathability, longevity and refinement.
 * Clean placket
 * Minimal branding
 
-### Acceptable
+#### Acceptable
 
 * French cuffs (occasion dependent)
 
-### Avoid
+#### Avoid
 
 * Soft collapsing collars
 * Decorative trims
 * Excessive branding
 
-### Why
+#### Why
 
 Improves durability and keeps the shirt visually refined.
 
 ---
 
-## Colours
+### Colours
 
-### Ideal
+#### Ideal
 
 * White
 * Off-white
 * Light Blue
 
-### Acceptable
+#### Acceptable
 
 * Pale Cream
 
-### Avoid
+#### Avoid
 
 * Loud colours
 * Busy patterns
 
-### Why
+#### Why
 
 Provides maximum versatility while complementing a Deep Autumn palette.
 
 ---
 
-## Pattern
+### Pattern
 
-### Ideal
+#### Ideal
 
 * Solid
 * Fine Stripe
 
-### Acceptable
+#### Acceptable
 
 * Small conservative check
 
-### Avoid
+#### Avoid
 
 * Large checks
 * Bold stripes
 * High-contrast prints
 
-### Why
+#### Why
 
 Allows the tailoring—not the shirt—to remain the visual focus.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Suits
 * Blazers
@@ -453,11 +434,11 @@ Allows the tailoring—not the shirt—to remain the visual focus.
 * Derbies
 * Oxfords
 
-### Good
+#### Good
 
 * Chinos
 
-### Poor
+#### Poor
 
 * Jeans
 * Shorts
@@ -465,7 +446,7 @@ Allows the tailoring—not the shirt—to remain the visual focus.
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Prioritize fit and collar quality over brand.
 * Relaxed Slim is preferred over Extra Slim.
@@ -473,7 +454,7 @@ Allows the tailoring—not the shirt—to remain the visual focus.
 
 ---
 
-## Avoid
+### Avoid
 
 * Poor shoulder fit
 * Transparent fabric
@@ -484,7 +465,7 @@ Allows the tailoring—not the shirt—to remain the visual focus.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -505,7 +486,7 @@ Verdict:
 
 ## 2.2 Oxford Cloth Button-Down (OCBD)
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                                      |
 | ------------ | ------------------------------------------ |
@@ -518,13 +499,13 @@ Verdict:
 
 ---
 
-## Role
+### Role
 
 The most versatile shirt in the wardrobe, bridging formal and casual dressing.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Smart casual office
 * Casual Friday
@@ -536,9 +517,9 @@ The most versatile shirt in the wardrobe, bridging formal and casual dressing.
 
 ---
 
-## Fit
+### Fit
 
-### Ideal
+#### Ideal
 
 * Tailored
 * Relaxed Slim
@@ -546,98 +527,98 @@ The most versatile shirt in the wardrobe, bridging formal and casual dressing.
 * Comfortable chest
 * Gentle waist suppression
 
-### Acceptable
+#### Acceptable
 
 * Straight classic fit
 
-### Avoid
+#### Avoid
 
 * Extra Slim
 * Oversized
 * Boxy silhouettes
 
-### Why
+#### Why
 
 Maintains masculine proportions while remaining comfortable enough for everyday wear.
 
 ---
 
-## Collar
+### Collar
 
-### Ideal
+#### Ideal
 
 * Soft button-down
 * Natural collar roll
 * Medium collar proportions
 
-### Acceptable
+#### Acceptable
 
 * Slightly structured button-down
 
-### Avoid
+#### Avoid
 
 * Fused collars
 * Tiny collars
 * Long exaggerated points
 
-### Why
+#### Why
 
 The collar is the defining characteristic of an OCBD and should look equally natural with or without a tie.
 
 ---
 
-## Fabric
+### Fabric
 
-### Ideal
+#### Ideal
 
 * Medium-weight Oxford Cloth
 * 100% Cotton
 
-### Acceptable
+#### Acceptable
 
 * Heavy Oxford Cloth
 
-### Avoid
+#### Avoid
 
 * Stretch Oxford
 * Polyester blends
 * Thin poplin marketed as an OCBD
 
-### Why
+#### Why
 
 Oxford cloth provides the texture, structure and durability that define the garment.
 
 ---
 
-## Construction
+### Construction
 
-### Ideal
+#### Ideal
 
 * Soft construction
 * Quality stitching
 * Rounded hem
 * Minimal branding
 
-### Acceptable
+#### Acceptable
 
 * Locker loop
 * Box pleat
 
-### Avoid
+#### Avoid
 
 * Decorative trims
 * Contrast stitching
 * Excessive logos
 
-### Why
+#### Why
 
 Keeps the shirt timeless and allows the fabric texture to become the visual interest.
 
 ---
 
-## Colours
+### Colours
 
-### Ideal
+#### Ideal
 
 * Olive
 * Dark Olive
@@ -645,51 +626,51 @@ Keeps the shirt timeless and allows the fabric texture to become the visual inte
 * Ecru
 * Light Blue
 
-### Acceptable
+#### Acceptable
 
 * White
 * Tobacco
 * Muted Beige
 
-### Avoid
+#### Avoid
 
 * Bright Blue
 * Cool Grey
 * Neon colours
 
-### Why
+#### Why
 
 Earthy colours reinforce the intended wardrobe palette while remaining highly versatile.
 
 ---
 
-## Pattern
+### Pattern
 
-### Ideal
+#### Ideal
 
 * Solid
 * University Stripe
 
-### Acceptable
+#### Acceptable
 
 * Fine Bengal Stripe
 * Small Gingham
 
-### Avoid
+#### Avoid
 
 * Large Plaids
 * Bold Prints
 * High-contrast patterns
 
-### Why
+#### Why
 
 Texture should provide the visual interest—not loud patterns.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Chinos
 * Dark Indigo Jeans
@@ -698,12 +679,12 @@ Texture should provide the visual interest—not loud patterns.
 * Harrington Jackets
 * Overshirts
 
-### Good
+#### Good
 
 * Dress Trousers
 * Suede Boots
 
-### Poor
+#### Poor
 
 * Tuxedos
 * Black Tie
@@ -711,7 +692,7 @@ Texture should provide the visual interest—not loud patterns.
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * One of the highest-value shirt categories for my wardrobe.
 * Collar quality is more important than brand.
@@ -720,7 +701,7 @@ Texture should provide the visual interest—not loud patterns.
 
 ---
 
-## Avoid
+### Avoid
 
 * Poor shoulder fit
 * Collar without a natural roll
@@ -731,7 +712,7 @@ Texture should provide the visual interest—not loud patterns.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -752,7 +733,7 @@ Verdict:
 
 ## 2.3 Casual Button-Down
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                                                       |
 | ------------ | ----------------------------------------------------------- |
@@ -765,7 +746,7 @@ Verdict:
 
 ---
 
-## Role
+### Role
 
 The everyday shirt for relaxed smart-casual dressing.
 
@@ -773,7 +754,7 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Casual office
 * Casual Friday
@@ -786,26 +767,26 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 
 ---
 
-### Fit
+#### Fit
 
-#### Ideal
+##### Ideal
 
 * Relaxed Slim
 * Clean shoulder fit
 * Comfortable chest
 * Straight to gently tapered body
 
-#### Acceptable
+##### Acceptable
 
 * Tailored
 
-#### Avoid
+##### Avoid
 
 * Extra Slim
 * Oversized
 * Boxy silhouettes
 
-#### Why
+##### Why
 
 * Creates a relaxed yet intentional silhouette.
 * Doesn't exaggerate a slim frame.
@@ -813,25 +794,25 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 
 ---
 
-### Collar
+#### Collar
 
-#### Ideal
+##### Ideal
 
 * Soft Spread
 * Soft Point
 * One-piece collar (if available)
 
-#### Acceptable
+##### Acceptable
 
 * Camp collar (summer only)
 
-#### Avoid
+##### Avoid
 
 * Stiff fused collars
 * Extreme cutaway collars
 * Very small collars
 
-#### Why
+##### Why
 
 * Soft collars reinforce the relaxed nature of the garment.
 * Looks natural when worn open.
@@ -839,27 +820,27 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 
 ---
 
-### Fabric
+#### Fabric
 
-#### Ideal
+##### Ideal
 
 * Cotton Twill
 * Brushed Cotton
 * Herringbone
 * Dobby
 
-#### Acceptable
+##### Acceptable
 
 * Soft Oxford Cloth
 * Cotton-Linen Blend (summer)
 
-#### Avoid
+##### Avoid
 
 * Polyester-rich blends
 * High-shine fabrics
 * Very thin fabrics
 
-#### Why
+##### Why
 
 * Texture creates visual interest without relying on loud patterns.
 * Better depth and character than plain poplin.
@@ -867,36 +848,36 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 
 ---
 
-### Construction
+#### Construction
 
-#### Ideal
+##### Ideal
 
 * Soft construction
 * Matte buttons
 * Rounded hem
 * Minimal branding
 
-#### Acceptable
+##### Acceptable
 
 * Single chest pocket
 
-#### Avoid
+##### Avoid
 
 * Contrast trims
 * Decorative stitching
 * Shoulder epaulettes
 * Heavy branding
 
-#### Why
+##### Why
 
 * Keeps the design timeless.
 * Allows fabric and texture to remain the visual focus.
 
 ---
 
-### Colours
+#### Colours
 
-#### Ideal
+##### Ideal
 
 * Olive
 * Dark Olive
@@ -907,20 +888,20 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 * Cream
 * Ecru
 
-#### Acceptable
+##### Acceptable
 
 * Warm Navy
 * Muted Beige
 * Chocolate Brown
 
-#### Avoid
+##### Avoid
 
 * Bright Blue
 * Cool Grey
 * Neon colours
 * Optical White
 
-#### Why
+##### Why
 
 * Complements a Deep Autumn palette.
 * Reinforces a warm, masculine wardrobe.
@@ -928,37 +909,37 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 
 ---
 
-### Pattern
+#### Pattern
 
-#### Ideal
+##### Ideal
 
 * Solid
 * Fine texture
 * Herringbone
 
-#### Acceptable
+##### Acceptable
 
 * Small checks
 * Windowpane
 * Muted plaid
 
-#### Avoid
+##### Avoid
 
 * Large checks
 * Loud florals
 * High-contrast prints
 * Busy geometric patterns
 
-#### Why
+##### Why
 
 * Texture should provide visual interest before pattern.
 * Maintains versatility across different outfits.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Chinos
 * Dark indigo jeans
@@ -968,12 +949,12 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 * Harrington jackets
 * Suede jackets
 
-### Good
+#### Good
 
 * Dress trousers
 * Chukka boots
 
-### Poor
+#### Poor
 
 * Business suits
 * Tuxedos
@@ -981,7 +962,7 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Prefer textured fabrics over bold patterns.
 * Earth tones should dominate this category.
@@ -990,7 +971,7 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 
 ---
 
-## Avoid
+### Avoid
 
 * Loud branding
 * Skinny fit
@@ -1001,7 +982,7 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -1012,7 +993,7 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 | Colour       |    15% |
 | Pattern      |     5% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -1022,7 +1003,7 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 
 ## 2.4 Linen Shirt
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                                   |
 | ------------ | --------------------------------------- |
@@ -1035,7 +1016,7 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 
 ---
 
-## Role
+### Role
 
 A warm-weather shirt prioritizing breathability, comfort and effortless elegance.
 
@@ -1043,7 +1024,7 @@ Designed for relaxed smart-casual dressing rather than crisp formality.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Summer
 * Vacations
@@ -1055,74 +1036,74 @@ Designed for relaxed smart-casual dressing rather than crisp formality.
 
 ---
 
-### Fit
+#### Fit
 
-#### Ideal
+##### Ideal
 
 * Relaxed Slim
 * Comfortable chest
 * Straight body
 * Full sleeve length (rollable)
 
-#### Acceptable
+##### Acceptable
 
 * Tailored
 
-#### Avoid
+##### Avoid
 
 * Extra Slim
 * Oversized
 * Cropped lengths
 
-#### Why
+##### Why
 
 * Linen needs room to drape naturally.
 * A slightly relaxed silhouette complements the fabric's casual nature.
 
 ---
 
-### Collar
+#### Collar
 
-#### Ideal
+##### Ideal
 
 * Soft Spread
 * Soft Point
 
-#### Acceptable
+##### Acceptable
 
 * Band Collar (summer only)
 
-#### Avoid
+##### Avoid
 
 * Stiff fused collars
 * Button-down collars
 * Extreme cutaways
 
-#### Why
+##### Why
 
 * Soft collars complement linen's relaxed character.
 * Structured collars often look out of place with the fabric.
 
 ---
 
-### Fabric
+#### Fabric
 
-#### Ideal
+##### Ideal
 
 * 100% Linen
 * Heavyweight Linen (where available)
 
-#### Acceptable
+##### Acceptable
 
 * Linen-Cotton Blend (minimum 55% linen)
 
-#### Avoid
+##### Avoid
 
 * Polyester-rich blends
 * Thin transparent linen
 * High-stretch fabrics
 
-#### Why
+##### Why
 
 * Maximum breathability.
 * Beautiful natural texture.
@@ -1131,35 +1112,35 @@ Designed for relaxed smart-casual dressing rather than crisp formality.
 
 ---
 
-### Construction
+#### Construction
 
-#### Ideal
+##### Ideal
 
 * Soft construction
 * Matte buttons
 * Minimal branding
 * Rounded hem
 
-#### Acceptable
+##### Acceptable
 
 * Single chest pocket
 
-#### Avoid
+##### Avoid
 
 * Contrast trims
 * Decorative stitching
 * Heavy branding
 
-#### Why
+##### Why
 
 * Keeps the shirt understated.
 * Allows the fabric to remain the focal point.
 
 ---
 
-### Colours
+#### Colours
 
-#### Ideal
+##### Ideal
 
 * Cream
 * Ecru
@@ -1168,21 +1149,21 @@ Designed for relaxed smart-casual dressing rather than crisp formality.
 * Sand
 * Tobacco
 
-#### Acceptable
+##### Acceptable
 
 * Rust
 * Terracotta
 * Muted Beige
 * Warm White
 
-#### Avoid
+##### Avoid
 
 * Bright Blue
 * Neon
 * Cool Grey
 * Black (for most warm-weather use)
 
-#### Why
+##### Why
 
 * Earthy colours complement linen's natural texture.
 * Harmonises with a Deep Autumn palette.
@@ -1190,32 +1171,32 @@ Designed for relaxed smart-casual dressing rather than crisp formality.
 
 ---
 
-### Pattern
+#### Pattern
 
-#### Ideal
+##### Ideal
 
 * Solid
 
-#### Acceptable
+##### Acceptable
 
 * Very subtle woven texture
 
-#### Avoid
+##### Avoid
 
 * Large checks
 * Loud florals
 * High-contrast prints
 
-#### Why
+##### Why
 
 * Linen already provides visual interest through texture.
 * Bold patterns reduce versatility.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Linen trousers
 * Cream chinos
@@ -1224,11 +1205,11 @@ Designed for relaxed smart-casual dressing rather than crisp formality.
 * Leather sandals
 * Minimal sneakers
 
-### Good
+#### Good
 
 * Dark indigo jeans
 
-### Poor
+#### Poor
 
 * Business suits
 * Tuxedos
@@ -1236,7 +1217,7 @@ Designed for relaxed smart-casual dressing rather than crisp formality.
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Prioritize fabric quality over wrinkle resistance.
 * Natural wrinkling should be embraced rather than avoided.
@@ -1245,7 +1226,7 @@ Designed for relaxed smart-casual dressing rather than crisp formality.
 
 ---
 
-## Avoid
+### Avoid
 
 * Polyester-heavy linen blends
 * Transparent fabric
@@ -1256,7 +1237,7 @@ Designed for relaxed smart-casual dressing rather than crisp formality.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -1267,7 +1248,7 @@ Designed for relaxed smart-casual dressing rather than crisp formality.
 | Construction |    10% |
 | Pattern      |     5% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -1277,7 +1258,7 @@ Designed for relaxed smart-casual dressing rather than crisp formality.
 
 ## 2.5 Flannel Shirt
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                                            |
 | ------------ | ------------------------------------------------ |
@@ -1290,13 +1271,13 @@ Designed for relaxed smart-casual dressing rather than crisp formality.
 
 ---
 
-## Role
+### Role
 
 A cool-weather shirt designed to provide warmth, texture and seasonal depth while maintaining a refined casual appearance.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Autumn
 * Winter
@@ -1308,26 +1289,26 @@ A cool-weather shirt designed to provide warmth, texture and seasonal depth whil
 
 ---
 
-### Fit
+#### Fit
 
-#### Ideal
+##### Ideal
 
 * Relaxed Slim
 * Comfortable chest
 * Clean shoulders
 * Slightly relaxed sleeves
 
-#### Acceptable
+##### Acceptable
 
 * Tailored
 
-#### Avoid
+##### Avoid
 
 * Extra Slim
 * Oversized
 * Boxy silhouettes
 
-#### Why
+##### Why
 
 * Allows comfortable layering.
 * Maintains a masculine silhouette.
@@ -1335,48 +1316,48 @@ A cool-weather shirt designed to provide warmth, texture and seasonal depth whil
 
 ---
 
-### Collar
+#### Collar
 
-#### Ideal
+##### Ideal
 
 * Soft Spread
 * Button-Down
 
-#### Acceptable
+##### Acceptable
 
 * Soft Point
 
-#### Avoid
+##### Avoid
 
 * Stiff fused collars
 * Extreme cutaways
 
-#### Why
+##### Why
 
 * Soft collars suit the relaxed nature of flannel.
 * Button-down collars work particularly well with heavier fabrics.
 
 ---
 
-### Fabric
+#### Fabric
 
-#### Ideal
+##### Ideal
 
 * 100% Cotton Brushed Flannel
 * Medium Weight
 
-#### Acceptable
+##### Acceptable
 
 * Heavyweight Flannel
 * Cotton-Wool Blend
 
-#### Avoid
+##### Avoid
 
 * Polyester-rich blends
 * Thin "fashion flannel"
 * High-stretch fabrics
 
-#### Why
+##### Why
 
 * Better warmth.
 * Better texture.
@@ -1385,35 +1366,35 @@ A cool-weather shirt designed to provide warmth, texture and seasonal depth whil
 
 ---
 
-### Construction
+#### Construction
 
-#### Ideal
+##### Ideal
 
 * Soft construction
 * Matte buttons
 * Minimal branding
 * Rounded hem
 
-#### Acceptable
+##### Acceptable
 
 * Single chest pocket
 
-#### Avoid
+##### Avoid
 
 * Decorative stitching
 * Contrast trims
 * Heavy branding
 
-#### Why
+##### Why
 
 * Keeps the shirt timeless.
 * Lets the fabric remain the focus.
 
 ---
 
-### Colours
+#### Colours
 
-#### Ideal
+##### Ideal
 
 * Olive
 * Forest Green
@@ -1422,53 +1403,53 @@ A cool-weather shirt designed to provide warmth, texture and seasonal depth whil
 * Rust
 * Cream
 
-#### Acceptable
+##### Acceptable
 
 * Burgundy
 * Charcoal Brown
 * Warm Navy
 
-#### Avoid
+##### Avoid
 
 * Bright Red
 * Bright Blue
 * Cool Grey
 * Neon colours
 
-#### Why
+##### Why
 
 * Rich earthy tones enhance the seasonal character.
 * Strong compatibility with a Deep Autumn palette.
 
 ---
 
-### Pattern
+#### Pattern
 
-#### Ideal
+##### Ideal
 
 * Solid
 * Muted Plaid
 * Windowpane
 
-#### Acceptable
+##### Acceptable
 
 * Large tonal check
 
-#### Avoid
+##### Avoid
 
 * Buffalo check in bright colours
 * Loud tartans
 * High-contrast patterns
 
-#### Why
+##### Why
 
 * Pattern should support texture rather than dominate it.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Dark indigo jeans
 * Olive chinos
@@ -1477,12 +1458,12 @@ A cool-weather shirt designed to provide warmth, texture and seasonal depth whil
 * Harrington jackets
 * Field jackets
 
-### Good
+#### Good
 
 * Cream chinos
 * Minimal leather sneakers
 
-### Poor
+#### Poor
 
 * Business suits
 * Formal office wear
@@ -1490,7 +1471,7 @@ A cool-weather shirt designed to provide warmth, texture and seasonal depth whil
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Prioritize fabric quality over pattern.
 * Muted plaids are preferable to bold lumberjack styling.
@@ -1499,7 +1480,7 @@ A cool-weather shirt designed to provide warmth, texture and seasonal depth whil
 
 ---
 
-## Avoid
+### Avoid
 
 * Polyester-heavy fabric
 * Loud buffalo checks
@@ -1510,7 +1491,7 @@ A cool-weather shirt designed to provide warmth, texture and seasonal depth whil
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -1521,7 +1502,7 @@ A cool-weather shirt designed to provide warmth, texture and seasonal depth whil
 | Collar       |    10% |
 | Construction |     5% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -1531,7 +1512,7 @@ A cool-weather shirt designed to provide warmth, texture and seasonal depth whil
 
 ## 2.6 Chambray Shirt
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                      |
 | ------------ | -------------------------- |
@@ -1544,13 +1525,13 @@ A cool-weather shirt designed to provide warmth, texture and seasonal depth whil
 
 ---
 
-## Role
+### Role
 
 A lightweight casual shirt offering the visual character of denim with greater versatility and comfort.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Weekends
 * Casual office
@@ -1560,69 +1541,69 @@ A lightweight casual shirt offering the visual character of denim with greater v
 
 ---
 
-### Fit
+#### Fit
 
-#### Ideal
+##### Ideal
 
 * Relaxed Slim
 * Clean shoulders
 * Comfortable chest
 
-#### Avoid
+##### Avoid
 
 * Extra Slim
 * Oversized
 
-#### Why
+##### Why
 
 Maintains a relaxed but refined silhouette.
 
 ---
 
-### Fabric
+#### Fabric
 
-#### Ideal
+##### Ideal
 
 * 100% Cotton Chambray
 * Medium weight
 
-#### Avoid
+##### Avoid
 
 * Denim marketed as chambray
 * Polyester blends
 
-#### Why
+##### Why
 
 Chambray should remain lightweight, breathable and easy to layer.
 
 ---
 
-### Colours
+#### Colours
 
-#### Ideal
+##### Ideal
 
 * Mid Blue
 * Light Blue
 
-#### Acceptable
+##### Acceptable
 
 * Faded Indigo
 
-#### Avoid
+##### Avoid
 
 * Very dark indigo
 * Black
 * Fashion washes
 
-#### Why
+##### Why
 
 Lighter shades maximise versatility while distinguishing chambray from denim.
 
 ---
 
-### Outfit Compatibility
+#### Outfit Compatibility
 
-#### Excellent
+##### Excellent
 
 * Olive chinos
 * Cream chinos
@@ -1630,21 +1611,21 @@ Lighter shades maximise versatility while distinguishing chambray from denim.
 * White sneakers
 * Brown loafers
 
-#### Poor
+##### Poor
 
 * Formal suits
 * Black tie
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Prioritize authentic chambray over lightweight denim.
 * Works best as a relaxed smart-casual piece.
 
 ---
 
-## Avoid
+### Avoid
 
 * Heavy contrast stitching
 * Distressing
@@ -1652,7 +1633,7 @@ Lighter shades maximise versatility while distinguishing chambray from denim.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -1662,7 +1643,7 @@ Lighter shades maximise versatility while distinguishing chambray from denim.
 | Construction |    15% |
 | Details      |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -1674,7 +1655,7 @@ Lighter shades maximise versatility while distinguishing chambray from denim.
 
 ## 2.7 Denim Shirt
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                        |
 | ------------ | ---------------------------- |
@@ -1687,7 +1668,7 @@ Lighter shades maximise versatility while distinguishing chambray from denim.
 
 ---
 
-## Role
+### Role
 
 A rugged casual shirt providing visual weight and texture.
 
@@ -1695,7 +1676,7 @@ Should be used sparingly to avoid excessive workwear influence.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Casual weekends
 * Layering
@@ -1704,94 +1685,94 @@ Should be used sparingly to avoid excessive workwear influence.
 
 ---
 
-### Fit
+#### Fit
 
-#### Ideal
+##### Ideal
 
 * Relaxed Slim
 * Comfortable layering fit
 
-#### Avoid
+##### Avoid
 
 * Skinny
 * Oversized
 
-#### Why
+##### Why
 
 Balances ruggedness with refinement.
 
 ---
 
-### Fabric
+#### Fabric
 
-#### Ideal
+##### Ideal
 
 * Mid-weight denim
 * 100% Cotton
 
-#### Avoid
+##### Avoid
 
 * Stretch denim
 * Heavy washes
 * Distressing
 
-#### Why
+##### Why
 
 Natural denim develops character over time and ages well.
 
 ---
 
-### Colours
+#### Colours
 
-#### Ideal
+##### Ideal
 
 * Mid Indigo
 * Dark Indigo
 
-#### Acceptable
+##### Acceptable
 
 * Rinse wash
 
-#### Avoid
+##### Avoid
 
 * Acid wash
 * Light distressed blue
 * Black denim
 
-#### Why
+##### Why
 
 Clean indigo denim is significantly more versatile.
 
 ---
 
-### Outfit Compatibility
+#### Outfit Compatibility
 
-#### Excellent
+##### Excellent
 
 * Olive chinos
 * Cream chinos
 * Brown boots
 * White sneakers
 
-#### Good
+##### Good
 
 * Dark trousers (with sufficient contrast)
 
-#### Poor
+##### Poor
 
 * Matching denim jeans
 * Business tailoring
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * One denim garment per outfit is usually enough.
 * Keep styling clean to avoid looking overly rugged.
 
 ---
 
-## Avoid
+### Avoid
 
 * Distressing
 * Heavy fading
@@ -1802,7 +1783,7 @@ Clean indigo denim is significantly more versatile.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -1812,7 +1793,7 @@ Clean indigo denim is significantly more versatile.
 | Construction |    15% |
 | Details      |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -1879,7 +1860,7 @@ Corduroy Trousers
 
 ## 3.1 Dress Trousers
 
-## Quick Spec
+#### Quick Spec
 
 | Category     | Ideal                                    |
 | ------------ | ---------------------------------------- |
@@ -1894,7 +1875,7 @@ Corduroy Trousers
 
 ---
 
-## Role
+#### Role
 
 The foundation trouser for business, tailoring and formal dressing.
 
@@ -1902,7 +1883,7 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ---
 
-## When I Need It
+#### When I Need It
 
 * Formal office
 * Business meetings
@@ -1913,22 +1894,22 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ---
 
-## Rise
+#### Rise
 
-### Ideal
+##### Ideal
 
 * Mid Rise
 * Slightly High Rise
 
-### Acceptable
+##### Acceptable
 
 * True Mid Rise
 
-### Avoid
+##### Avoid
 
 * Low Rise
 
-### Why
+##### Why
 
 * Improves leg proportions.
 * Creates a cleaner silhouette.
@@ -1937,99 +1918,99 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ---
 
-## Fit
+#### Fit
 
-### Ideal
+##### Ideal
 
 * Tailored
 * Relaxed Slim
 * Clean seat
 * Comfortable thigh
 
-### Acceptable
+##### Acceptable
 
 * Straight Fit
 
-### Avoid
+##### Avoid
 
 * Skinny
 * Baggy
 * Oversized
 
-### Why
+##### Why
 
 * Creates clean lines without restricting movement.
 * Flatters a slim build without exaggerating thinness.
 
 ---
 
-## Leg Shape
+#### Leg Shape
 
-### Ideal
+##### Ideal
 
 * Straight
 * Gentle taper below the knee
 
-### Acceptable
+##### Acceptable
 
 * Classic straight
 
-### Avoid
+##### Avoid
 
 * Aggressive taper
 * Wide leg
 * Balloon fit
 
-### Why
+##### Why
 
 * Balances the upper and lower body.
 * Remains timeless across changing trends.
 
 ---
 
-## Hem & Break
+#### Hem & Break
 
-### Ideal
+##### Ideal
 
 * No Break
 * Slight Break
 
-### Acceptable
+##### Acceptable
 
 * Quarter Break
 
-### Avoid
+##### Avoid
 
 * Heavy stacking
 * Full Break
 * Cropped lengths
 
-### Why
+##### Why
 
 * Produces a cleaner, more refined silhouette.
 * Keeps attention on the overall outfit rather than excess fabric.
 
 ---
 
-## Fabric
+#### Fabric
 
-### Ideal
+##### Ideal
 
 * 100% Wool
 * Tropical Wool
 * Wool Blend (high wool content)
 
-### Acceptable
+##### Acceptable
 
 * Wool-Poly Blend (quality focused)
 
-### Avoid
+##### Avoid
 
 * Polyester-dominant fabrics
 * Shiny fabrics
 * Thin synthetic materials
 
-### Why
+##### Why
 
 * Superior drape.
 * Better longevity.
@@ -2038,9 +2019,9 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ---
 
-## Construction
+#### Construction
 
-### Ideal
+##### Ideal
 
 * Flat Front
 * Clean waistband
@@ -2048,43 +2029,43 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 * Quality stitching
 * Side adjusters (optional)
 
-### Acceptable
+##### Acceptable
 
 * Single pleat (if well executed)
 
-### Avoid
+##### Avoid
 
 * Cargo pockets
 * Decorative hardware
 * Excessive branding
 
-### Why
+##### Why
 
 * Simplicity improves versatility.
 * Clean construction keeps the focus on silhouette.
 
 ---
 
-## Colours
+#### Colours
 
-### Ideal
+##### Ideal
 
 * Charcoal
 * Dark Grey
 * Warm Navy
 
-### Acceptable
+##### Acceptable
 
 * Mid Grey
 * Chocolate Brown
 
-### Avoid
+##### Avoid
 
 * Bright colours
 * Cool light grey
 * Loud patterns
 
-### Why
+##### Why
 
 * Easy integration with tailoring.
 * Timeless and versatile.
@@ -2092,33 +2073,33 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ---
 
-## Pattern
+#### Pattern
 
-### Ideal
+##### Ideal
 
 * Solid
 * Fine texture
 
-### Acceptable
+##### Acceptable
 
 * Subtle pinstripe
 * Birdseye
 
-### Avoid
+##### Avoid
 
 * Bold checks
 * High-contrast patterns
 
-### Why
+##### Why
 
 * Keeps the trousers versatile.
 * Allows jackets and shirts to provide visual interest.
 
 ---
 
-## Outfit Compatibility
+#### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * Formal Shirts
 * Blazers
@@ -2126,12 +2107,12 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 * Derby Shoes
 * Oxford Shoes
 
-### Good
+##### Good
 
 * Fine Knitwear
 * OCBDs (business casual)
 
-### Poor
+##### Poor
 
 * Graphic T-shirts
 * Hoodies
@@ -2139,7 +2120,7 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ---
 
-## Personal Notes
+#### Personal Notes
 
 * Prioritize rise and drape over brand.
 * A clean silhouette is more valuable than trend-driven details.
@@ -2148,7 +2129,7 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ---
 
-## Avoid
+#### Avoid
 
 * Low rise
 * Skinny fit
@@ -2159,7 +2140,7 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ---
 
-## Evaluation Checklist
+#### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -2171,7 +2152,7 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 | Colour       |    10% |
 | Pattern      |     5% |
 
-### Verdict
+##### Verdict
 
 □ Buy
 
@@ -2181,7 +2162,7 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ## 3.2 Chinos
 
-## Quick Spec
+#### Quick Spec
 
 | Category     | Ideal                                       |
 | ------------ | ------------------------------------------- |
@@ -2196,7 +2177,7 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ---
 
-## Role
+#### Role
 
 The foundation trouser of the smart-casual wardrobe.
 
@@ -2204,7 +2185,7 @@ Bridges casual and refined dressing while offering maximum versatility.
 
 ---
 
-## When I Need It
+#### When I Need It
 
 * Smart casual office
 * Casual Friday
@@ -2216,21 +2197,21 @@ Bridges casual and refined dressing while offering maximum versatility.
 
 ---
 
-## Rise
+#### Rise
 
-### Ideal
+##### Ideal
 
 * Mid Rise
 
-### Acceptable
+##### Acceptable
 
 * Slightly High Rise
 
-### Avoid
+##### Avoid
 
 * Low Rise
 
-### Why
+##### Why
 
 * Improves leg proportions.
 * Creates a masculine silhouette.
@@ -2238,96 +2219,96 @@ Bridges casual and refined dressing while offering maximum versatility.
 
 ---
 
-## Fit
+#### Fit
 
-### Ideal
+##### Ideal
 
 * Relaxed Slim
 * Comfortable seat
 * Comfortable thigh
 
-### Acceptable
+##### Acceptable
 
 * Straight Fit
 
-### Avoid
+##### Avoid
 
 * Skinny
 * Oversized
 * Baggy
 
-### Why
+##### Why
 
 * Prevents the lower body from appearing too narrow.
 * Works well across casual and smart-casual outfits.
 
 ---
 
-## Leg Shape
+#### Leg Shape
 
-### Ideal
+##### Ideal
 
 * Straight
 * Gentle taper below the knee
 
-### Acceptable
+##### Acceptable
 
 * Straight
 
-### Avoid
+##### Avoid
 
 * Aggressive taper
 * Wide leg
 * Balloon fit
 
-### Why
+##### Why
 
 * Creates clean proportions.
 * Remains timeless.
 
 ---
 
-## Hem & Break
+#### Hem & Break
 
-### Ideal
+##### Ideal
 
 * No Break
 * Slight Break
 
-### Acceptable
+##### Acceptable
 
 * Quarter Break
 
-### Avoid
+##### Avoid
 
 * Heavy stacking
 * Cropped hems
 
-### Why
+##### Why
 
 * Produces a cleaner silhouette.
 * Improves versatility across footwear.
 
 ---
 
-## Fabric
+#### Fabric
 
-### Ideal
+##### Ideal
 
 * Medium-weight Cotton Twill
 * 98–100% Cotton
 
-### Acceptable
+##### Acceptable
 
 * Cotton with 2% Elastane
 
-### Avoid
+##### Avoid
 
 * Polyester-rich blends
 * Thin fabrics
 * Shiny finishes
 
-### Why
+##### Why
 
 * Better structure.
 * Better durability.
@@ -2336,36 +2317,36 @@ Bridges casual and refined dressing while offering maximum versatility.
 
 ---
 
-## Construction
+#### Construction
 
-### Ideal
+##### Ideal
 
 * Flat Front
 * Matte hardware
 * Clean stitching
 * Minimal branding
 
-### Acceptable
+##### Acceptable
 
 * Coin pocket
 
-### Avoid
+##### Avoid
 
 * Cargo pockets
 * Decorative zippers
 * Elastic cuffs
 * Jogger styling
 
-### Why
+##### Why
 
 * Keeps chinos timeless.
 * Maximizes outfit compatibility.
 
 ---
 
-## Colours
+#### Colours
 
-### Ideal
+##### Ideal
 
 * Olive
 * Dark Olive
@@ -2373,50 +2354,50 @@ Bridges casual and refined dressing while offering maximum versatility.
 * Cream
 * Ecru
 
-### Acceptable
+##### Acceptable
 
 * Stone
 * Warm Navy
 * Chocolate Brown
 
-### Avoid
+##### Avoid
 
 * Bright Khaki
 * Cool Grey
 * Bright Blue
 * Pure White
 
-### Why
+##### Why
 
 * Earth tones maximise compatibility with a Deep Autumn palette.
 * Forms the foundation of a cohesive wardrobe.
 
 ---
 
-## Pattern
+#### Pattern
 
-### Ideal
+##### Ideal
 
 * Solid
 
-### Acceptable
+##### Acceptable
 
 * Subtle woven texture
 
-### Avoid
+##### Avoid
 
 * Prints
 * Loud patterns
 
-### Why
+##### Why
 
 * Chinos should be versatile foundation pieces.
 
 ---
 
-## Outfit Compatibility
+#### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * Formal Shirts
 * OCBDs
@@ -2429,19 +2410,19 @@ Bridges casual and refined dressing while offering maximum versatility.
 * Harrington Jackets
 * Overshirts
 
-### Good
+##### Good
 
 * Knitwear
 * Desert Boots
 
-### Poor
+##### Poor
 
 * Tuxedos
 * Black Tie
 
 ---
 
-## Personal Notes
+#### Personal Notes
 
 * One of the highest-value garments in the wardrobe.
 * Prioritize fit over colour.
@@ -2451,7 +2432,7 @@ Bridges casual and refined dressing while offering maximum versatility.
 
 ---
 
-## Avoid
+#### Avoid
 
 * Low rise
 * Skinny fit
@@ -2463,7 +2444,7 @@ Bridges casual and refined dressing while offering maximum versatility.
 
 ---
 
-## Evaluation Checklist
+#### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -2475,7 +2456,7 @@ Bridges casual and refined dressing while offering maximum versatility.
 | Colour       |    10% |
 | Pattern      |     5% |
 
-### Verdict
+##### Verdict
 
 □ Buy
 
@@ -2484,9 +2465,9 @@ Bridges casual and refined dressing while offering maximum versatility.
 □ Skip
 
 
-# 3.3 Jeans
+## 3.3 Jeans
 
-## Quick Spec
+#### Quick Spec
 
 | Category     | Ideal                              |
 | ------------ | ---------------------------------- |
@@ -2501,7 +2482,7 @@ Bridges casual and refined dressing while offering maximum versatility.
 
 ---
 
-## Role
+#### Role
 
 The foundation casual trouser of the wardrobe.
 
@@ -2509,7 +2490,7 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-## When I Need It
+#### When I Need It
 
 * Weekends
 * Casual Friday
@@ -2520,23 +2501,23 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-# Design Specification
+### Design Specification
 
-## Rise
+#### Rise
 
-### Ideal
+##### Ideal
 
 * Mid Rise
 
-### Acceptable
+##### Acceptable
 
 * Slightly High Rise
 
-### Avoid
+##### Avoid
 
 * Low Rise
 
-### Why
+##### Why
 
 * Creates balanced proportions.
 * Improves silhouette.
@@ -2544,26 +2525,26 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-## Fit
+#### Fit
 
-### Ideal
+##### Ideal
 
 * Relaxed Slim
 * Comfortable seat
 * Comfortable thigh
 
-### Acceptable
+##### Acceptable
 
 * Straight Fit
 
-### Avoid
+##### Avoid
 
 * Skinny
 * Spray-on
 * Oversized
 * Baggy
 
-### Why
+##### Why
 
 * Creates a masculine silhouette.
 * Doesn't exaggerate a slim frame.
@@ -2571,24 +2552,24 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-## Leg Shape
+#### Leg Shape
 
-### Ideal
+##### Ideal
 
 * Straight
 * Gentle taper below the knee
 
-### Acceptable
+##### Acceptable
 
 * Straight
 
-### Avoid
+##### Avoid
 
 * Aggressive taper
 * Wide leg
 * Stacked skinny fits
 
-### Why
+##### Why
 
 * Improves visual balance.
 * Pairs well with both sneakers and loafers.
@@ -2596,47 +2577,47 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-## Hem & Break
+#### Hem & Break
 
-### Ideal
+##### Ideal
 
 * No Break
 * Slight Break
 
-### Acceptable
+##### Acceptable
 
 * Quarter Break
 
-### Avoid
+##### Avoid
 
 * Heavy stacking
 * Cropped hems
 
-### Why
+##### Why
 
 * Creates a cleaner silhouette.
 * Maintains versatility across footwear.
 
 ---
 
-## Fabric
+#### Fabric
 
-### Ideal
+##### Ideal
 
 * 100% Cotton Denim
 * 98–99% Cotton with 1–2% Elastane
 
-### Acceptable
+##### Acceptable
 
 * Mid-weight Stretch Denim
 
-### Avoid
+##### Avoid
 
 * Polyester-rich blends
 * Lightweight fashion denim
 * Very stretchy denim
 
-### Why
+##### Why
 
 * Better structure.
 * Better ageing.
@@ -2645,45 +2626,45 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-## Construction
+#### Construction
 
-### Ideal
+##### Ideal
 
 * Traditional 5-pocket construction
 * Minimal branding
 * Clean stitching
 * Matte hardware
 
-### Acceptable
+##### Acceptable
 
 * Tonal stitching
 
-### Avoid
+##### Avoid
 
 * Decorative embroidery
 * Contrast stitching
 * Large back-pocket designs
 * Excessive branding
 
-### Why
+##### Why
 
 * Keeps the jeans versatile.
 * Allows them to pair with both casual and smart-casual outfits.
 
 ---
 
-## Colour
+#### Colour
 
-### Ideal
+##### Ideal
 
 * Dark Indigo
 * Rinse Wash
 
-### Acceptable
+##### Acceptable
 
 * Mid Indigo (clean wash)
 
-### Avoid
+##### Avoid
 
 * Heavy fading
 * Whiskering
@@ -2693,7 +2674,7 @@ Provides durability, versatility and visual structure while remaining appropriat
 * Black (for this wardrobe)
 * Very light wash
 
-### Why
+##### Why
 
 * Dark indigo offers the greatest versatility.
 * Clean washes appear more refined.
@@ -2702,19 +2683,19 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-## Details
+#### Details
 
-### Ideal
+##### Ideal
 
 * Clean finish
 * Leather patch
 * Minimal hardware
 
-### Acceptable
+##### Acceptable
 
 * Tonal branding
 
-### Avoid
+##### Avoid
 
 * Distressed hems
 * Patchwork
@@ -2722,15 +2703,15 @@ Provides durability, versatility and visual structure while remaining appropriat
 * Decorative rivets
 * Excessive fading
 
-### Why
+##### Why
 
 * Denim should develop character naturally through wear rather than factory treatments.
 
 ---
 
-## Outfit Compatibility
+#### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * OCBDs
 * Casual Button-Downs
@@ -2743,12 +2724,12 @@ Provides durability, versatility and visual structure while remaining appropriat
 * Minimal Leather Sneakers
 * Brown Loafers
 
-### Good
+##### Good
 
 * Knitwear
 * Suede Boots
 
-### Poor
+##### Poor
 
 * Business Suits
 * Black Tie
@@ -2756,7 +2737,7 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-## Personal Notes
+#### Personal Notes
 
 * One of the highest-value garments in the wardrobe.
 * Prioritize fit over brand.
@@ -2766,7 +2747,7 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-## Avoid
+#### Avoid
 
 * Low rise
 * Skinny fit
@@ -2779,7 +2760,7 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-## Evaluation Checklist
+#### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -2790,7 +2771,7 @@ Provides durability, versatility and visual structure while remaining appropriat
 | Construction |    10% |
 | Colour/Wash  |    15% |
 
-### Verdict
+##### Verdict
 
 □ Buy
 
@@ -2799,9 +2780,9 @@ Provides durability, versatility and visual structure while remaining appropriat
 □ Skip
 
 
-# 3.4 Linen Trousers
+## 3.4 Linen Trousers
 
-## Quick Spec
+#### Quick Spec
 
 | Category     | Ideal                            |
 | ------------ | -------------------------------- |
@@ -2816,13 +2797,13 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-## Role
+#### Role
 
 Warm-weather trouser prioritizing comfort and breathability.
 
 ---
 
-## When I Need It
+#### When I Need It
 
 * Summer
 * Vacations
@@ -2832,9 +2813,9 @@ Warm-weather trouser prioritizing comfort and breathability.
 
 ---
 
-## Design Specification
+#### Design Specification
 
-### Rise
+##### Rise
 
 **Ideal**
 
@@ -2850,7 +2831,7 @@ Maintains balanced proportions.
 
 ---
 
-### Fit
+##### Fit
 
 **Ideal**
 
@@ -2871,7 +2852,7 @@ Linen should drape naturally rather than cling.
 
 ---
 
-### Fabric
+##### Fabric
 
 **Ideal**
 
@@ -2891,7 +2872,7 @@ Natural drape and breathability are the defining strengths of linen.
 
 ---
 
-### Colours
+##### Colours
 
 **Ideal**
 
@@ -2916,30 +2897,30 @@ Light earthy colours reinforce linen's relaxed character.
 
 ---
 
-## Outfit Compatibility
+#### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * Linen Shirts
 * OCBDs
 * Loafers
 * Leather Sandals
 
-### Poor
+##### Poor
 
 * Heavy boots
 * Formal tailoring
 
 ---
 
-## Personal Notes
+#### Personal Notes
 
 * Embrace natural wrinkling.
 * Prioritize drape over wrinkle resistance.
 
 ---
 
-## Avoid
+#### Avoid
 
 * Skinny fit
 * Polyester-rich fabric
@@ -2947,7 +2928,7 @@ Light earthy colours reinforce linen's relaxed character.
 
 ---
 
-## Evaluation Checklist
+#### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -2957,7 +2938,7 @@ Light earthy colours reinforce linen's relaxed character.
 | Colour       |    15% |
 | Construction |    10% |
 
-### Verdict
+##### Verdict
 
 □ Buy
 
@@ -2967,9 +2948,9 @@ Light earthy colours reinforce linen's relaxed character.
 
 ---
 
-# 3.5 Corduroy Trousers
+## 3.5 Corduroy Trousers
 
-## Quick Spec
+#### Quick Spec
 
 | Category  | Ideal                                   |
 | --------- | --------------------------------------- |
@@ -2982,13 +2963,13 @@ Light earthy colours reinforce linen's relaxed character.
 
 ---
 
-## Role
+#### Role
 
 Cool-weather trouser adding warmth and texture.
 
 ---
 
-## When I Need It
+#### When I Need It
 
 * Autumn
 * Winter
@@ -2997,15 +2978,15 @@ Cool-weather trouser adding warmth and texture.
 
 ---
 
-## Design Specification
+#### Design Specification
 
-### Fit
+##### Fit
 
 **Ideal**
 
 * Relaxed Slim
 
-### Fabric
+##### Fabric
 
 **Ideal**
 
@@ -3016,7 +2997,7 @@ Cool-weather trouser adding warmth and texture.
 * Very wide wale
 * Thin synthetic corduroy
 
-### Colours
+##### Colours
 
 **Ideal**
 
@@ -3029,15 +3010,15 @@ Cool-weather trouser adding warmth and texture.
 
 * Bright colours
 
-### Why
+##### Why
 
 Corduroy should provide texture without becoming the focal point.
 
 ---
 
-## Outfit Compatibility
+#### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * Flannel Shirts
 * OCBDs
@@ -3045,20 +3026,20 @@ Corduroy should provide texture without becoming the focal point.
 * Boots
 * Loafers
 
-### Poor
+##### Poor
 
 * Business suits
 * Black tie
 
 ---
 
-## Personal Notes
+#### Personal Notes
 
 * Medium wale offers the best balance between refinement and texture.
 
 ---
 
-## Avoid
+#### Avoid
 
 * Skinny fit
 * Bright colours
@@ -3066,7 +3047,7 @@ Corduroy should provide texture without becoming the focal point.
 
 ---
 
-## Evaluation Checklist
+#### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -3076,7 +3057,7 @@ Corduroy should provide texture without becoming the focal point.
 | Rise         |    15% |
 | Construction |    10% |
 
-### Verdict
+##### Verdict
 
 □ Buy
 
@@ -3086,9 +3067,9 @@ Corduroy should provide texture without becoming the focal point.
 
 ---
 
-# 3.6 Shorts
+## 3.6 Shorts
 
-## Quick Spec
+#### Quick Spec
 
 | Category | Ideal                        |
 | -------- | ---------------------------- |
@@ -3101,7 +3082,7 @@ Corduroy should provide texture without becoming the focal point.
 
 ---
 
-## Role
+#### Role
 
 Hot-weather casual garment.
 
@@ -3109,7 +3090,7 @@ Comfort should never compromise refinement.
 
 ---
 
-## When I Need It
+#### When I Need It
 
 * Casual weekends
 * Travel
@@ -3118,9 +3099,9 @@ Comfort should never compromise refinement.
 
 ---
 
-## Design Specification
+#### Design Specification
 
-### Fit
+##### Fit
 
 **Ideal**
 
@@ -3131,7 +3112,7 @@ Comfort should never compromise refinement.
 * Skinny
 * Oversized
 
-### Length
+##### Length
 
 **Ideal**
 
@@ -3142,7 +3123,7 @@ Comfort should never compromise refinement.
 * Below-knee
 * Very short athletic cuts
 
-### Fabric
+##### Fabric
 
 **Ideal**
 
@@ -3154,7 +3135,7 @@ Comfort should never compromise refinement.
 * Polyester
 * Shiny athletic fabric (unless intended for sport)
 
-### Colours
+##### Colours
 
 **Ideal**
 
@@ -3174,15 +3155,15 @@ Comfort should never compromise refinement.
 * Loud prints
 * Camouflage
 
-### Why
+##### Why
 
 Well-proportioned shorts maintain visual balance while remaining versatile.
 
 ---
 
-## Outfit Compatibility
+#### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * Linen Shirts
 * Casual Button-Downs
@@ -3191,7 +3172,7 @@ Well-proportioned shorts maintain visual balance while remaining versatile.
 * Minimal Sneakers
 * Leather Sandals
 
-### Poor
+##### Poor
 
 * Formal Shirts
 * Blazers
@@ -3199,14 +3180,14 @@ Well-proportioned shorts maintain visual balance while remaining versatile.
 
 ---
 
-## Personal Notes
+#### Personal Notes
 
 * Keep shorts clean and understated.
 * Avoid turning them into statement pieces.
 
 ---
 
-## Avoid
+#### Avoid
 
 * Cargo shorts
 * Distressing
@@ -3216,7 +3197,7 @@ Well-proportioned shorts maintain visual balance while remaining versatile.
 
 ---
 
-## Evaluation Checklist
+#### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -3226,7 +3207,7 @@ Well-proportioned shorts maintain visual balance while remaining versatile.
 | Colour       |    15% |
 | Construction |    15% |
 
-### Verdict
+##### Verdict
 
 □ Buy
 
@@ -3276,9 +3257,9 @@ Examples:
 - Quarter-Zips
 - Cardigans
 
-# 4.1 Polo Shirt
+## 4.1 Polo Shirt
 
-## Quick Spec
+### Quick Spec
 
 | Category         | Ideal                                                            |
 | ---------------- | ---------------------------------------------------------------- |
@@ -3291,7 +3272,7 @@ Examples:
 
 ---
 
-## Role
+### Role
 
 A versatile smart-casual foundation that bridges the gap between T-shirts and button-down shirts.
 
@@ -3299,7 +3280,7 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Smart casual office
 * Casual Friday
@@ -3311,11 +3292,11 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 
 ---
 
-# Design Specification
+### Design Specification
 
-## Fit
+#### Fit
 
-### Ideal
+##### Ideal
 
 * Relaxed Slim
 * Clean shoulders
@@ -3323,17 +3304,17 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 * Gentle waist suppression
 * Sleeve ends around mid-bicep
 
-### Acceptable
+##### Acceptable
 
 * Tailored
 
-### Avoid
+##### Avoid
 
 * Extra Slim
 * Oversized
 * Long, loose sleeves
 
-### Why
+##### Why
 
 * Creates a masculine silhouette.
 * Prevents the polo from looking either sloppy or restrictive.
@@ -3341,20 +3322,20 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 
 ---
 
-## Collar & Placket
+#### Collar & Placket
 
-### Ideal
+##### Ideal
 
 * Structured collar that holds its shape
 * Medium collar size
 * 2-button placket
 * Clean placket construction
 
-### Acceptable
+##### Acceptable
 
 * 3-button placket
 
-### Avoid
+##### Avoid
 
 * Soft collapsing collars
 * Tiny collars
@@ -3362,7 +3343,7 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 * Deep plackets
 * Contrast collars
 
-### Why
+##### Why
 
 * The collar defines the appearance of a polo.
 * A structured collar maintains a refined look throughout the day.
@@ -3370,24 +3351,24 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 
 ---
 
-## Fabric
+#### Fabric
 
-### Ideal
+##### Ideal
 
 * 100% Cotton Piqué
 * Textured Cotton Knit
 
-### Acceptable
+##### Acceptable
 
 * Cotton Blend (minimal synthetic content)
 
-### Avoid
+##### Avoid
 
 * Polyester-rich blends
 * Thin jersey fabric (T-shirt style)
 * High-shine materials
 
-### Why
+##### Why
 
 * Piqué provides breathability and subtle texture.
 * Structured fabrics maintain shape better over time.
@@ -3395,9 +3376,9 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 
 ---
 
-## Construction
+#### Construction
 
-### Ideal
+##### Ideal
 
 * Medium structure
 * Ribbed sleeve cuffs
@@ -3405,27 +3386,27 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 * Minimal branding
 * Quality stitching
 
-### Acceptable
+##### Acceptable
 
 * Side vents
 
-### Avoid
+##### Avoid
 
 * Large embroidered logos
 * Contrast trims
 * Decorative piping
 * Heavy branding
 
-### Why
+##### Why
 
 * Keeps the polo timeless and versatile.
 * Allows the fit and fabric to remain the focus.
 
 ---
 
-## Colours
+#### Colours
 
-### Ideal
+##### Ideal
 
 * Olive
 * Dark Olive
@@ -3435,13 +3416,13 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 * Ecru
 * Warm Navy
 
-### Acceptable
+##### Acceptable
 
 * Rust
 * Terracotta
 * Chocolate Brown
 
-### Avoid
+##### Avoid
 
 * Bright Blue
 * Neon
@@ -3449,41 +3430,41 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 * Optical White
 * Large colour blocking
 
-### Why
+##### Why
 
 * Earthy tones strengthen a Deep Autumn wardrobe.
 * Neutral colours maximize outfit compatibility.
 
 ---
 
-## Pattern
+#### Pattern
 
-### Ideal
+##### Ideal
 
 * Solid
 
-### Acceptable
+##### Acceptable
 
 * Fine texture
 * Melange knit
 
-### Avoid
+##### Avoid
 
 * Bold stripes
 * Large logos
 * Graphic prints
 * High-contrast colour blocking
 
-### Why
+##### Why
 
 * The polo should be a versatile foundation piece.
 * Texture should provide visual interest instead of loud patterns.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * Chinos
 * Dark Indigo Jeans
@@ -3493,12 +3474,12 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 * Harrington Jackets
 * Overshirts
 
-### Good
+##### Good
 
 * Shorts
 * Crewneck Sweaters (layered)
 
-### Poor
+##### Poor
 
 * Business Suits
 * Black Tie
@@ -3506,7 +3487,7 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * One of the highest-value garments in the wardrobe.
 * Prioritize collar quality over brand.
@@ -3515,7 +3496,7 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 
 ---
 
-## Avoid
+##### Avoid
 
 * Large chest logos
 * Skinny fit
@@ -3527,7 +3508,7 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute        | Weight |
 | ---------------- | -----: |
@@ -3538,7 +3519,7 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 | Colour           |    10% |
 | Pattern          |     5% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -3546,9 +3527,9 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 
 □ Skip
 
-# 4.2 Knit Polo
+## 4.2 Knit Polo
 
-## Quick Spec
+### Quick Spec
 
 | Category         | Ideal                                                            |
 | ---------------- | ---------------------------------------------------------------- |
@@ -3561,7 +3542,7 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 
 ---
 
-## Role
+### Role
 
 An elevated smart-casual foundation that offers more elegance than a standard polo while remaining relaxed and approachable.
 
@@ -3569,7 +3550,7 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Date nights
 * Smart casual office
@@ -3580,11 +3561,11 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 
 ---
 
-# Design Specification
+### Design Specification
 
-## Fit
+#### Fit
 
-### Ideal
+##### Ideal
 
 * Relaxed Slim
 * Clean shoulders
@@ -3592,67 +3573,67 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 * Gentle waist suppression
 * Ribbed hem sitting near the hips
 
-### Acceptable
+##### Acceptable
 
 * Tailored
 
-### Avoid
+##### Avoid
 
 * Extra Slim
 * Oversized
 * Long body length
 
-### Why
+##### Why
 
 * Knit fabric naturally follows the body.
 * A relaxed slim fit maintains elegance without clinging.
 
 ---
 
-## Collar & Placket
+#### Collar & Placket
 
-### Ideal
+##### Ideal
 
 * Soft knit collar
 * Open collar or clean 3-button placket
 * Medium collar proportions
 
-### Acceptable
+##### Acceptable
 
 * Structured knit collar
 
-### Avoid
+##### Avoid
 
 * Tiny collars
 * Contrast collars
 * Oversized collars
 * Deep plackets
 
-### Why
+##### Why
 
 * Knit polos rely on the collar to create effortless elegance.
 * Open collars create a cleaner neckline for smart-casual outfits.
 
 ---
 
-## Fabric
+#### Fabric
 
-### Ideal
+##### Ideal
 
 * Fine-Gauge Cotton Knit
 * Cotton-Linen Knit
 
-### Acceptable
+##### Acceptable
 
 * Merino Wool (cool weather)
 
-### Avoid
+##### Avoid
 
 * Polyester-rich blends
 * Thick synthetic knits
 * Loose open knits
 
-### Why
+##### Why
 
 * Fine-gauge knits drape better than piqué.
 * Creates a more refined silhouette.
@@ -3660,34 +3641,34 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 
 ---
 
-## Construction
+#### Construction
 
-### Ideal
+##### Ideal
 
 * Fully fashioned knit
 * Ribbed cuffs and hem
 * Minimal branding
 * Clean finishing
 
-### Acceptable
+##### Acceptable
 
 * Linked seams
 
-### Avoid
+##### Avoid
 
 * Large embroidered logos
 * Decorative trims
 * Heavy branding
 
-### Why
+##### Why
 
 * High-quality knit construction improves drape and longevity.
 
 ---
 
-## Colours
+#### Colours
 
-### Ideal
+##### Ideal
 
 * Olive
 * Dark Olive
@@ -3697,52 +3678,52 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 * Cream
 * Ecru
 
-### Acceptable
+##### Acceptable
 
 * Rust
 * Terracotta
 * Warm Navy
 
-### Avoid
+##### Avoid
 
 * Bright Blue
 * Neon
 * Cool Grey
 * Colour blocking
 
-### Why
+##### Why
 
 * Earth tones reinforce a refined, masculine wardrobe.
 * Knitwear already provides texture, so loud colours are unnecessary.
 
 ---
 
-## Pattern
+#### Pattern
 
-### Ideal
+##### Ideal
 
 * Solid
 
-### Acceptable
+##### Acceptable
 
 * Fine knit texture
 * Mélange knit
 
-### Avoid
+##### Avoid
 
 * Bold stripes
 * Graphic patterns
 * Large logos
 
-### Why
+##### Why
 
 * Simplicity allows the knit texture to become the focal point.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * Chinos
 * Dress Trousers
@@ -3752,12 +3733,12 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 * Suede Jackets
 * Harrington Jackets
 
-### Good
+##### Good
 
 * Linen Trousers
 * Lightweight Overshirts
 
-### Poor
+##### Poor
 
 * Business Suits
 * Black Tie
@@ -3765,7 +3746,7 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * One of the strongest garments for the Modern Creative Minimalist aesthetic.
 * Prioritize fabric quality and drape over brand.
@@ -3773,7 +3754,7 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 
 ---
 
-## Avoid
+##### Avoid
 
 * Large logos
 * Polyester-rich fabric
@@ -3784,7 +3765,7 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute        | Weight |
 | ---------------- | -----: |
@@ -3795,7 +3776,7 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 | Colour           |    10% |
 | Pattern          |     5% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -3803,9 +3784,9 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 
 □ Skip
 
-# 4.3 Crewneck Sweater
+## 4.3 Crewneck Sweater
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                                                                |
 | ------------ | -------------------------------------------------------------------- |
@@ -3818,13 +3799,13 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 
 ---
 
-## Role
+### Role
 
 A versatile layering piece that adds warmth, texture and refinement without increasing visual complexity.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Cool weather
 * Smart casual office
@@ -3834,80 +3815,80 @@ A versatile layering piece that adds warmth, texture and refinement without incr
 
 ---
 
-# Design Specification
+### Design Specification
 
-## Fit
+#### Fit
 
-### Ideal
+##### Ideal
 
 * Relaxed Slim
 * Comfortable chest
 * Ribbed hem resting at the hips
 
-### Acceptable
+##### Acceptable
 
 * Tailored
 
-### Avoid
+##### Avoid
 
 * Oversized
 * Skinny
 * Excessively long body
 
-### Why
+##### Why
 
 Maintains clean proportions while allowing comfortable layering.
 
 ---
 
-## Neckline
+#### Neckline
 
-### Ideal
+##### Ideal
 
 * Classic Crewneck
 * Medium rib
 
-### Acceptable
+##### Acceptable
 
 * Slightly wider crew
 
-### Avoid
+##### Avoid
 
 * Very tight neck
 * Oversized neck opening
 
-### Why
+##### Why
 
 Frames the face cleanly and layers naturally over shirts.
 
 ---
 
-## Fabric
+#### Fabric
 
-### Ideal
+##### Ideal
 
 * Merino Wool
 * Cotton
 * Cotton-Merino Blend
 
-### Acceptable
+##### Acceptable
 
 * Lambswool (cool climates)
 
-### Avoid
+##### Avoid
 
 * Acrylic-heavy blends
 * Loose synthetic knits
 
-### Why
+##### Why
 
 Natural fibres provide better drape, comfort and longevity.
 
 ---
 
-## Colours
+#### Colours
 
-### Ideal
+##### Ideal
 
 * Olive
 * Forest Green
@@ -3917,26 +3898,26 @@ Natural fibres provide better drape, comfort and longevity.
 * Ecru
 * Charcoal Brown
 
-### Acceptable
+##### Acceptable
 
 * Warm Navy
 * Rust
 
-### Avoid
+##### Avoid
 
 * Bright colours
 * Neon
 * Cool Grey
 
-### Why
+##### Why
 
 Earth tones layer effortlessly and suit a Deep Autumn palette.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * OCBDs
 * Formal Shirts
@@ -3945,24 +3926,24 @@ Earth tones layer effortlessly and suit a Deep Autumn palette.
 * Loafers
 * Boots
 
-### Good
+##### Good
 
 * Linen Trousers
 
-### Poor
+##### Poor
 
 * Black Tie
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Prioritize fabric quality over thickness.
 * Fine-gauge knits provide the greatest versatility.
 
 ---
 
-## Avoid
+##### Avoid
 
 * Large logos
 * Chunky graphics
@@ -3970,7 +3951,7 @@ Earth tones layer effortlessly and suit a Deep Autumn palette.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -3980,7 +3961,7 @@ Earth tones layer effortlessly and suit a Deep Autumn palette.
 | Construction |    15% |
 | Colour       |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -3990,9 +3971,9 @@ Earth tones layer effortlessly and suit a Deep Autumn palette.
 
 ---
 
-# 4.4 Quarter-Zip Sweater
+## 4.4 Quarter-Zip Sweater
 
-## Quick Spec
+### Quick Spec
 
 | Category | Ideal                                   |
 | -------- | --------------------------------------- |
@@ -4004,13 +3985,13 @@ Earth tones layer effortlessly and suit a Deep Autumn palette.
 
 ---
 
-## Role
+### Role
 
 A refined layering garment offering more structure than a crewneck while remaining less formal than tailoring.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Smart casual office
 * Travel
@@ -4019,35 +4000,35 @@ A refined layering garment offering more structure than a crewneck while remaini
 
 ---
 
-## Design Specification
+### Design Specification
 
-### Ideal
+##### Ideal
 
 * Fine-gauge knit
 * Quality metal zipper
 * Minimal branding
 * Ribbed cuffs and hem
 
-### Acceptable
+##### Acceptable
 
 * Cotton-Merino Blend
 
-### Avoid
+##### Avoid
 
 * Oversized fit
 * Plastic zippers
 * Contrast panels
 * Large logos
 
-### Why
+##### Why
 
 The quarter-zip should elevate an outfit through clean construction rather than visual complexity.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * OCBDs
 * Chinos
@@ -4055,21 +4036,21 @@ The quarter-zip should elevate an outfit through clean construction rather than 
 * Loafers
 * Boots
 
-### Poor
+##### Poor
 
 * Formal tailoring
 * Black Tie
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Wear the zipper partially open for a more relaxed appearance.
 * Keep hardware understated.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute         | Weight |
 | ----------------- | -----: |
@@ -4079,7 +4060,7 @@ The quarter-zip should elevate an outfit through clean construction rather than 
 | Construction      |    15% |
 | Colour            |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -4089,9 +4070,9 @@ The quarter-zip should elevate an outfit through clean construction rather than 
 
 ---
 
-# 4.5 Cardigan
+## 4.5 Cardigan
 
-## Quick Spec
+### Quick Spec
 
 | Category | Ideal                                          |
 | -------- | ---------------------------------------------- |
@@ -4103,13 +4084,13 @@ The quarter-zip should elevate an outfit through clean construction rather than 
 
 ---
 
-## Role
+### Role
 
 A refined layering garment providing warmth and versatility without the structure of a jacket.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Smart casual office
 * Cool weather
@@ -4118,34 +4099,34 @@ A refined layering garment providing warmth and versatility without the structur
 
 ---
 
-## Design Specification
+### Design Specification
 
-### Ideal
+##### Ideal
 
 * Fine to medium gauge knit
 * Button front
 * Minimal branding
 * Ribbed cuffs and hem
 
-### Acceptable
+##### Acceptable
 
 * Shawl collar (casual use)
 
-### Avoid
+##### Avoid
 
 * Chunky oversized knits
 * Large logos
 * Decorative patterns
 
-### Why
+##### Why
 
 Simple cardigans integrate more easily into a minimalist wardrobe.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * Formal Shirts
 * OCBDs
@@ -4153,24 +4134,24 @@ Simple cardigans integrate more easily into a minimalist wardrobe.
 * Dress Trousers
 * Loafers
 
-### Good
+##### Good
 
 * Dark Indigo Jeans
 
-### Poor
+##### Poor
 
 * Athletic wear
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Prefer classic button-front designs over fashion-forward interpretations.
 * Fine-gauge cardigans offer the greatest versatility.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -4180,7 +4161,7 @@ Simple cardigans integrate more easily into a minimalist wardrobe.
 | Colour       |    15% |
 | Closure      |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -4253,9 +4234,9 @@ Examples:
 
 ## Categories
 
-# 5.1 Overshirt
+## 5.1 Overshirt
 
-## Quick Spec
+### Quick Spec
 
 | Category            | Ideal                                                            |
 | ------------------- | ---------------------------------------------------------------- |
@@ -4269,7 +4250,7 @@ Examples:
 
 ---
 
-## Role
+### Role
 
 A versatile layering piece that bridges the gap between a shirt and a jacket.
 
@@ -4277,7 +4258,7 @@ Adds structure, texture and depth without the formality of tailoring.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Smart casual office
 * Casual Friday
@@ -4289,110 +4270,110 @@ Adds structure, texture and depth without the formality of tailoring.
 
 ---
 
-# Design Specification
+### Design Specification
 
-## Layering Silhouette
+#### Layering Silhouette
 
-### Ideal
+##### Ideal
 
 * Room for a shirt or polo underneath
 * Clean drape when worn open
 * Comfortable when buttoned
 * Hip-length
 
-### Acceptable
+##### Acceptable
 
 * Slightly relaxed
 
-### Avoid
+##### Avoid
 
 * Shirt-tight fit
 * Oversized fashion fit
 * Long shacket styling
 
-### Why
+##### Why
 
 * An overshirt should layer effortlessly without looking bulky.
 * The silhouette should add visual structure rather than volume.
 
 ---
 
-## Fit
+#### Fit
 
-### Ideal
+##### Ideal
 
 * Relaxed Slim
 * Clean shoulders
 * Comfortable sleeves
 * Slightly longer than a shirt
 
-### Acceptable
+##### Acceptable
 
 * Tailored
 
-### Avoid
+##### Avoid
 
 * Extra Slim
 * Boxy
 * Excessively oversized
 
-### Why
+##### Why
 
 * Preserves clean proportions while remaining practical for layering.
 
 ---
 
-## Collar
+#### Collar
 
-### Ideal
+##### Ideal
 
 * Soft Shirt Collar
 * Medium collar proportions
 
-### Acceptable
+##### Acceptable
 
 * Camp-inspired collar (seasonal)
 
-### Avoid
+##### Avoid
 
 * Tiny collars
 * Oversized collars
 * Contrast collars
 
-### Why
+##### Why
 
 * The collar should frame the face without competing with the garment underneath.
 
 ---
 
-## Fabric
+#### Fabric
 
-### Ideal
+##### Ideal
 
 * Cotton Twill
 * Cotton Canvas
 * Herringbone
 * Brushed Cotton
 
-### Acceptable
+##### Acceptable
 
 * Wool Blend (cool weather)
 
-### Avoid
+##### Avoid
 
 * Thin poplin
 * Polyester-rich blends
 * High-shine fabrics
 
-### Why
+##### Why
 
 * Medium-weight textured fabrics provide enough structure to function as outerwear while remaining comfortable indoors.
 
 ---
 
-## Construction
+#### Construction
 
-### Ideal
+##### Ideal
 
 * Soft structure
 * Matte buttons
@@ -4400,26 +4381,26 @@ Adds structure, texture and depth without the formality of tailoring.
 * Minimal branding
 * Straight hem or gently rounded hem
 
-### Acceptable
+##### Acceptable
 
 * Two chest pockets
 
-### Avoid
+##### Avoid
 
 * Decorative zippers
 * Contrast stitching
 * Heavy branding
 * Excessive utility detailing
 
-### Why
+##### Why
 
 * Simplicity maximizes versatility and allows the fabric to become the focal point.
 
 ---
 
-## Colours
+#### Colours
 
-### Ideal
+##### Ideal
 
 * Olive
 * Dark Olive
@@ -4429,51 +4410,51 @@ Adds structure, texture and depth without the formality of tailoring.
 * Cream
 * Ecru
 
-### Acceptable
+##### Acceptable
 
 * Rust
 * Warm Navy
 * Stone
 
-### Avoid
+##### Avoid
 
 * Bright Blue
 * Neon
 * Cool Grey
 * High-contrast colour blocking
 
-### Why
+##### Why
 
 * Earthy tones layer naturally with the rest of the wardrobe and reinforce a masculine, understated aesthetic.
 
 ---
 
-## Pattern
+#### Pattern
 
-### Ideal
+##### Ideal
 
 * Solid
 
-### Acceptable
+##### Acceptable
 
 * Herringbone
 * Subtle texture
 
-### Avoid
+##### Avoid
 
 * Large checks
 * Bold plaids
 * Loud prints
 
-### Why
+##### Why
 
 * The fabric texture should provide visual interest before pattern.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * OCBDs
 * Casual Button-Downs
@@ -4485,12 +4466,12 @@ Adds structure, texture and depth without the formality of tailoring.
 * Loafers
 * Minimal Leather Sneakers
 
-### Good
+##### Good
 
 * Crewneck Sweaters
 * Linen Trousers
 
-### Poor
+##### Poor
 
 * Business Suits
 * Black Tie
@@ -4498,7 +4479,7 @@ Adds structure, texture and depth without the formality of tailoring.
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * One of the highest-ROI layering garments in the wardrobe.
 * Prioritize fabric quality and silhouette over brand.
@@ -4507,7 +4488,7 @@ Adds structure, texture and depth without the formality of tailoring.
 
 ---
 
-## Avoid
+##### Avoid
 
 * Oversized "shacket" fits
 * Shirt-weight fabrics
@@ -4518,7 +4499,7 @@ Adds structure, texture and depth without the formality of tailoring.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute           | Weight |
 | ------------------- | -----: |
@@ -4529,7 +4510,7 @@ Adds structure, texture and depth without the formality of tailoring.
 | Colour              |    10% |
 | Pattern             |     5% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -4538,9 +4519,9 @@ Adds structure, texture and depth without the formality of tailoring.
 □ Skip
 
 
-# 5.2 Harrington Jacket
+## 5.2 Harrington Jacket
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                                       |
 | ------------ | ------------------------------------------- |
@@ -4554,7 +4535,7 @@ Adds structure, texture and depth without the formality of tailoring.
 
 ---
 
-## Role
+### Role
 
 The foundation casual jacket of the wardrobe.
 
@@ -4562,7 +4543,7 @@ Provides structure, versatility and refinement while remaining appropriate acros
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Smart casual office
 * Casual Friday
@@ -4575,28 +4556,28 @@ Provides structure, versatility and refinement while remaining appropriate acros
 
 ---
 
-# Design Specification
+### Design Specification
 
-## Silhouette
+#### Silhouette
 
-### Ideal
+##### Ideal
 
 * Waist-length
 * Structured shoulders
 * Straight body
 * Clean front
 
-### Acceptable
+##### Acceptable
 
 * Slightly relaxed body
 
-### Avoid
+##### Avoid
 
 * Longline cuts
 * Cropped fashion cuts
 * Oversized silhouettes
 
-### Why
+##### Why
 
 * Waist-length jackets visually lengthen the legs.
 * Adds structure without overwhelming a slim frame.
@@ -4604,80 +4585,80 @@ Provides structure, versatility and refinement while remaining appropriate acros
 
 ---
 
-## Fit
+#### Fit
 
-### Ideal
+##### Ideal
 
 * Relaxed Slim
 * Comfortable layering over shirts and knitwear
 * Clean shoulder line
 
-### Acceptable
+##### Acceptable
 
 * Tailored
 
-### Avoid
+##### Avoid
 
 * Tight chest
 * Oversized sleeves
 * Excess fabric
 
-### Why
+##### Why
 
 * Maintains clean proportions while allowing practical layering.
 
 ---
 
-## Collar
+#### Collar
 
-### Ideal
+##### Ideal
 
 * Classic stand collar
 * Clean rib finish
 
-### Acceptable
+##### Acceptable
 
 * Slightly softer collar
 
-### Avoid
+##### Avoid
 
 * Oversized collars
 * Decorative collars
 
-### Why
+##### Why
 
 * The stand collar is a defining feature of the Harrington.
 * Frames the neckline cleanly whether zipped or open.
 
 ---
 
-## Fabric
+#### Fabric
 
-### Ideal
+##### Ideal
 
 * Cotton Twill
 * Cotton Blend
 * Suede (premium option)
 
-### Acceptable
+##### Acceptable
 
 * Waxed Cotton
 
-### Avoid
+##### Avoid
 
 * Polyester-rich fabrics
 * Shiny synthetics
 * Thin shell materials
 
-### Why
+##### Why
 
 * Medium-weight fabrics provide enough structure while remaining versatile across seasons.
 
 ---
 
-## Construction
+#### Construction
 
-### Ideal
+##### Ideal
 
 * Raglan sleeves
 * Ribbed cuffs and hem
@@ -4685,26 +4666,26 @@ Provides structure, versatility and refinement while remaining appropriate acros
 * Quality zipper
 * Minimal branding
 
-### Acceptable
+##### Acceptable
 
 * Tartan lining
 
-### Avoid
+##### Avoid
 
 * Decorative patches
 * Contrast zippers
 * Oversized logos
 * Excessive hardware
 
-### Why
+##### Why
 
 * Simple construction keeps the Harrington timeless and versatile.
 
 ---
 
-## Colours
+#### Colours
 
-### Ideal
+##### Ideal
 
 * Olive
 * Tobacco
@@ -4712,49 +4693,49 @@ Provides structure, versatility and refinement while remaining appropriate acros
 * Stone
 * Warm Navy
 
-### Acceptable
+##### Acceptable
 
 * Forest Green
 * Cream
 
-### Avoid
+##### Avoid
 
 * Bright colours
 * Neon
 * Cool Grey
 * Heavy colour blocking
 
-### Why
+##### Why
 
 * Earthy tones maximise versatility and complement a Deep Autumn palette.
 
 ---
 
-## Pattern
+#### Pattern
 
-### Ideal
+##### Ideal
 
 * Solid
 
-### Acceptable
+##### Acceptable
 
 * Subtle woven texture
 
-### Avoid
+##### Avoid
 
 * Plaids
 * Graphics
 * Bold colour blocking
 
-### Why
+##### Why
 
 * The silhouette should remain the visual focus.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * OCBDs
 * Casual Button-Downs
@@ -4766,12 +4747,12 @@ Provides structure, versatility and refinement while remaining appropriate acros
 * Loafers
 * Minimal Leather Sneakers
 
-### Good
+##### Good
 
 * Linen Trousers
 * Boots
 
-### Poor
+##### Poor
 
 * Business Suits
 * Black Tie
@@ -4779,7 +4760,7 @@ Provides structure, versatility and refinement while remaining appropriate acros
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * The highest-ROI jacket category for this wardrobe.
 * Prioritize silhouette and fabric over brand.
@@ -4788,7 +4769,7 @@ Provides structure, versatility and refinement while remaining appropriate acros
 
 ---
 
-## Avoid
+##### Avoid
 
 * Long jackets
 * Oversized bomber styling
@@ -4799,7 +4780,7 @@ Provides structure, versatility and refinement while remaining appropriate acros
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -4810,7 +4791,7 @@ Provides structure, versatility and refinement while remaining appropriate acros
 | Colour       |    10% |
 | Pattern      |     5% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -4819,9 +4800,9 @@ Provides structure, versatility and refinement while remaining appropriate acros
 □ Skip
 
 
-# 5.3 Chore Jacket
+## 5.3 Chore Jacket
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                                    |
 | ------------ | ---------------------------------------- |
@@ -4835,13 +4816,13 @@ Provides structure, versatility and refinement while remaining appropriate acros
 
 ---
 
-## Role
+### Role
 
 A casual layering jacket introducing texture and workwear influence without becoming rugged.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Casual weekends
 * Smart casual
@@ -4851,9 +4832,9 @@ A casual layering jacket introducing texture and workwear influence without beco
 
 ---
 
-## Design Specification
+### Design Specification
 
-### Silhouette
+##### Silhouette
 
 **Ideal**
 
@@ -4872,7 +4853,7 @@ Maintains refinement while preserving workwear character.
 
 ---
 
-### Fabric
+##### Fabric
 
 **Ideal**
 
@@ -4895,7 +4876,7 @@ Texture is the defining characteristic of the chore jacket.
 
 ---
 
-### Colours
+##### Colours
 
 **Ideal**
 
@@ -4916,9 +4897,9 @@ Texture is the defining characteristic of the chore jacket.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * OCBDs
 * Casual Button-Downs
@@ -4927,21 +4908,21 @@ Texture is the defining characteristic of the chore jacket.
 * Boots
 * Loafers
 
-### Poor
+##### Poor
 
 * Business Suits
 * Black Tie
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Prioritize texture over utility styling.
 * Clean workwear > rugged workwear.
 
 ---
 
-## Avoid
+##### Avoid
 
 * Oversized fits
 * Large utility pockets
@@ -4950,7 +4931,7 @@ Texture is the defining characteristic of the chore jacket.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -4960,7 +4941,7 @@ Texture is the defining characteristic of the chore jacket.
 | Construction |    15% |
 | Colour       |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -4970,9 +4951,9 @@ Texture is the defining characteristic of the chore jacket.
 
 ---
 
-# 5.4 Field Jacket
+## 5.4 Field Jacket
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                         |
 | ------------ | ----------------------------- |
@@ -4985,13 +4966,13 @@ Texture is the defining characteristic of the chore jacket.
 
 ---
 
-## Role
+### Role
 
 A functional casual jacket providing structure, utility and seasonal versatility.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Travel
 * Outdoor activities
@@ -5001,9 +4982,9 @@ A functional casual jacket providing structure, utility and seasonal versatility
 
 ---
 
-## Design Specification
+### Design Specification
 
-### Silhouette
+##### Silhouette
 
 **Ideal**
 
@@ -5022,7 +5003,7 @@ Adds masculine structure while remaining versatile.
 
 ---
 
-### Fabric
+##### Fabric
 
 **Ideal**
 
@@ -5044,7 +5025,7 @@ Natural fabrics age better and complement the wardrobe aesthetic.
 
 ---
 
-### Details
+##### Details
 
 **Ideal**
 
@@ -5064,7 +5045,7 @@ Utility should remain subtle rather than becoming the focus.
 
 ---
 
-### Colours
+##### Colours
 
 **Ideal**
 
@@ -5084,9 +5065,9 @@ Utility should remain subtle rather than becoming the focus.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * OCBDs
 * Crewneck Sweaters
@@ -5094,21 +5075,21 @@ Utility should remain subtle rather than becoming the focus.
 * Jeans
 * Boots
 
-### Poor
+##### Poor
 
 * Tailoring
 * Black Tie
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Utility should remain understated.
 * Prioritize silhouette over pocket count.
 
 ---
 
-## Avoid
+##### Avoid
 
 * Tactical styling
 * Camouflage
@@ -5117,7 +5098,7 @@ Utility should remain subtle rather than becoming the focus.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -5127,7 +5108,7 @@ Utility should remain subtle rather than becoming the focus.
 | Details      |    15% |
 | Colour       |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -5136,9 +5117,9 @@ Utility should remain subtle rather than becoming the focus.
 □ Skip
 
 
-# 5.5 Bomber Jacket
+## 5.5 Bomber Jacket
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                                |
 | ------------ | ------------------------------------ |
@@ -5152,13 +5133,13 @@ Utility should remain subtle rather than becoming the focus.
 
 ---
 
-## Role
+### Role
 
 A casual jacket adding structure and visual weight without excessive ruggedness.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Casual weekends
 * Travel
@@ -5168,9 +5149,9 @@ A casual jacket adding structure and visual weight without excessive ruggedness.
 
 ---
 
-## Design Specification
+### Design Specification
 
-### Silhouette
+##### Silhouette
 
 **Ideal**
 
@@ -5189,7 +5170,7 @@ A clean silhouette maintains versatility while adding masculine structure.
 
 ---
 
-### Fabric
+##### Fabric
 
 **Ideal**
 
@@ -5213,7 +5194,7 @@ Matte fabrics align better with a refined wardrobe.
 
 ---
 
-### Colours
+##### Colours
 
 **Ideal**
 
@@ -5234,9 +5215,9 @@ Matte fabrics align better with a refined wardrobe.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * Chinos
 * Jeans
@@ -5245,21 +5226,21 @@ Matte fabrics align better with a refined wardrobe.
 * Minimal Sneakers
 * Boots
 
-### Poor
+##### Poor
 
 * Tailoring
 * Black Tie
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Choose understated designs over military-inspired interpretations.
 * Matte finishes age better than shiny fabrics.
 
 ---
 
-## Avoid
+##### Avoid
 
 * MA-1 styling with excessive pocket details
 * Bright orange linings
@@ -5268,7 +5249,7 @@ Matte fabrics align better with a refined wardrobe.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -5278,7 +5259,7 @@ Matte fabrics align better with a refined wardrobe.
 | Construction |    15% |
 | Colour       |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -5288,9 +5269,9 @@ Matte fabrics align better with a refined wardrobe.
 
 ---
 
-# 5.6 Suede Jacket
+## 5.6 Suede Jacket
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                          |
 | ------------ | ------------------------------ |
@@ -5304,13 +5285,13 @@ Matte fabrics align better with a refined wardrobe.
 
 ---
 
-## Role
+### Role
 
 An elevated smart-casual jacket that introduces luxury, texture and refinement.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Date nights
 * Smart casual office
@@ -5320,9 +5301,9 @@ An elevated smart-casual jacket that introduces luxury, texture and refinement.
 
 ---
 
-## Design Specification
+### Design Specification
 
-### Silhouette
+##### Silhouette
 
 **Ideal**
 
@@ -5330,7 +5311,7 @@ An elevated smart-casual jacket that introduces luxury, texture and refinement.
 * Structured shoulders
 * Clean body
 
-### Fabric
+##### Fabric
 
 **Ideal**
 
@@ -5345,7 +5326,7 @@ An elevated smart-casual jacket that introduces luxury, texture and refinement.
 * Faux suede
 * Plastic-coated finishes
 
-### Colours
+##### Colours
 
 **Ideal**
 
@@ -5362,15 +5343,15 @@ An elevated smart-casual jacket that introduces luxury, texture and refinement.
 * Black
 * Bright colours
 
-### Why
+##### Why
 
 Suede should provide understated luxury through texture rather than colour.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * Knit Polos
 * OCBDs
@@ -5378,21 +5359,21 @@ Suede should provide understated luxury through texture rather than colour.
 * Dark Indigo Jeans
 * Loafers
 
-### Poor
+##### Poor
 
 * Formal business suits
 * Heavy outdoor wear
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Quality suede is worth paying more for.
 * Texture should be the statement, not the design.
 
 ---
 
-## Avoid
+##### Avoid
 
 * Faux suede
 * Heavy distressing
@@ -5401,7 +5382,7 @@ Suede should provide understated luxury through texture rather than colour.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -5411,7 +5392,7 @@ Suede should provide understated luxury through texture rather than colour.
 | Construction |    10% |
 | Colour       |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -5421,9 +5402,9 @@ Suede should provide understated luxury through texture rather than colour.
 
 ---
 
-# 5.7 Overcoat
+## 5.7 Overcoat
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                                |
 | ------------ | ------------------------------------ |
@@ -5437,7 +5418,7 @@ Suede should provide understated luxury through texture rather than colour.
 
 ---
 
-## Role
+### Role
 
 The primary cold-weather formal coat.
 
@@ -5445,7 +5426,7 @@ Designed to layer over tailoring while maintaining elegant proportions.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Winter
 * Formal events
@@ -5455,9 +5436,9 @@ Designed to layer over tailoring while maintaining elegant proportions.
 
 ---
 
-## Design Specification
+### Design Specification
 
-### Silhouette
+##### Silhouette
 
 **Ideal**
 
@@ -5470,7 +5451,7 @@ Designed to layer over tailoring while maintaining elegant proportions.
 * Very short coats
 * Oversized fashion fits
 
-### Fabric
+##### Fabric
 
 **Ideal**
 
@@ -5484,7 +5465,7 @@ Designed to layer over tailoring while maintaining elegant proportions.
 
 * Polyester-heavy fabric
 
-### Colours
+##### Colours
 
 **Ideal**
 
@@ -5501,15 +5482,15 @@ Designed to layer over tailoring while maintaining elegant proportions.
 * Bright colours
 * Busy patterns
 
-### Why
+##### Why
 
 An overcoat should remain timeless and integrate effortlessly with tailoring.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+##### Excellent
 
 * Suits
 * Dress Trousers
@@ -5517,26 +5498,26 @@ An overcoat should remain timeless and integrate effortlessly with tailoring.
 * Derby Shoes
 * Oxford Shoes
 
-### Good
+##### Good
 
 * Knitwear
 * Chinos
 
-### Poor
+##### Poor
 
 * Shorts
 * Athletic wear
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Buy one exceptional overcoat rather than several average ones.
 * Prioritize fabric and silhouette above all else.
 
 ---
 
-## Avoid
+##### Avoid
 
 * Trend-driven oversized cuts
 * Polyester-rich fabric
@@ -5545,7 +5526,7 @@ An overcoat should remain timeless and integrate effortlessly with tailoring.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -5555,7 +5536,7 @@ An overcoat should remain timeless and integrate effortlessly with tailoring.
 | Construction |    10% |
 | Colour       |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -5611,9 +5592,9 @@ Examples:
 
 ## Categories
 
-# 6.1 Blazer
+## 6.1 Blazer
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                         |
 | ------------ | ----------------------------- |
@@ -5627,7 +5608,7 @@ Examples:
 
 ---
 
-## Role
+### Role
 
 The foundation tailored garment of the wardrobe.
 
@@ -5635,7 +5616,7 @@ Bridges formal and smart-casual dressing while providing structure, refinement a
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Smart casual office
 * Business meetings
@@ -5647,11 +5628,11 @@ Bridges formal and smart-casual dressing while providing structure, refinement a
 
 ---
 
-# Design Specification
+### Design Specification
 
-## Silhouette
+#### Silhouette
 
-### Ideal
+##### Ideal
 
 * Single-breasted
 * Two-button closure
@@ -5659,17 +5640,17 @@ Bridges formal and smart-casual dressing while providing structure, refinement a
 * Jacket covering the seat
 * Balanced button stance
 
-### Acceptable
+##### Acceptable
 
 * Three-roll-two front
 
-### Avoid
+##### Avoid
 
 * Very short jackets
 * Long fashion cuts
 * Double-breasted (first blazer)
 
-### Why
+##### Why
 
 * A classic silhouette maximizes versatility.
 * Proper length improves body proportions.
@@ -5677,84 +5658,84 @@ Bridges formal and smart-casual dressing while providing structure, refinement a
 
 ---
 
-## Shoulders
+#### Shoulders
 
-### Ideal
+##### Ideal
 
 * Lightly structured
 * Natural shoulder line
 * Clean sleeve head
 
-### Acceptable
+##### Acceptable
 
 * Soft Neapolitan shoulder
 
-### Avoid
+##### Avoid
 
 * Heavy padding
 * Dropped shoulders
 * Rope shoulders
 
-### Why
+##### Why
 
 * Light structure broadens the upper body subtly.
 * Enhances a slim frame without appearing rigid.
 
 ---
 
-## Fabric
+#### Fabric
 
-### Ideal
+##### Ideal
 
 * 100% Wool
 * Tropical Wool
 * Fresco Wool
 
-### Acceptable
+##### Acceptable
 
 * Wool Blend (high wool content)
 
-### Avoid
+##### Avoid
 
 * Polyester-dominant blends
 * High-shine fabrics
 * Heavy synthetic textures
 
-### Why
+##### Why
 
 * Wool offers the best drape, breathability and longevity.
 * Matte fabrics complement a refined, understated wardrobe.
 
 ---
 
-## Fit
+#### Fit
 
-### Ideal
+##### Ideal
 
 * Tailored
 * Clean chest
 * Suppressed waist
 * Comfortable sleeve mobility
 
-### Acceptable
+##### Acceptable
 
 * Relaxed tailoring
 
-### Avoid
+##### Avoid
 
 * Skinny fit
 * Boxy fit
 * Oversized silhouettes
 
-### Why
+##### Why
 
 * A tailored fit creates a masculine V-shape while remaining comfortable for extended wear.
 
 ---
 
-## Construction
+#### Construction
 
-### Ideal
+##### Ideal
 
 * Half-canvas
 * Double vents
@@ -5762,77 +5743,77 @@ Bridges formal and smart-casual dressing while providing structure, refinement a
 * Quality horn-style buttons
 * Minimal branding
 
-### Acceptable
+##### Acceptable
 
 * Well-made fused construction
 
-### Avoid
+##### Avoid
 
 * Single vent
 * Cheap plastic buttons
 * Decorative stitching
 * Heavy branding
 
-### Why
+##### Why
 
 * Better construction improves drape, durability and ease of movement.
 
 ---
 
-## Colours
+#### Colours
 
-### Ideal
+##### Ideal
 
 * Warm Navy
 * Chocolate Brown
 * Tobacco
 
-### Acceptable
+##### Acceptable
 
 * Charcoal Brown
 * Olive (casual blazer)
 
-### Avoid
+##### Avoid
 
 * Bright Blue
 * Jet Black
 * Loud colours
 
-### Why
+##### Why
 
 * Warm neutrals integrate naturally with the rest of the wardrobe.
 * Navy remains the most versatile tailored colour.
 
 ---
 
-## Pattern
+#### Pattern
 
-### Ideal
+##### Ideal
 
 * Solid
 * Birdseye
 * Hopsack
 * Fine texture
 
-### Acceptable
+##### Acceptable
 
 * Prince of Wales (low contrast)
 
-### Avoid
+##### Avoid
 
 * Bold windowpane
 * Loud checks
 * High-contrast patterns
 
-### Why
+##### Why
 
 * Subtle texture provides interest while preserving versatility.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * OCBDs
 * Formal Shirts
@@ -5845,12 +5826,12 @@ Bridges formal and smart-casual dressing while providing structure, refinement a
 * Loafers
 * Derby Shoes
 
-### Good
+#### Good
 
 * Linen Trousers
 * Chelsea Boots
 
-### Poor
+#### Poor
 
 * Shorts
 * Graphic T-Shirts
@@ -5858,7 +5839,7 @@ Bridges formal and smart-casual dressing while providing structure, refinement a
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * One of the highest-ROI tailored garments in the wardrobe.
 * Prioritize silhouette and shoulders over brand.
@@ -5867,7 +5848,7 @@ Bridges formal and smart-casual dressing while providing structure, refinement a
 
 ---
 
-## Avoid
+### Avoid
 
 * Skinny tailoring
 * Excessive shoulder padding
@@ -5878,7 +5859,7 @@ Bridges formal and smart-casual dressing while providing structure, refinement a
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute        | Weight |
 | ---------------- | -----: |
@@ -5889,7 +5870,7 @@ Bridges formal and smart-casual dressing while providing structure, refinement a
 | Construction     |    10% |
 | Colour & Pattern |     5% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -5897,9 +5878,9 @@ Bridges formal and smart-casual dressing while providing structure, refinement a
 
 □ Skip
 
-# 6.2 Suit
+## 6.2 Suit
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                       |
 | ------------ | --------------------------- |
@@ -5913,7 +5894,7 @@ Bridges formal and smart-casual dressing while providing structure, refinement a
 
 ---
 
-## Role
+### Role
 
 The primary formal garment of the wardrobe.
 
@@ -5921,7 +5902,7 @@ Designed for business, weddings, ceremonies and formal occasions requiring compl
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Weddings
 * Business meetings
@@ -5931,9 +5912,9 @@ Designed for business, weddings, ceremonies and formal occasions requiring compl
 
 ---
 
-# Design Specification
+### Design Specification
 
-### Silhouette
+#### Silhouette
 
 **Ideal**
 
@@ -5958,7 +5939,7 @@ A classic silhouette maximizes longevity and versatility.
 
 ---
 
-### Shoulders
+#### Shoulders
 
 **Ideal**
 
@@ -5980,7 +5961,7 @@ Shoulders determine the overall appearance of a tailored jacket.
 
 ---
 
-### Fabric
+#### Fabric
 
 **Ideal**
 
@@ -6002,7 +5983,7 @@ Wool provides superior drape, breathability and longevity.
 
 ---
 
-### Fit
+#### Fit
 
 **Ideal**
 
@@ -6022,7 +6003,7 @@ Tailoring should enhance the body without restricting movement.
 
 ---
 
-### Construction
+#### Construction
 
 **Ideal**
 
@@ -6043,7 +6024,7 @@ Tailoring should enhance the body without restricting movement.
 
 ---
 
-### Colours
+#### Colours
 
 **Ideal**
 
@@ -6060,13 +6041,13 @@ Tailoring should enhance the body without restricting movement.
 * Bright Blue
 * Loud colours
 
-### Why
+##### Why
 
 Warm navy offers the greatest versatility across business and formal occasions.
 
 ---
 
-### Pattern
+#### Pattern
 
 **Ideal**
 
@@ -6084,20 +6065,20 @@ Warm navy offers the greatest versatility across business and formal occasions.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Formal Shirts
 * Dress Trousers
 * Oxford Shoes
 * Derby Shoes
 
-### Good
+#### Good
 
 * Fine Merino Knitwear (separates only)
 
-### Poor
+#### Poor
 
 * Sneakers
 * T-Shirts
@@ -6105,7 +6086,7 @@ Warm navy offers the greatest versatility across business and formal occasions.
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Own fewer, better suits.
 * Fit and alterations are more important than brand.
@@ -6113,7 +6094,7 @@ Warm navy offers the greatest versatility across business and formal occasions.
 
 ---
 
-## Avoid
+### Avoid
 
 * Skinny tailoring
 * Polyester-heavy fabric
@@ -6122,7 +6103,7 @@ Warm navy offers the greatest versatility across business and formal occasions.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -6133,7 +6114,7 @@ Warm navy offers the greatest versatility across business and formal occasions.
 | Construction |    10% |
 | Colour       |     5% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -6143,9 +6124,9 @@ Warm navy offers the greatest versatility across business and formal occasions.
 
 ---
 
-# 6.3 Sport Coat
+## 6.3 Sport Coat
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                              |
 | ------------ | ---------------------------------- |
@@ -6159,13 +6140,13 @@ Warm navy offers the greatest versatility across business and formal occasions.
 
 ---
 
-## Role
+### Role
 
 A smart-casual tailored jacket that introduces texture and personality while remaining refined.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Smart casual office
 * Date nights
@@ -6176,9 +6157,9 @@ A smart-casual tailored jacket that introduces texture and personality while rem
 
 ---
 
-# Design Specification
+### Design Specification
 
-### Silhouette
+#### Silhouette
 
 **Ideal**
 
@@ -6197,7 +6178,7 @@ Sport coats should feel relaxed without losing elegance.
 
 ---
 
-### Fabric
+#### Fabric
 
 **Ideal**
 
@@ -6221,7 +6202,7 @@ Texture distinguishes a sport coat from a blazer.
 
 ---
 
-### Colours
+#### Colours
 
 **Ideal**
 
@@ -6242,7 +6223,7 @@ Texture distinguishes a sport coat from a blazer.
 
 ---
 
-### Pattern
+#### Pattern
 
 **Ideal**
 
@@ -6259,15 +6240,15 @@ Texture distinguishes a sport coat from a blazer.
 * Bold plaid
 * High-contrast windowpane
 
-### Why
+##### Why
 
 The pattern should add depth without dominating the outfit.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * OCBDs
 * Knit Polos
@@ -6275,26 +6256,26 @@ The pattern should add depth without dominating the outfit.
 * Dark Indigo Jeans
 * Loafers
 
-### Good
+#### Good
 
 * Crewneck Sweaters
 * Dress Trousers
 
-### Poor
+#### Poor
 
 * Matching suit trousers
 * Athletic wear
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Texture is the defining feature of a sport coat.
 * Own one versatile piece before exploring bolder patterns.
 
 ---
 
-## Avoid
+### Avoid
 
 * Shiny fabrics
 * Skinny tailoring
@@ -6303,7 +6284,7 @@ The pattern should add depth without dominating the outfit.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute  | Weight |
 | ---------- | -----: |
@@ -6313,7 +6294,7 @@ The pattern should add depth without dominating the outfit.
 | Fit        |    15% |
 | Colour     |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -6321,9 +6302,9 @@ The pattern should add depth without dominating the outfit.
 
 □ Skip
 
-# 6.4 Waistcoat
+## 6.4 Waistcoat
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                        |
 | ------------ | ---------------------------- |
@@ -6336,7 +6317,7 @@ The pattern should add depth without dominating the outfit.
 
 ---
 
-## Role
+### Role
 
 An optional tailoring piece providing additional refinement and warmth.
 
@@ -6344,7 +6325,7 @@ Primarily intended as part of a three-piece suit rather than a standalone garmen
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Weddings
 * Formal ceremonies
@@ -6353,9 +6334,9 @@ Primarily intended as part of a three-piece suit rather than a standalone garmen
 
 ---
 
-# Design Specification
+### Design Specification
 
-### Silhouette
+#### Silhouette
 
 **Ideal**
 
@@ -6368,7 +6349,7 @@ Primarily intended as part of a three-piece suit rather than a standalone garmen
 * Fashion waistcoats
 * Very short lengths
 
-### Fit
+#### Fit
 
 **Ideal**
 
@@ -6380,7 +6361,7 @@ Primarily intended as part of a three-piece suit rather than a standalone garmen
 * Tight pulling
 * Excess fabric
 
-### Fabric
+#### Fabric
 
 **Ideal**
 
@@ -6391,7 +6372,7 @@ Primarily intended as part of a three-piece suit rather than a standalone garmen
 
 * Shiny satin (except formal eveningwear)
 
-### Colours
+#### Colours
 
 **Ideal**
 
@@ -6405,21 +6386,21 @@ Primarily intended as part of a three-piece suit rather than a standalone garmen
 
 * Contrasting novelty colours
 
-### Why
+##### Why
 
 The waistcoat should integrate seamlessly into the tailoring rather than becoming the focal point.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Matching Suit
 * Formal Shirt
 * Tie
 
-### Poor
+#### Poor
 
 * Jeans
 * Casual Trousers
@@ -6427,14 +6408,14 @@ The waistcoat should integrate seamlessly into the tailoring rather than becomin
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Buy only after the core tailoring wardrobe is complete.
 * Treat as an enhancement rather than a necessity.
 
 ---
 
-## Avoid
+### Avoid
 
 * Novelty backs
 * Loud patterns
@@ -6443,7 +6424,7 @@ The waistcoat should integrate seamlessly into the tailoring rather than becomin
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -6453,7 +6434,7 @@ The waistcoat should integrate seamlessly into the tailoring rather than becomin
 | Construction |    15% |
 | Colour       |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -6463,9 +6444,9 @@ The waistcoat should integrate seamlessly into the tailoring rather than becomin
 
 ---
 
-# 6.5 Tuxedo
+## 6.5 Tuxedo
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                   |
 | ------------ | ----------------------- |
@@ -6479,7 +6460,7 @@ The waistcoat should integrate seamlessly into the tailoring rather than becomin
 
 ---
 
-## Role
+### Role
 
 The highest level of formal tailoring.
 
@@ -6487,7 +6468,7 @@ Reserved exclusively for black-tie events.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Black-tie events
 * Formal galas
@@ -6495,9 +6476,9 @@ Reserved exclusively for black-tie events.
 
 ---
 
-# Design Specification
+### Design Specification
 
-### Silhouette
+#### Silhouette
 
 **Ideal**
 
@@ -6510,7 +6491,7 @@ Reserved exclusively for black-tie events.
 * Fashion tuxedos
 * Skinny tailoring
 
-### Lapels
+#### Lapels
 
 **Ideal**
 
@@ -6521,7 +6502,7 @@ Reserved exclusively for black-tie events.
 
 * Notch lapels
 
-### Fabric
+#### Fabric
 
 **Ideal**
 
@@ -6536,7 +6517,7 @@ Reserved exclusively for black-tie events.
 * Polyester
 * Shiny synthetic fabrics
 
-### Colour
+#### Colour
 
 **Ideal**
 
@@ -6548,21 +6529,21 @@ Reserved exclusively for black-tie events.
 * White jackets (unless specifically required)
 * Fashion colours
 
-### Why
+##### Why
 
 A tuxedo should follow established black-tie conventions rather than seasonal trends.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Formal Evening Shirt
 * Bow Tie
 * Patent Leather Shoes
 
-### Poor
+#### Poor
 
 * Business Shirts
 * Casual Footwear
@@ -6570,14 +6551,14 @@ A tuxedo should follow established black-tie conventions rather than seasonal tr
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Rent before buying unless black-tie events become frequent.
 * Fit matters far more than luxury branding.
 
 ---
 
-## Avoid
+### Avoid
 
 * Skinny fits
 * Decorative trims
@@ -6586,7 +6567,7 @@ A tuxedo should follow established black-tie conventions rather than seasonal tr
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -6596,7 +6577,7 @@ A tuxedo should follow established black-tie conventions rather than seasonal tr
 | Fit          |    20% |
 | Construction |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -6666,9 +6647,9 @@ Examples:
 
 ## Categories
 
-# 7.1 Minimal Leather Sneakers
+## 7.1 Minimal Leather Sneakers
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                                   |
 | ------------ | --------------------------------------- |
@@ -6681,7 +6662,7 @@ Examples:
 
 ---
 
-## Role
+### Role
 
 The foundation casual shoe of the wardrobe.
 
@@ -6689,7 +6670,7 @@ Provides the greatest versatility across casual and smart-casual outfits while m
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Smart casual office
 * Casual Friday
@@ -6700,11 +6681,11 @@ Provides the greatest versatility across casual and smart-casual outfits while m
 
 ---
 
-# Design Specification
+### Design Specification
 
-## Last & Shape
+#### Last & Shape
 
-### Ideal
+##### Ideal
 
 * Low-profile silhouette
 * Rounded or soft almond toe
@@ -6712,150 +6693,150 @@ Provides the greatest versatility across casual and smart-casual outfits while m
 * Moderate toe box
 * Minimal visual bulk
 
-### Acceptable
+##### Acceptable
 
 * Slightly elongated toe
 
-### Avoid
+##### Avoid
 
 * Bulky athletic silhouettes
 * Square toes
 * Aggressively pointed toes
 * Oversized platform soles
 
-### Why
+##### Why
 
 The last determines how refined a sneaker appears and has the greatest influence on versatility.
 
 ---
 
-## Upper Material
+#### Upper Material
 
-### Ideal
+##### Ideal
 
 * Full-Grain Leather
 * Smooth matte finish
 
-### Acceptable
+##### Acceptable
 
 * Top-Grain Leather
 
-### Avoid
+##### Avoid
 
 * Faux leather
 * Corrected leather
 * Patent leather
 * Heavy synthetic panels
 
-### Why
+##### Why
 
 Quality leather develops character, ages gracefully and complements a refined wardrobe.
 
 ---
 
-## Construction
+#### Construction
 
-### Ideal
+##### Ideal
 
 * Cup sole
 * Clean stitching
 * Minimal panel construction
 * Quality lining
 
-### Acceptable
+##### Acceptable
 
 * Well-executed cemented construction
 
-### Avoid
+##### Avoid
 
 * Excessive overlays
 * Visible air units
 * Complex technical designs
 
-### Why
+##### Why
 
 Simple construction keeps the sneaker timeless and easy to pair with a wide range of outfits.
 
 ---
 
-## Sole
+#### Sole
 
-### Ideal
+##### Ideal
 
 * Low-profile rubber sole
 * White or off-white sidewall
 * Minimal tread
 
-### Acceptable
+##### Acceptable
 
 * Warm gum sole
 
-### Avoid
+##### Avoid
 
 * Thick platform soles
 * Aggressive lug soles
 * Contrast-coloured midsoles
 
-### Why
+##### Why
 
 The sole should support the silhouette rather than dominate it.
 
 ---
 
-## Colours
+#### Colours
 
-### Ideal
+##### Ideal
 
 * Off-White
 * Cream
 
-### Acceptable
+##### Acceptable
 
 * White
 * Taupe
 
-### Avoid
+##### Avoid
 
 * Black
 * Bright colours
 * Neon
 * Colour blocking
 
-### Why
+##### Why
 
 Off-white and cream integrate more naturally with a Deep Autumn wardrobe while remaining highly versatile.
 
 ---
 
-## Details
+#### Details
 
-### Ideal
+##### Ideal
 
 * Minimal branding
 * Tonal stitching
 * Plain laces
 * Clean heel
 
-### Acceptable
+##### Acceptable
 
 * Small embossed logo
 
-### Avoid
+##### Avoid
 
 * Large logos
 * Metallic details
 * Printed graphics
 * Contrast heel tabs
 
-### Why
+##### Why
 
 The sneaker should act as a foundation rather than a statement piece.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Chinos
 * Dark Indigo Jeans
@@ -6868,12 +6849,12 @@ The sneaker should act as a foundation rather than a statement piece.
 * Overshirts
 * Harrington Jackets
 
-### Good
+#### Good
 
 * Crewneck Sweaters
 * Chore Jackets
 
-### Poor
+#### Poor
 
 * Business Suits
 * Tuxedos
@@ -6881,7 +6862,7 @@ The sneaker should act as a foundation rather than a statement piece.
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * One of the highest-ROI purchases in the wardrobe.
 * Prioritize shape before brand.
@@ -6890,7 +6871,7 @@ The sneaker should act as a foundation rather than a statement piece.
 
 ---
 
-## Avoid
+### Avoid
 
 * Running shoe silhouettes
 * Chunky "dad" sneakers
@@ -6902,7 +6883,7 @@ The sneaker should act as a foundation rather than a statement piece.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute      | Weight |
 | -------------- | -----: |
@@ -6913,7 +6894,7 @@ The sneaker should act as a foundation rather than a statement piece.
 | Colour         |     5% |
 | Details        |     5% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -6921,9 +6902,9 @@ The sneaker should act as a foundation rather than a statement piece.
 
 □ Skip
 
-# 7.2 Penny Loafers
+## 7.2 Penny Loafers
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                              |
 | ------------ | ---------------------------------- |
@@ -6937,7 +6918,7 @@ The sneaker should act as a foundation rather than a statement piece.
 
 ---
 
-## Role
+### Role
 
 The foundation smart-casual shoe of the wardrobe.
 
@@ -6945,7 +6926,7 @@ Bridges casual and tailored dressing while adding elegance without unnecessary f
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Smart casual office
 * Date nights
@@ -6956,181 +6937,181 @@ Bridges casual and tailored dressing while adding elegance without unnecessary f
 
 ---
 
-# Design Specification
+### Design Specification
 
-## Last & Shape
+#### Last & Shape
 
-### Ideal
+##### Ideal
 
 * Rounded or soft almond toe
 * Moderate forefoot volume
 * Clean proportions
 * Low-profile silhouette
 
-### Acceptable
+##### Acceptable
 
 * Slightly elongated toe
 
-### Avoid
+##### Avoid
 
 * Narrow Italian lasts
 * Square toes
 * Aggressively pointed toes
 * Chunky fashion loafers
 
-### Why
+##### Why
 
 The last determines both elegance and long-term versatility. Balanced proportions age better than fashion-driven shapes.
 
 ---
 
-## Vamp & Apron
+#### Vamp & Apron
 
-### Ideal
+##### Ideal
 
 * Medium vamp
 * Clean hand-sewn apron
 * Balanced penny strap
 * Moderate opening
 
-### Acceptable
+##### Acceptable
 
 * Slightly higher vamp
 
-### Avoid
+##### Avoid
 
 * Very high vamp
 * Bulky apron stitching
 * Decorative tassels
 * Horsebit hardware
 
-### Why
+##### Why
 
 Balanced vamp proportions make the loafer suitable across both casual and smart-casual outfits without becoming overly formal or overly casual.
 
 ---
 
-## Upper Material
+#### Upper Material
 
-### Ideal
+##### Ideal
 
 * Full-Grain Leather
 * Suede
 
-### Acceptable
+##### Acceptable
 
 * Nubuck
 
-### Avoid
+##### Avoid
 
 * Faux leather
 * Patent leather
 * Corrected leather
 
-### Why
+##### Why
 
 Quality materials improve ageing, comfort and overall refinement.
 
 ---
 
-## Construction
+#### Construction
 
-### Ideal
+##### Ideal
 
 * Blake Stitch
 * Goodyear Welt
 
-### Acceptable
+##### Acceptable
 
 * High-quality cemented construction
 
-### Avoid
+##### Avoid
 
 * Heavy synthetic construction
 * Visible glue
 * Excessive decorative stitching
 
-### Why
+##### Why
 
 Good construction improves longevity while maintaining a sleek profile.
 
 ---
 
-## Sole
+#### Sole
 
-### Ideal
+##### Ideal
 
 * Leather Sole
 * Thin Rubber Sole
 
-### Acceptable
+##### Acceptable
 
 * Combination Sole
 
-### Avoid
+##### Avoid
 
 * Thick lug soles
 * Chunky platform soles
 
-### Why
+##### Why
 
 A slim sole preserves the loafer's elegant proportions.
 
 ---
 
-## Colours
+#### Colours
 
-### Ideal
+##### Ideal
 
 * Dark Brown
 * Chocolate
 * Tobacco
 
-### Acceptable
+##### Acceptable
 
 * Dark Olive Suede
 * Espresso
 
-### Avoid
+##### Avoid
 
 * Black (first pair)
 * Bright colours
 * Two-tone finishes
 
-### Why
+##### Why
 
 Brown tones integrate naturally with a Deep Autumn wardrobe and offer greater versatility than black.
 
 ---
 
-## Details
+#### Details
 
-### Ideal
+##### Ideal
 
 * Penny strap
 * Minimal branding
 * Tonal stitching
 
-### Acceptable
+##### Acceptable
 
 * Hand-sewn apron
 
-### Avoid
+##### Avoid
 
 * Large logos
 * Metal hardware
 * Decorative broguing
 * Contrast stitching
 
-### Why
+##### Why
 
 Simple details preserve timelessness and maximize outfit compatibility.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Chinos
 * Dress Trousers
@@ -7141,19 +7122,19 @@ Simple details preserve timelessness and maximize outfit compatibility.
 * Knit Polos
 * Blazers
 
-### Good
+#### Good
 
 * Shorts (selectively)
 * Crewneck Sweaters
 
-### Poor
+#### Poor
 
 * Black Tie
 * Athletic Wear
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * One of the highest-ROI footwear purchases in the wardrobe.
 * Prioritize last shape over brand.
@@ -7162,7 +7143,7 @@ Simple details preserve timelessness and maximize outfit compatibility.
 
 ---
 
-## Avoid
+### Avoid
 
 * Narrow lasts
 * Chunky soles
@@ -7174,7 +7155,7 @@ Simple details preserve timelessness and maximize outfit compatibility.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute        | Weight |
 | ---------------- | -----: |
@@ -7185,7 +7166,7 @@ Simple details preserve timelessness and maximize outfit compatibility.
 | Sole             |    10% |
 | Colour & Details |     5% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -7194,9 +7175,9 @@ Simple details preserve timelessness and maximize outfit compatibility.
 □ Skip
 
 
-# 7.3 Derby Shoes
+## 7.3 Derby Shoes
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                           |
 | ------------ | ------------------------------- |
@@ -7210,7 +7191,7 @@ Simple details preserve timelessness and maximize outfit compatibility.
 
 ---
 
-## Role
+### Role
 
 The primary business and formal shoe of the wardrobe.
 
@@ -7218,7 +7199,7 @@ Offers greater versatility than an Oxford while maintaining a refined appearance
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Business meetings
 * Weddings
@@ -7228,135 +7209,135 @@ Offers greater versatility than an Oxford while maintaining a refined appearance
 
 ---
 
-# Design Specification
+### Design Specification
 
-## Last & Shape
+#### Last & Shape
 
-### Ideal
+##### Ideal
 
 * Soft almond toe
 * Moderate forefoot volume
 * Balanced proportions
 
-### Acceptable
+##### Acceptable
 
 * Rounded toe
 
-### Avoid
+##### Avoid
 
 * Square toes
 * Pointed fashion toes
 * Very narrow lasts
 
-### Why
+##### Why
 
 A balanced last transitions seamlessly between tailoring and smart-casual outfits.
 
 ---
 
-## Lacing
+#### Lacing
 
-### Ideal
+##### Ideal
 
 * Open Derby construction
 
-### Avoid
+##### Avoid
 
 * Closed Oxford lacing
 * Decorative lacing
 
-### Why
+##### Why
 
 Open lacing improves versatility and accommodates a wider range of foot shapes.
 
 ---
 
-## Upper Material
+#### Upper Material
 
-### Ideal
+##### Ideal
 
 * Full-Grain Leather
 
-### Acceptable
+##### Acceptable
 
 * High-quality calf leather
 
-### Avoid
+##### Avoid
 
 * Faux leather
 * Patent leather
 
-### Why
+##### Why
 
 Quality leather develops character and supports long-term wear.
 
 ---
 
-## Construction
+#### Construction
 
-### Ideal
+##### Ideal
 
 * Goodyear Welt
 * Blake Stitch
 
-### Acceptable
+##### Acceptable
 
 * High-quality cemented
 
-### Avoid
+##### Avoid
 
 * Heavy synthetic construction
 
-### Why
+##### Why
 
 Well-constructed shoes maintain shape and are easier to resole.
 
 ---
 
-## Sole
+#### Sole
 
-### Ideal
+##### Ideal
 
 * Leather
 * Combination Sole
 
-### Avoid
+##### Avoid
 
 * Thick lug soles
 * Chunky rubber soles
 
-### Why
+##### Why
 
 Slim soles preserve elegant proportions.
 
 ---
 
-## Colours
+#### Colours
 
-### Ideal
+##### Ideal
 
 * Dark Brown
 * Chocolate
 * Espresso
 
-### Acceptable
+##### Acceptable
 
 * Warm Burgundy
 
-### Avoid
+##### Avoid
 
 * Black (first pair)
 * Bright colours
 
-### Why
+##### Why
 
 Brown tones integrate with a broader range of outfits than black.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Suits
 * Blazers
@@ -7364,25 +7345,25 @@ Brown tones integrate with a broader range of outfits than black.
 * Chinos
 * OCBDs
 
-### Good
+#### Good
 
 * Dark Indigo Jeans
 
-### Poor
+#### Poor
 
 * Shorts
 * Athletic wear
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * The first formal shoe should be a brown Derby rather than a black Oxford.
 * Prioritize elegant proportions over decorative detailing.
 
 ---
 
-## Avoid
+### Avoid
 
 * Heavy broguing
 * Square toes
@@ -7391,7 +7372,7 @@ Brown tones integrate with a broader range of outfits than black.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute      | Weight |
 | -------------- | -----: |
@@ -7402,7 +7383,7 @@ Brown tones integrate with a broader range of outfits than black.
 | Lacing         |    10% |
 | Colour         |     5% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -7412,9 +7393,9 @@ Brown tones integrate with a broader range of outfits than black.
 
 ---
 
-# 7.4 Chelsea Boots
+## 7.4 Chelsea Boots
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                                |
 | ------------ | ------------------------------------ |
@@ -7428,7 +7409,7 @@ Brown tones integrate with a broader range of outfits than black.
 
 ---
 
-## Role
+### Role
 
 The primary boot of the wardrobe.
 
@@ -7436,7 +7417,7 @@ Adds seasonal versatility while maintaining a refined smart-casual appearance.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Autumn
 * Winter
@@ -7446,119 +7427,119 @@ Adds seasonal versatility while maintaining a refined smart-casual appearance.
 
 ---
 
-# Design Specification
+### Design Specification
 
-## Last & Shape
+#### Last & Shape
 
-### Ideal
+##### Ideal
 
 * Rounded soft almond toe
 * Medium forefoot volume
 * Slim ankle profile
 
-### Acceptable
+##### Acceptable
 
 * Slightly elongated toe
 
-### Avoid
+##### Avoid
 
 * Square toes
 * Aggressive points
 * Bulky work-boot lasts
 
-### Why
+##### Why
 
 The last determines whether the boot appears elegant or rugged.
 
 ---
 
-## Upper Material
+#### Upper Material
 
-### Ideal
+##### Ideal
 
 * Suede
 * Full-Grain Leather
 
-### Acceptable
+##### Acceptable
 
 * Nubuck
 
-### Avoid
+##### Avoid
 
 * Faux leather
 * Patent leather
 
-### Why
+##### Why
 
 Suede offers warmth and texture while remaining versatile.
 
 ---
 
-## Construction
+#### Construction
 
-### Ideal
+##### Ideal
 
 * Blake Stitch
 * Goodyear Welt
 
-### Acceptable
+##### Acceptable
 
 * High-quality cemented
 
-### Avoid
+##### Avoid
 
 * Heavy synthetic construction
 
-### Why
+##### Why
 
 Quality construction improves longevity while keeping the profile sleek.
 
 ---
 
-## Sole
+#### Sole
 
-### Ideal
+##### Ideal
 
 * Leather
 * Thin Rubber
 
-### Avoid
+##### Avoid
 
 * Lug soles
 * Thick commando soles
 
-### Why
+##### Why
 
 A slim sole preserves the refined character of the Chelsea boot.
 
 ---
 
-## Colours
+#### Colours
 
-### Ideal
+##### Ideal
 
 * Dark Brown Suede
 * Chocolate
 * Tobacco
 
-### Acceptable
+##### Acceptable
 
 * Espresso
 
-### Avoid
+##### Avoid
 
 * Black (first pair)
 * Bright colours
 
-### Why
+##### Why
 
 Brown suede introduces texture and pairs naturally with earth-toned wardrobes.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Jeans
 * Chinos
@@ -7567,25 +7548,25 @@ Brown suede introduces texture and pairs naturally with earth-toned wardrobes.
 * Harrington Jackets
 * Blazers
 
-### Good
+#### Good
 
 * Dress Trousers
 
-### Poor
+#### Poor
 
 * Shorts
 * Black Tie
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Suede Chelsea boots provide greater versatility than smooth black leather for this wardrobe.
 * Keep the silhouette sleek rather than rugged.
 
 ---
 
-## Avoid
+### Avoid
 
 * Cuban heels
 * Square toes
@@ -7595,7 +7576,7 @@ Brown suede introduces texture and pairs naturally with earth-toned wardrobes.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute      | Weight |
 | -------------- | -----: |
@@ -7605,7 +7586,7 @@ Brown suede introduces texture and pairs naturally with earth-toned wardrobes.
 | Sole           |    15% |
 | Colour         |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -7614,9 +7595,9 @@ Brown suede introduces texture and pairs naturally with earth-toned wardrobes.
 □ Skip
 
 
-# 7.5 Oxford Shoes
+## 7.5 Oxford Shoes
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                |
 | ------------ | -------------------- |
@@ -7630,7 +7611,7 @@ Brown suede introduces texture and pairs naturally with earth-toned wardrobes.
 
 ---
 
-## Role
+### Role
 
 The most formal shoe in the wardrobe.
 
@@ -7638,7 +7619,7 @@ Reserved for business formal dress, ceremonies and traditional tailoring.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Weddings
 * Interviews
@@ -7647,9 +7628,9 @@ Reserved for business formal dress, ceremonies and traditional tailoring.
 
 ---
 
-## Design Specification
+### Design Specification
 
-### Ideal
+##### Ideal
 
 * Closed lacing
 * Plain cap toe
@@ -7657,45 +7638,45 @@ Reserved for business formal dress, ceremonies and traditional tailoring.
 * Leather sole
 * Minimal detailing
 
-### Avoid
+##### Avoid
 
 * Heavy broguing
 * Square toes
 * Thick rubber soles
 * Bright colours
 
-### Why
+##### Why
 
 Simplicity and proportion define timeless formal footwear.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Suits
 * Formal Shirts
 
-### Good
+#### Good
 
 * Blazers
 * Dress Trousers
 
-### Poor
+#### Poor
 
 * Jeans
 * Shorts
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Purchase after Derby shoes unless formal dress becomes frequent.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute      | Weight |
 | -------------- | -----: |
@@ -7705,7 +7686,7 @@ Simplicity and proportion define timeless formal footwear.
 | Sole           |    15% |
 | Colour         |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -7715,9 +7696,9 @@ Simplicity and proportion define timeless formal footwear.
 
 ---
 
-# 7.6 Chukka Boots
+## 7.6 Chukka Boots
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                          |
 | ------------ | ------------------------------ |
@@ -7730,13 +7711,13 @@ Simplicity and proportion define timeless formal footwear.
 
 ---
 
-## Role
+### Role
 
 A relaxed smart-casual boot bridging sneakers and Chelsea boots.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Casual weekends
 * Travel
@@ -7745,50 +7726,50 @@ A relaxed smart-casual boot bridging sneakers and Chelsea boots.
 
 ---
 
-## Design Specification
+### Design Specification
 
-### Ideal
+##### Ideal
 
 * Rounded toe
 * Two or three eyelets
 * Suede upper
 * Clean construction
 
-### Avoid
+##### Avoid
 
 * Thick work soles
 * Bulky lasts
 * Decorative hardware
 
-### Why
+##### Why
 
 The Chukka should remain simple and versatile rather than rugged.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Chinos
 * Jeans
 * OCBDs
 * Crewneck Sweaters
 
-### Poor
+#### Poor
 
 * Suits
 * Black Tie
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * Suede provides the best balance of texture and versatility.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute      | Weight |
 | -------------- | -----: |
@@ -7798,7 +7779,7 @@ The Chukka should remain simple and versatile rather than rugged.
 | Sole           |    15% |
 | Colour         |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -7808,9 +7789,9 @@ The Chukka should remain simple and versatile rather than rugged.
 
 ---
 
-# 7.7 Sandals
+## 7.7 Sandals
 
-## Quick Spec
+### Quick Spec
 
 | Category | Ideal                           |
 | -------- | ------------------------------- |
@@ -7822,13 +7803,13 @@ The Chukka should remain simple and versatile rather than rugged.
 
 ---
 
-## Role
+### Role
 
 Warm-weather casual footwear prioritizing comfort while maintaining refinement.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Summer
 * Vacations
@@ -7837,37 +7818,37 @@ Warm-weather casual footwear prioritizing comfort while maintaining refinement.
 
 ---
 
-## Design Specification
+### Design Specification
 
-### Ideal
+##### Ideal
 
 * Minimal straps
 * Leather upper
 * Slim sole
 * Understated design
 
-### Avoid
+##### Avoid
 
 * Athletic sandals
 * Neon colours
 * Thick foam soles
 * Large logos
 
-### Why
+##### Why
 
 Even casual footwear should align with the overall wardrobe aesthetic.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Linen Trousers
 * Shorts
 * Linen Shirts
 
-### Poor
+#### Poor
 
 * Tailoring
 * Jeans
@@ -7875,13 +7856,13 @@ Even casual footwear should align with the overall wardrobe aesthetic.
 
 ---
 
-## Personal Notes
+### Personal Notes
 
 * One quality leather pair is sufficient for most wardrobes.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute      | Weight |
 | -------------- | -----: |
@@ -7891,7 +7872,7 @@ Even casual footwear should align with the overall wardrobe aesthetic.
 | Sole           |    15% |
 | Colour         |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -7948,9 +7929,9 @@ Examples:
 
 ## Categories
 
-# 8.1 Leather Belt
+## 8.1 Leather Belt
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                                       |
 | ------------ | ------------------------------------------- |
@@ -7963,7 +7944,7 @@ Examples:
 
 ---
 
-## Role
+### Role
 
 The foundation accessory of the wardrobe.
 
@@ -7971,7 +7952,7 @@ Provides visual continuity between footwear and clothing while maintaining a ref
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Smart casual office
 * Business meetings
@@ -7981,153 +7962,153 @@ Provides visual continuity between footwear and clothing while maintaining a ref
 
 ---
 
-# Design Specification
+### Design Specification
 
-## Width
+#### Width
 
-### Ideal
+##### Ideal
 
 * 3–3.5 cm
 
-### Acceptable
+##### Acceptable
 
 * 2.8–3.8 cm
 
-### Avoid
+##### Avoid
 
 * Very narrow fashion belts
 * Wide casual belts
 
-### Why
+##### Why
 
 A medium-width belt balances versatility, working equally well with chinos, dress trousers and dark denim.
 
 ---
 
-## Leather
+#### Leather
 
-### Ideal
+##### Ideal
 
 * Full-Grain Leather
 
-### Acceptable
+##### Acceptable
 
 * Top-Grain Leather
 
-### Avoid
+##### Avoid
 
 * Bonded leather
 * Faux leather
 * Split leather
 
-### Why
+##### Why
 
 Full-grain leather develops character over time, resists premature cracking and better matches the quality standards of the wardrobe.
 
 ---
 
-## Construction
+#### Construction
 
-### Ideal
+##### Ideal
 
 * Single-piece leather
 * Clean painted or burnished edges
 * Straight stitching
 * Minimal visible reinforcement
 
-### Acceptable
+##### Acceptable
 
 * Quality stitched construction
 
-### Avoid
+##### Avoid
 
 * Laminated construction
 * Thick padded belts
 * Decorative embossing
 
-### Why
+##### Why
 
 Simple construction improves longevity and keeps the belt visually understated.
 
 ---
 
-## Buckle
+#### Buckle
 
-### Ideal
+##### Ideal
 
 * Brushed silver
 * Rectangular or softly rounded frame
 * Single-prong buckle
 
-### Acceptable
+##### Acceptable
 
 * Matte gunmetal
 
-### Avoid
+##### Avoid
 
 * Oversized buckles
 * Polished gold
 * Decorative logos
 * Western buckles
 
-### Why
+##### Why
 
 A restrained buckle complements the outfit rather than drawing attention to itself.
 
 ---
 
-## Colours
+#### Colours
 
-### Ideal
+##### Ideal
 
 * Dark Brown
 * Chocolate
 * Tobacco
 
-### Acceptable
+##### Acceptable
 
 * Espresso
 
-### Avoid
+##### Avoid
 
 * Black (first belt)
 * Bright colours
 * Contrasting stitching
 
-### Why
+##### Why
 
 Brown belts integrate naturally with the wardrobe's earth-toned footwear and Deep Autumn palette.
 
 ---
 
-## Details
+#### Details
 
-### Ideal
+##### Ideal
 
 * Minimal branding
 * Tonal stitching
 * Clean keeper loops
 
-### Acceptable
+##### Acceptable
 
 * Small embossed maker's mark
 
-### Avoid
+##### Avoid
 
 * Contrast stitching
 * Decorative embossing
 * Large logos
 * Reversible construction
 
-### Why
+##### Why
 
 Small details preserve versatility and prevent the belt from becoming a focal point.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Chinos
 * Dress Trousers
@@ -8136,18 +8117,18 @@ Small details preserve versatility and prevent the belt from becoming a focal po
 * Derby Shoes
 * Chelsea Boots
 
-### Good
+#### Good
 
 * Linen Trousers
 
-### Poor
+#### Poor
 
 * Shorts
 * Athletic Wear
 
 ---
 
-## Wardrobe Notes
+#### Wardrobe Notes
 
 * One high-quality dark brown belt will satisfy the majority of wardrobe needs.
 * Prioritize leather quality over designer branding.
@@ -8156,7 +8137,7 @@ Small details preserve versatility and prevent the belt from becoming a focal po
 
 ---
 
-## Avoid
+### Avoid
 
 * Bonded leather
 * Oversized buckles
@@ -8167,7 +8148,7 @@ Small details preserve versatility and prevent the belt from becoming a focal po
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute       | Weight |
 | --------------- | -----: |
@@ -8177,7 +8158,7 @@ Small details preserve versatility and prevent the belt from becoming a focal po
 | Width           |    15% |
 | Colour          |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -8186,9 +8167,9 @@ Small details preserve versatility and prevent the belt from becoming a focal po
 □ Skip
 
 
-# 8.2 Watch
+## 8.2 Watch
 
-## Quick Spec
+### Quick Spec
 
 | Category         | Ideal                                   |
 | ---------------- | --------------------------------------- |
@@ -8201,7 +8182,7 @@ Small details preserve versatility and prevent the belt from becoming a focal po
 
 ---
 
-## Role
+### Role
 
 The foundation accessory of the wardrobe.
 
@@ -8209,7 +8190,7 @@ Provides refinement and visual balance while complementing both casual and tailo
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Everyday wear
 * Smart casual office
@@ -8220,157 +8201,157 @@ Provides refinement and visual balance while complementing both casual and tailo
 
 ---
 
-# Design Specification
+### Design Specification
 
-## Case Proportions
+#### Case Proportions
 
-### Ideal
+##### Ideal
 
 * 36–38 mm diameter
 * Thin case
 * Balanced lug length
 * Medium bezel
 
-### Acceptable
+##### Acceptable
 
 * 39 mm
 
-### Avoid
+##### Avoid
 
 * Oversized cases (40 mm+ for this wardrobe)
 * Thick dive-watch proportions
 * Extremely small fashion watches
 
-### Why
+##### Why
 
 Balanced proportions suit a slimmer wrist and maintain elegance across casual and formal outfits.
 
 ---
 
-## Dial
+#### Dial
 
-### Ideal
+##### Ideal
 
 * Clean dial
 * Applied indices
 * Simple date window (optional)
 * Minimal text
 
-### Acceptable
+##### Acceptable
 
 * Small seconds
 
-### Avoid
+##### Avoid
 
 * Skeleton dials
 * Oversized numerals
 * Busy chronographs
 * Bright accent colours
 
-### Why
+##### Why
 
 A restrained dial remains timeless and integrates naturally with every outfit.
 
 ---
 
-## Strap / Bracelet
+#### Strap / Bracelet
 
-### Ideal
+##### Ideal
 
 * Dark Brown Leather Strap
 * Brushed Stainless Steel Bracelet
 
-### Acceptable
+##### Acceptable
 
 * Chocolate leather
 * Tan leather (casual)
 
-### Avoid
+##### Avoid
 
 * Bright coloured straps
 * Silicone (outside sport)
 * Large deployant hardware
 
-### Why
+##### Why
 
 Leather and brushed steel provide the greatest versatility.
 
 ---
 
-## Movement
+#### Movement
 
-### Ideal
+##### Ideal
 
 * Reliable Quartz
 * Automatic Mechanical
 
-### Acceptable
+##### Acceptable
 
 * Solar Quartz
 
-### Avoid
+##### Avoid
 
 * Novelty movements
 * Fashion-brand movements
 
-### Why
+##### Why
 
 Reliability and longevity are more valuable than unnecessary complexity.
 
 ---
 
-## Colours
+#### Colours
 
-### Ideal
+##### Ideal
 
 * Silver case
 * White dial
 * Cream dial
 * Black dial
 
-### Acceptable
+##### Acceptable
 
 * Champagne dial
 
-### Avoid
+##### Avoid
 
 * Gold-tone cases
 * Bright coloured dials
 * Two-tone finishes
 
-### Why
+##### Why
 
 Neutral colours integrate effortlessly with the wardrobe.
 
 ---
 
-## Details
+#### Details
 
-### Ideal
+##### Ideal
 
 * Minimal branding
 * Sapphire crystal (preferred)
 * Brushed finishing
 
-### Acceptable
+##### Acceptable
 
 * Mineral crystal
 
-### Avoid
+##### Avoid
 
 * Decorative bezels
 * Excessive polishing
 * Large logos
 
-### Why
+##### Why
 
 The watch should communicate refinement rather than attract attention.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Every tailoring category
 * All shirts
@@ -8379,19 +8360,19 @@ The watch should communicate refinement rather than attract attention.
 * Dress Trousers
 * Dark Indigo Jeans
 
-### Good
+#### Good
 
 * Shorts
 * Linen outfits
 
-### Poor
+#### Poor
 
 * Gym wear
 * Technical sportswear
 
 ---
 
-## Wardrobe Notes
+#### Wardrobe Notes
 
 * One excellent everyday watch provides more value than several fashion watches.
 * Prioritize timeless proportions over complications.
@@ -8399,7 +8380,7 @@ The watch should communicate refinement rather than attract attention.
 
 ---
 
-## Avoid
+### Avoid
 
 * Fashion-brand watches
 * Oversized cases
@@ -8409,7 +8390,7 @@ The watch should communicate refinement rather than attract attention.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute        | Weight |
 | ---------------- | -----: |
@@ -8419,7 +8400,7 @@ The watch should communicate refinement rather than attract attention.
 | Movement         |    15% |
 | Finishing        |    10% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -8428,9 +8409,9 @@ The watch should communicate refinement rather than attract attention.
 □ Skip
 
 
-# 8.3 Sunglasses
+## 8.3 Sunglasses
 
-## Quick Spec
+### Quick Spec
 
 | Category    | Ideal                                  |
 | ----------- | -------------------------------------- |
@@ -8442,7 +8423,7 @@ The watch should communicate refinement rather than attract attention.
 
 ---
 
-## Role
+### Role
 
 The primary functional eyewear accessory for outdoor use.
 
@@ -8450,7 +8431,7 @@ Should complement facial structure without dominating it.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Driving
 * Travel
@@ -8460,9 +8441,9 @@ Should complement facial structure without dominating it.
 
 ---
 
-# Design Specification
+### Design Specification
 
-### Frame Shape
+#### Frame Shape
 
 **Ideal**
 
@@ -8479,13 +8460,13 @@ Should complement facial structure without dominating it.
 * Tiny round frames
 * Aviators (default recommendation)
 
-### Why
+##### Why
 
 Rectangular shapes reinforce masculine facial structure and complement your existing eyewear style.
 
 ---
 
-### Material
+#### Material
 
 **Ideal**
 
@@ -8499,7 +8480,7 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 
 ---
 
-### Lens
+#### Lens
 
 **Ideal**
 
@@ -8513,7 +8494,7 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 
 ---
 
-### Colours
+#### Colours
 
 **Ideal**
 
@@ -8532,14 +8513,14 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 
 ---
 
-## Wardrobe Notes
+#### Wardrobe Notes
 
 * Sunglasses should complement, not compete with, your prescription glasses.
 * Prioritize timeless frame shapes over fashion trends.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -8548,7 +8529,7 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 | Material     |    20% |
 | Colour       |    20% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -8558,9 +8539,9 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 
 ---
 
-# 8.4 Wallet
+## 8.4 Wallet
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                 |
 | ------------ | --------------------- |
@@ -8572,21 +8553,21 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 
 ---
 
-## Role
+### Role
 
 A daily-carry essential prioritizing function, durability and understated quality.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Everyday carry
 
 ---
 
-# Design Specification
+### Design Specification
 
-### Format
+#### Format
 
 **Ideal**
 
@@ -8601,13 +8582,13 @@ A daily-carry essential prioritizing function, durability and understated qualit
 * Bulky tri-fold
 * Oversized travel wallets
 
-### Why
+##### Why
 
 A slim wallet reduces bulk and wears more comfortably.
 
 ---
 
-### Material
+#### Material
 
 **Ideal**
 
@@ -8624,7 +8605,7 @@ A slim wallet reduces bulk and wears more comfortably.
 
 ---
 
-### Construction
+#### Construction
 
 **Ideal**
 
@@ -8638,7 +8619,7 @@ A slim wallet reduces bulk and wears more comfortably.
 
 ---
 
-### Colours
+#### Colours
 
 **Ideal**
 
@@ -8656,14 +8637,14 @@ A slim wallet reduces bulk and wears more comfortably.
 
 ---
 
-## Wardrobe Notes
+#### Wardrobe Notes
 
 * One quality wallet is sufficient.
 * Patina is desirable; structural failure is not.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -8672,7 +8653,7 @@ A slim wallet reduces bulk and wears more comfortably.
 | Format       |    25% |
 | Colour       |    15% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -8681,9 +8662,9 @@ A slim wallet reduces bulk and wears more comfortably.
 □ Skip
 
 
-# 8.5 Scarf
+## 8.5 Scarf
 
-## Quick Spec
+### Quick Spec
 
 | Category     | Ideal                                     |
 | ------------ | ----------------------------------------- |
@@ -8694,13 +8675,13 @@ A slim wallet reduces bulk and wears more comfortably.
 
 ---
 
-## Role
+### Role
 
 Provides warmth while introducing understated texture during cooler weather.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Autumn
 * Winter
@@ -8709,50 +8690,50 @@ Provides warmth while introducing understated texture during cooler weather.
 
 ---
 
-## Design Specification
+### Design Specification
 
-### Ideal
+##### Ideal
 
 * Wool or cashmere
 * Medium length
 * Soft drape
 * Minimal fringe
 
-### Avoid
+##### Avoid
 
 * Loud tartans
 * Bright colours
 * Heavy logos
 * Bulky knit scarves
 
-### Why
+##### Why
 
 The scarf should add texture and warmth without becoming the focal point.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Overcoat
 * Harrington Jacket
 * Blazer
 * Crewneck Sweater
 
-### Poor
+#### Poor
 
 * Summer outfits
 
 ---
 
-## Wardrobe Notes
+#### Wardrobe Notes
 
 * One versatile wool scarf is sufficient for most wardrobes.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -8761,7 +8742,7 @@ The scarf should add texture and warmth without becoming the focal point.
 | Construction |    20% |
 | Pattern      |    15% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -8771,9 +8752,9 @@ The scarf should add texture and warmth without becoming the focal point.
 
 ---
 
-# 8.6 Cap
+## 8.6 Cap
 
-## Quick Spec
+### Quick Spec
 
 | Category | Ideal                                |
 | -------- | ------------------------------------ |
@@ -8784,13 +8765,13 @@ The scarf should add texture and warmth without becoming the focal point.
 
 ---
 
-## Role
+### Role
 
 Casual sun protection and travel accessory.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Weekends
 * Travel
@@ -8799,30 +8780,30 @@ Casual sun protection and travel accessory.
 
 ---
 
-## Design Specification
+### Design Specification
 
-### Ideal
+##### Ideal
 
 * Unstructured six-panel
 * Curved brim
 * Minimal branding
 
-### Avoid
+##### Avoid
 
 * Snapbacks
 * Flat brims
 * Large embroidered logos
 * Camouflage
 
-### Why
+##### Why
 
 Simple caps integrate naturally into a minimalist wardrobe.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * T-Shirts
 * Polos
@@ -8831,20 +8812,20 @@ Simple caps integrate naturally into a minimalist wardrobe.
 * Shorts
 * Sneakers
 
-### Poor
+#### Poor
 
 * Tailoring
 * Formalwear
 
 ---
 
-## Wardrobe Notes
+#### Wardrobe Notes
 
 * Own one versatile cap rather than multiple trend-driven options.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute | Weight |
 | --------- | -----: |
@@ -8853,7 +8834,7 @@ Simple caps integrate naturally into a minimalist wardrobe.
 | Colour    |    25% |
 | Details   |    15% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
@@ -8863,9 +8844,9 @@ Simple caps integrate naturally into a minimalist wardrobe.
 
 ---
 
-# 8.7 Pocket Square
+## 8.7 Pocket Square
 
-## Quick Spec
+### Quick Spec
 
 | Category | Ideal                   |
 | -------- | ----------------------- |
@@ -8875,13 +8856,13 @@ Simple caps integrate naturally into a minimalist wardrobe.
 
 ---
 
-## Role
+### Role
 
 A subtle finishing detail for tailored outfits.
 
 ---
 
-## When I Need It
+### When I Need It
 
 * Weddings
 * Formal events
@@ -8889,47 +8870,47 @@ A subtle finishing detail for tailored outfits.
 
 ---
 
-## Design Specification
+### Design Specification
 
-### Ideal
+##### Ideal
 
 * Linen or silk
 * Minimal border
 * Soft fold
 
-### Avoid
+##### Avoid
 
 * Matching tie sets
 * Loud prints
 * Bright novelty colours
 
-### Why
+##### Why
 
 A pocket square should complement tailoring rather than match it exactly.
 
 ---
 
-## Outfit Compatibility
+### Outfit Compatibility
 
-### Excellent
+#### Excellent
 
 * Blazers
 * Suits
 * Sport Coats
 
-### Poor
+#### Poor
 
 * Casual outfits
 
 ---
 
-## Wardrobe Notes
+#### Wardrobe Notes
 
 * White or cream linen should be the first pocket square purchased.
 
 ---
 
-## Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -8938,7 +8919,7 @@ A pocket square should complement tailoring rather than match it exactly.
 | Pattern      |    20% |
 | Construction |    15% |
 
-### Verdict
+#### Verdict
 
 □ Buy
 
