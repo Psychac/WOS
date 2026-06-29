@@ -250,6 +250,9 @@ Examples:
 
 ## 2.1 Formal Shirt
 
+### Importance Tier
+Tier A — Core
+
 ### Quick Spec
 
 | Category     | Ideal                              |
@@ -446,7 +449,7 @@ Allows the tailoring—not the shirt—to remain the visual focus.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Prioritize fit and collar quality over brand.
 * Relaxed Slim is preferred over Extra Slim.
@@ -485,6 +488,9 @@ Verdict:
 □ Skip
 
 ## 2.2 Oxford Cloth Button-Down (OCBD)
+
+### Importance Tier
+Tier S — Foundation
 
 ### Quick Spec
 
@@ -692,7 +698,7 @@ Texture should provide the visual interest—not loud patterns.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * One of the highest-value shirt categories for my wardrobe.
 * Collar quality is more important than brand.
@@ -732,6 +738,9 @@ Verdict:
 □ Skip
 
 ## 2.3 Casual Button-Down
+
+### Importance Tier
+Tier A — Core
 
 ### Quick Spec
 
@@ -962,7 +971,7 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Prefer textured fabrics over bold patterns.
 * Earth tones should dominate this category.
@@ -1002,6 +1011,9 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 □ Skip
 
 ## 2.4 Linen Shirt
+
+### Importance Tier
+Tier B — Supporting
 
 ### Quick Spec
 
@@ -1217,7 +1229,7 @@ Designed for relaxed smart-casual dressing rather than crisp formality.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Prioritize fabric quality over wrinkle resistance.
 * Natural wrinkling should be embraced rather than avoided.
@@ -1257,6 +1269,9 @@ Designed for relaxed smart-casual dressing rather than crisp formality.
 □ Skip
 
 ## 2.5 Flannel Shirt
+
+### Importance Tier
+Tier B — Supporting
 
 ### Quick Spec
 
@@ -1471,7 +1486,7 @@ A cool-weather shirt designed to provide warmth, texture and seasonal depth whil
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Prioritize fabric quality over pattern.
 * Muted plaids are preferable to bold lumberjack styling.
@@ -1511,6 +1526,9 @@ A cool-weather shirt designed to provide warmth, texture and seasonal depth whil
 □ Skip
 
 ## 2.6 Chambray Shirt
+
+### Importance Tier
+Tier B — Supporting
 
 ### Quick Spec
 
@@ -1618,7 +1636,7 @@ Lighter shades maximise versatility while distinguishing chambray from denim.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Prioritize authentic chambray over lightweight denim.
 * Works best as a relaxed smart-casual piece.
@@ -1654,6 +1672,9 @@ Lighter shades maximise versatility while distinguishing chambray from denim.
 ---
 
 ## 2.7 Denim Shirt
+
+### Importance Tier
+Tier B — Supporting
 
 ### Quick Spec
 
@@ -1765,7 +1786,7 @@ Clean indigo denim is significantly more versatile.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * One denim garment per outfit is usually enough.
 * Keep styling clean to avoid looking overly rugged.
@@ -1859,6 +1880,9 @@ Linen Trousers
 Corduroy Trousers
 
 ## 3.1 Dress Trousers
+
+#### Importance Tier
+Tier A — Core
 
 #### Quick Spec
 
@@ -2120,7 +2144,7 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ---
 
-#### Personal Notes
+#### Wardrobe Notes
 
 * Prioritize rise and drape over brand.
 * A clean silhouette is more valuable than trend-driven details.
@@ -2161,6 +2185,9 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 □ Skip
 
 ## 3.2 Chinos
+
+#### Importance Tier
+Tier S — Foundation
 
 #### Quick Spec
 
@@ -2422,7 +2449,7 @@ Bridges casual and refined dressing while offering maximum versatility.
 
 ---
 
-#### Personal Notes
+#### Wardrobe Notes
 
 * One of the highest-value garments in the wardrobe.
 * Prioritize fit over colour.
@@ -2466,6 +2493,9 @@ Bridges casual and refined dressing while offering maximum versatility.
 
 
 ## 3.3 Jeans
+
+#### Importance Tier
+Tier S — Foundation
 
 #### Quick Spec
 
@@ -2737,7 +2767,7 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-#### Personal Notes
+#### Wardrobe Notes
 
 * One of the highest-value garments in the wardrobe.
 * Prioritize fit over brand.
@@ -2781,6 +2811,9 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 
 ## 3.4 Linen Trousers
+
+#### Importance Tier
+Tier B — Supporting
 
 #### Quick Spec
 
@@ -2913,7 +2946,7 @@ Light earthy colours reinforce linen's relaxed character.
 
 ---
 
-#### Personal Notes
+#### Wardrobe Notes
 
 * Embrace natural wrinkling.
 * Prioritize drape over wrinkle resistance.
@@ -2949,6 +2982,9 @@ Light earthy colours reinforce linen's relaxed character.
 ---
 
 ## 3.5 Corduroy Trousers
+
+#### Importance Tier
+Tier B — Supporting
 
 #### Quick Spec
 
@@ -3033,7 +3069,7 @@ Corduroy should provide texture without becoming the focal point.
 
 ---
 
-#### Personal Notes
+#### Wardrobe Notes
 
 * Medium wale offers the best balance between refinement and texture.
 
@@ -3068,6 +3104,9 @@ Corduroy should provide texture without becoming the focal point.
 ---
 
 ## 3.6 Shorts
+
+#### Importance Tier
+Tier B — Supporting
 
 #### Quick Spec
 
@@ -3180,7 +3219,7 @@ Well-proportioned shorts maintain visual balance while remaining versatile.
 
 ---
 
-#### Personal Notes
+#### Wardrobe Notes
 
 * Keep shorts clean and understated.
 * Avoid turning them into statement pieces.
@@ -3258,6 +3297,9 @@ Examples:
 - Cardigans
 
 ## 4.1 Polo Shirt
+
+### Importance Tier
+Tier S — Foundation
 
 ### Quick Spec
 
@@ -3487,7 +3529,7 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * One of the highest-value garments in the wardrobe.
 * Prioritize collar quality over brand.
@@ -3528,6 +3570,9 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 □ Skip
 
 ## 4.2 Knit Polo
+
+### Importance Tier
+Tier A — Core
 
 ### Quick Spec
 
@@ -3746,7 +3791,7 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * One of the strongest garments for the Modern Creative Minimalist aesthetic.
 * Prioritize fabric quality and drape over brand.
@@ -3785,6 +3830,9 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 □ Skip
 
 ## 4.3 Crewneck Sweater
+
+### Importance Tier
+Tier B — Supporting
 
 ### Quick Spec
 
@@ -3936,7 +3984,7 @@ Earth tones layer effortlessly and suit a Deep Autumn palette.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Prioritize fabric quality over thickness.
 * Fine-gauge knits provide the greatest versatility.
@@ -3972,6 +4020,9 @@ Earth tones layer effortlessly and suit a Deep Autumn palette.
 ---
 
 ## 4.4 Quarter-Zip Sweater
+
+### Importance Tier
+Tier B — Supporting
 
 ### Quick Spec
 
@@ -4043,7 +4094,7 @@ The quarter-zip should elevate an outfit through clean construction rather than 
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Wear the zipper partially open for a more relaxed appearance.
 * Keep hardware understated.
@@ -4071,6 +4122,9 @@ The quarter-zip should elevate an outfit through clean construction rather than 
 ---
 
 ## 4.5 Cardigan
+
+### Importance Tier
+Tier C — Specialist
 
 ### Quick Spec
 
@@ -4144,7 +4198,7 @@ Simple cardigans integrate more easily into a minimalist wardrobe.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Prefer classic button-front designs over fashion-forward interpretations.
 * Fine-gauge cardigans offer the greatest versatility.
@@ -4235,6 +4289,9 @@ Examples:
 ## Categories
 
 ## 5.1 Overshirt
+
+### Importance Tier
+Tier A — Core
 
 ### Quick Spec
 
@@ -4479,7 +4536,7 @@ Adds structure, texture and depth without the formality of tailoring.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * One of the highest-ROI layering garments in the wardrobe.
 * Prioritize fabric quality and silhouette over brand.
@@ -4520,6 +4577,9 @@ Adds structure, texture and depth without the formality of tailoring.
 
 
 ## 5.2 Harrington Jacket
+
+### Importance Tier
+Tier S — Foundation
 
 ### Quick Spec
 
@@ -4760,7 +4820,7 @@ Provides structure, versatility and refinement while remaining appropriate acros
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * The highest-ROI jacket category for this wardrobe.
 * Prioritize silhouette and fabric over brand.
@@ -4801,6 +4861,9 @@ Provides structure, versatility and refinement while remaining appropriate acros
 
 
 ## 5.3 Chore Jacket
+
+### Importance Tier
+Tier B — Supporting
 
 ### Quick Spec
 
@@ -4915,7 +4978,7 @@ Texture is the defining characteristic of the chore jacket.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Prioritize texture over utility styling.
 * Clean workwear > rugged workwear.
@@ -4952,6 +5015,9 @@ Texture is the defining characteristic of the chore jacket.
 ---
 
 ## 5.4 Field Jacket
+
+### Importance Tier
+Tier C — Specialist
 
 ### Quick Spec
 
@@ -5082,7 +5148,7 @@ Utility should remain subtle rather than becoming the focus.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Utility should remain understated.
 * Prioritize silhouette over pocket count.
@@ -5118,6 +5184,9 @@ Utility should remain subtle rather than becoming the focus.
 
 
 ## 5.5 Bomber Jacket
+
+### Importance Tier
+Tier C — Specialist
 
 ### Quick Spec
 
@@ -5233,7 +5302,7 @@ Matte fabrics align better with a refined wardrobe.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Choose understated designs over military-inspired interpretations.
 * Matte finishes age better than shiny fabrics.
@@ -5270,6 +5339,9 @@ Matte fabrics align better with a refined wardrobe.
 ---
 
 ## 5.6 Suede Jacket
+
+### Importance Tier
+Tier B — Supporting
 
 ### Quick Spec
 
@@ -5366,7 +5438,7 @@ Suede should provide understated luxury through texture rather than colour.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Quality suede is worth paying more for.
 * Texture should be the statement, not the design.
@@ -5403,6 +5475,9 @@ Suede should provide understated luxury through texture rather than colour.
 ---
 
 ## 5.7 Overcoat
+
+### Importance Tier
+Tier C — Specialist
 
 ### Quick Spec
 
@@ -5510,7 +5585,7 @@ An overcoat should remain timeless and integrate effortlessly with tailoring.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Buy one exceptional overcoat rather than several average ones.
 * Prioritize fabric and silhouette above all else.
@@ -5593,6 +5668,9 @@ Examples:
 ## Categories
 
 ## 6.1 Blazer
+
+### Importance Tier
+Tier A — Core
 
 ### Quick Spec
 
@@ -5839,7 +5917,7 @@ Bridges formal and smart-casual dressing while providing structure, refinement a
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * One of the highest-ROI tailored garments in the wardrobe.
 * Prioritize silhouette and shoulders over brand.
@@ -5879,6 +5957,9 @@ Bridges formal and smart-casual dressing while providing structure, refinement a
 □ Skip
 
 ## 6.2 Suit
+
+### Importance Tier
+Tier A — Core
 
 ### Quick Spec
 
@@ -6086,7 +6167,7 @@ Warm navy offers the greatest versatility across business and formal occasions.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Own fewer, better suits.
 * Fit and alterations are more important than brand.
@@ -6125,6 +6206,9 @@ Warm navy offers the greatest versatility across business and formal occasions.
 ---
 
 ## 6.3 Sport Coat
+
+### Importance Tier
+Tier A — Core
 
 ### Quick Spec
 
@@ -6268,7 +6352,7 @@ The pattern should add depth without dominating the outfit.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Texture is the defining feature of a sport coat.
 * Own one versatile piece before exploring bolder patterns.
@@ -6303,6 +6387,9 @@ The pattern should add depth without dominating the outfit.
 □ Skip
 
 ## 6.4 Waistcoat
+
+### Importance Tier
+Tier C — Specialist
 
 ### Quick Spec
 
@@ -6408,7 +6495,7 @@ The waistcoat should integrate seamlessly into the tailoring rather than becomin
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Buy only after the core tailoring wardrobe is complete.
 * Treat as an enhancement rather than a necessity.
@@ -6445,6 +6532,9 @@ The waistcoat should integrate seamlessly into the tailoring rather than becomin
 ---
 
 ## 6.5 Tuxedo
+
+### Importance Tier
+Tier C — Specialist
 
 ### Quick Spec
 
@@ -6551,7 +6641,7 @@ A tuxedo should follow established black-tie conventions rather than seasonal tr
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Rent before buying unless black-tie events become frequent.
 * Fit matters far more than luxury branding.
@@ -6648,6 +6738,9 @@ Examples:
 ## Categories
 
 ## 7.1 Minimal Leather Sneakers
+
+### Importance Tier
+Tier S — Foundation
 
 ### Quick Spec
 
@@ -6862,7 +6955,7 @@ The sneaker should act as a foundation rather than a statement piece.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * One of the highest-ROI purchases in the wardrobe.
 * Prioritize shape before brand.
@@ -6903,6 +6996,9 @@ The sneaker should act as a foundation rather than a statement piece.
 □ Skip
 
 ## 7.2 Penny Loafers
+
+### Importance Tier
+Tier S — Foundation
 
 ### Quick Spec
 
@@ -7134,7 +7230,7 @@ Simple details preserve timelessness and maximize outfit compatibility.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * One of the highest-ROI footwear purchases in the wardrobe.
 * Prioritize last shape over brand.
@@ -7176,6 +7272,9 @@ Simple details preserve timelessness and maximize outfit compatibility.
 
 
 ## 7.3 Derby Shoes
+
+### Importance Tier
+Tier A — Core
 
 ### Quick Spec
 
@@ -7356,7 +7455,7 @@ Brown tones integrate with a broader range of outfits than black.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * The first formal shoe should be a brown Derby rather than a black Oxford.
 * Prioritize elegant proportions over decorative detailing.
@@ -7394,6 +7493,9 @@ Brown tones integrate with a broader range of outfits than black.
 ---
 
 ## 7.4 Chelsea Boots
+
+### Importance Tier
+Tier B — Supporting
 
 ### Quick Spec
 
@@ -7559,7 +7661,7 @@ Brown suede introduces texture and pairs naturally with earth-toned wardrobes.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Suede Chelsea boots provide greater versatility than smooth black leather for this wardrobe.
 * Keep the silhouette sleek rather than rugged.
@@ -7596,6 +7698,9 @@ Brown suede introduces texture and pairs naturally with earth-toned wardrobes.
 
 
 ## 7.5 Oxford Shoes
+
+### Importance Tier
+Tier C — Specialist
 
 ### Quick Spec
 
@@ -7670,7 +7775,7 @@ Simplicity and proportion define timeless formal footwear.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Purchase after Derby shoes unless formal dress becomes frequent.
 
@@ -7697,6 +7802,9 @@ Simplicity and proportion define timeless formal footwear.
 ---
 
 ## 7.6 Chukka Boots
+
+### Importance Tier
+Tier B — Supporting
 
 ### Quick Spec
 
@@ -7763,7 +7871,7 @@ The Chukka should remain simple and versatile rather than rugged.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * Suede provides the best balance of texture and versatility.
 
@@ -7790,6 +7898,9 @@ The Chukka should remain simple and versatile rather than rugged.
 ---
 
 ## 7.7 Sandals
+
+### Importance Tier
+Tier C — Specialist
 
 ### Quick Spec
 
@@ -7856,7 +7967,7 @@ Even casual footwear should align with the overall wardrobe aesthetic.
 
 ---
 
-### Personal Notes
+### Wardrobe Notes
 
 * One quality leather pair is sufficient for most wardrobes.
 
@@ -7930,6 +8041,9 @@ Examples:
 ## Categories
 
 ## 8.1 Leather Belt
+
+### Importance Tier
+Tier S — Foundation
 
 ### Quick Spec
 
@@ -8168,6 +8282,9 @@ Small details preserve versatility and prevent the belt from becoming a focal po
 
 
 ## 8.2 Watch
+
+### Importance Tier
+Tier S — Foundation
 
 ### Quick Spec
 
@@ -8411,6 +8528,9 @@ The watch should communicate refinement rather than attract attention.
 
 ## 8.3 Sunglasses
 
+### Importance Tier
+Tier A — Core
+
 ### Quick Spec
 
 | Category    | Ideal                                  |
@@ -8541,6 +8661,9 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 
 ## 8.4 Wallet
 
+### Importance Tier
+Tier S — Foundation
+
 ### Quick Spec
 
 | Category     | Ideal                 |
@@ -8664,6 +8787,9 @@ A slim wallet reduces bulk and wears more comfortably.
 
 ## 8.5 Scarf
 
+### Importance Tier
+Tier B — Supporting
+
 ### Quick Spec
 
 | Category     | Ideal                                     |
@@ -8753,6 +8879,9 @@ The scarf should add texture and warmth without becoming the focal point.
 ---
 
 ## 8.6 Cap
+
+### Importance Tier
+Tier C — Specialist
 
 ### Quick Spec
 
@@ -8846,6 +8975,9 @@ Simple caps integrate naturally into a minimalist wardrobe.
 
 ## 8.7 Pocket Square
 
+### Importance Tier
+Tier C — Specialist
+
 ### Quick Spec
 
 | Category | Ideal                   |
@@ -8926,6 +9058,7 @@ A pocket square should complement tailoring rather than match it exactly.
 □ Consider
 
 □ Skip
+
 
 
 

@@ -1,5 +1,10 @@
 # WOS Refactor Backlog
 
+## Doc 03 Refactor Status
+
+- [x] Rename Personal Notes → Wardrobe Notes
+- [x] Apply Importance Tier
+
 ## Evaluation Criteria
 
 Standardize evaluation weights around the defining characteristic of each garment.

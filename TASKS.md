@@ -2,8 +2,8 @@
 
 ## Doc03 Refactor
 
-- [ ] Rename Personal Notes → Wardrobe Notes
-- [ ] Apply Importance Tier
+- [x] Rename Personal Notes → Wardrobe Notes
+- [x] Apply Importance Tier
 - [ ] Standardize evaluation weights
 - [ ] Remove duplicated rationale
 - [ ] Standardize headings
