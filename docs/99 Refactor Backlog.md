@@ -8,6 +8,12 @@
 - [x] Remove duplicated rationale
 - [x] Standardize headings
 
+## Remaining Todo
+
+See [TASKS.md](../TASKS.md) for the active todo list extracted from the remaining backlog items.
+
+---
+
 ## Evaluation Criteria
 
 Standardize evaluation weights around the defining characteristic of each garment.
