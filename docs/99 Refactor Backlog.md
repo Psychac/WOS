@@ -4,6 +4,9 @@
 
 - [x] Rename Personal Notes → Wardrobe Notes
 - [x] Apply Importance Tier
+- [x] Standardize evaluation weights
+- [x] Remove duplicated rationale
+- [x] Standardize headings
 
 ## Evaluation Criteria
 

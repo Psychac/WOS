@@ -472,14 +472,13 @@ Allows the tailoring—not the shirt—to remain the visual focus.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Fit          |    30% |
-| Collar       |    20% |
+| Collar       |    30% |
+| Fit          |    25% |
 | Fabric       |    20% |
 | Construction |    15% |
 | Colour       |    10% |
-| Pattern      |     5% |
 
-Verdict:
+#### Verdict
 
 □ Buy
 
@@ -702,8 +701,7 @@ Texture should provide the visual interest—not loud patterns.
 
 * One of the highest-value shirt categories for my wardrobe.
 * Collar quality is more important than brand.
-* Earthy colours should be prioritised over cool pastels.
-* Relaxed Slim provides the best balance of comfort and silhouette.
+* Earthy colours and Relaxed Slim provide the best balance of versatility and silhouette.
 
 ---
 
@@ -722,14 +720,13 @@ Texture should provide the visual interest—not loud patterns.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Fit          |    25% |
-| Collar       |    25% |
-| Fabric       |    20% |
+| Collar       |    30% |
+| Fabric       |    25% |
+| Fit          |    20% |
 | Construction |    15% |
 | Colour       |    10% |
-| Pattern      |     5% |
 
-Verdict:
+#### Verdict
 
 □ Buy
 
@@ -995,11 +992,11 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 
 | Attribute    | Weight |
 | ------------ | -----: |
+| Fabric       |    30% |
 | Fit          |    25% |
-| Fabric       |    25% |
 | Collar       |    15% |
 | Construction |    15% |
-| Colour       |    15% |
+| Colour       |    10% |
 | Pattern      |     5% |
 
 #### Verdict
@@ -1619,7 +1616,7 @@ Lighter shades maximise versatility while distinguishing chambray from denim.
 
 ---
 
-#### Outfit Compatibility
+### Outfit Compatibility
 
 ##### Excellent
 
@@ -1766,7 +1763,7 @@ Clean indigo denim is significantly more versatile.
 
 ---
 
-#### Outfit Compatibility
+### Outfit Compatibility
 
 ##### Excellent
 
@@ -1881,10 +1878,10 @@ Corduroy Trousers
 
 ## 3.1 Dress Trousers
 
-#### Importance Tier
+### Importance Tier
 Tier A — Core
 
-#### Quick Spec
+### Quick Spec
 
 | Category     | Ideal                                    |
 | ------------ | ---------------------------------------- |
@@ -1899,7 +1896,7 @@ Tier A — Core
 
 ---
 
-#### Role
+### Role
 
 The foundation trouser for business, tailoring and formal dressing.
 
@@ -1907,7 +1904,7 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ---
 
-#### When I Need It
+### When I Need It
 
 * Formal office
 * Business meetings
@@ -2121,7 +2118,7 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ---
 
-#### Outfit Compatibility
+### Outfit Compatibility
 
 ##### Excellent
 
@@ -2144,11 +2141,10 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ---
 
-#### Wardrobe Notes
+### Wardrobe Notes
 
 * Prioritize rise and drape over brand.
-* A clean silhouette is more valuable than trend-driven details.
-* Mid to slightly high rise consistently improves my proportions.
+* A clean silhouette and mid to slightly high rise consistently improve my proportions.
 * Avoid extra-slim tailoring.
 
 ---
@@ -2164,19 +2160,17 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ---
 
-#### Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Rise         |    20% |
+| Rise         |    30% |
 | Fit          |    25% |
-| Leg Shape    |    15% |
-| Fabric       |    15% |
-| Construction |    10% |
-| Colour       |    10% |
-| Pattern      |     5% |
+| Leg Shape    |    20% |
+| Hem & Break  |    15% |
+| Fabric       |    10% |
 
-##### Verdict
+#### Verdict
 
 □ Buy
 
@@ -2186,10 +2180,10 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ## 3.2 Chinos
 
-#### Importance Tier
+### Importance Tier
 Tier S — Foundation
 
-#### Quick Spec
+### Quick Spec
 
 | Category     | Ideal                                       |
 | ------------ | ------------------------------------------- |
@@ -2204,7 +2198,7 @@ Tier S — Foundation
 
 ---
 
-#### Role
+### Role
 
 The foundation trouser of the smart-casual wardrobe.
 
@@ -2212,7 +2206,7 @@ Bridges casual and refined dressing while offering maximum versatility.
 
 ---
 
-#### When I Need It
+### When I Need It
 
 * Smart casual office
 * Casual Friday
@@ -2422,7 +2416,7 @@ Bridges casual and refined dressing while offering maximum versatility.
 
 ---
 
-#### Outfit Compatibility
+### Outfit Compatibility
 
 ##### Excellent
 
@@ -2449,12 +2443,11 @@ Bridges casual and refined dressing while offering maximum versatility.
 
 ---
 
-#### Wardrobe Notes
+### Wardrobe Notes
 
 * One of the highest-value garments in the wardrobe.
 * Prioritize fit over colour.
-* Prioritize rise over brand.
-* Earth tones should dominate this category.
+* Prioritize rise and earth tones over branding.
 * Avoid owning multiple chinos that perform the same role.
 
 ---
@@ -2471,19 +2464,17 @@ Bridges casual and refined dressing while offering maximum versatility.
 
 ---
 
-#### Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Rise         |    20% |
+| Rise         |    30% |
 | Fit          |    25% |
-| Leg Shape    |    15% |
-| Fabric       |    15% |
-| Construction |    10% |
+| Fabric       |    20% |
+| Construction |    15% |
 | Colour       |    10% |
-| Pattern      |     5% |
 
-##### Verdict
+#### Verdict
 
 □ Buy
 
@@ -2491,13 +2482,12 @@ Bridges casual and refined dressing while offering maximum versatility.
 
 □ Skip
 
-
 ## 3.3 Jeans
 
-#### Importance Tier
+### Importance Tier
 Tier S — Foundation
 
-#### Quick Spec
+### Quick Spec
 
 | Category     | Ideal                              |
 | ------------ | ---------------------------------- |
@@ -2512,7 +2502,7 @@ Tier S — Foundation
 
 ---
 
-#### Role
+### Role
 
 The foundation casual trouser of the wardrobe.
 
@@ -2520,7 +2510,7 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-#### When I Need It
+### When I Need It
 
 * Weekends
 * Casual Friday
@@ -2739,7 +2729,7 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-#### Outfit Compatibility
+### Outfit Compatibility
 
 ##### Excellent
 
@@ -2767,13 +2757,11 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-#### Wardrobe Notes
+### Wardrobe Notes
 
 * One of the highest-value garments in the wardrobe.
-* Prioritize fit over brand.
-* Prioritize clean washes over fashionable treatments.
+* Prioritize fit and clean washes over branding or distressing.
 * Dark indigo should remain the default choice.
-* Let the jeans age naturally rather than buying pre-distressed styles.
 
 ---
 
@@ -2790,18 +2778,18 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-#### Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Rise         |    20% |
+| Colour/Wash  |    30% |
 | Fit          |    25% |
 | Leg Shape    |    15% |
-| Fabric       |    15% |
+| Fabric       |    10% |
 | Construction |    10% |
-| Colour/Wash  |    15% |
+| Rise         |    10% |
 
-##### Verdict
+#### Verdict
 
 □ Buy
 
@@ -2809,13 +2797,12 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 □ Skip
 
-
 ## 3.4 Linen Trousers
 
-#### Importance Tier
+### Importance Tier
 Tier B — Supporting
 
-#### Quick Spec
+### Quick Spec
 
 | Category     | Ideal                            |
 | ------------ | -------------------------------- |
@@ -2830,13 +2817,13 @@ Tier B — Supporting
 
 ---
 
-#### Role
+### Role
 
 Warm-weather trouser prioritizing comfort and breathability.
 
 ---
 
-#### When I Need It
+### When I Need It
 
 * Summer
 * Vacations
@@ -2930,7 +2917,7 @@ Light earthy colours reinforce linen's relaxed character.
 
 ---
 
-#### Outfit Compatibility
+### Outfit Compatibility
 
 ##### Excellent
 
@@ -2946,7 +2933,7 @@ Light earthy colours reinforce linen's relaxed character.
 
 ---
 
-#### Wardrobe Notes
+### Wardrobe Notes
 
 * Embrace natural wrinkling.
 * Prioritize drape over wrinkle resistance.
@@ -2961,7 +2948,7 @@ Light earthy colours reinforce linen's relaxed character.
 
 ---
 
-#### Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -2971,7 +2958,7 @@ Light earthy colours reinforce linen's relaxed character.
 | Colour       |    15% |
 | Construction |    10% |
 
-##### Verdict
+#### Verdict
 
 □ Buy
 
@@ -2983,10 +2970,10 @@ Light earthy colours reinforce linen's relaxed character.
 
 ## 3.5 Corduroy Trousers
 
-#### Importance Tier
+### Importance Tier
 Tier B — Supporting
 
-#### Quick Spec
+### Quick Spec
 
 | Category  | Ideal                                   |
 | --------- | --------------------------------------- |
@@ -2999,13 +2986,13 @@ Tier B — Supporting
 
 ---
 
-#### Role
+### Role
 
 Cool-weather trouser adding warmth and texture.
 
 ---
 
-#### When I Need It
+### When I Need It
 
 * Autumn
 * Winter
@@ -3052,7 +3039,7 @@ Corduroy should provide texture without becoming the focal point.
 
 ---
 
-#### Outfit Compatibility
+### Outfit Compatibility
 
 ##### Excellent
 
@@ -3069,7 +3056,7 @@ Corduroy should provide texture without becoming the focal point.
 
 ---
 
-#### Wardrobe Notes
+### Wardrobe Notes
 
 * Medium wale offers the best balance between refinement and texture.
 
@@ -3083,7 +3070,7 @@ Corduroy should provide texture without becoming the focal point.
 
 ---
 
-#### Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
@@ -3093,7 +3080,7 @@ Corduroy should provide texture without becoming the focal point.
 | Rise         |    15% |
 | Construction |    10% |
 
-##### Verdict
+#### Verdict
 
 □ Buy
 
@@ -3105,10 +3092,10 @@ Corduroy should provide texture without becoming the focal point.
 
 ## 3.6 Shorts
 
-#### Importance Tier
+### Importance Tier
 Tier B — Supporting
 
-#### Quick Spec
+### Quick Spec
 
 | Category | Ideal                        |
 | -------- | ---------------------------- |
@@ -3121,7 +3108,7 @@ Tier B — Supporting
 
 ---
 
-#### Role
+### Role
 
 Hot-weather casual garment.
 
@@ -3129,7 +3116,7 @@ Comfort should never compromise refinement.
 
 ---
 
-#### When I Need It
+### When I Need It
 
 * Casual weekends
 * Travel
@@ -3200,7 +3187,7 @@ Well-proportioned shorts maintain visual balance while remaining versatile.
 
 ---
 
-#### Outfit Compatibility
+### Outfit Compatibility
 
 ##### Excellent
 
@@ -3219,7 +3206,7 @@ Well-proportioned shorts maintain visual balance while remaining versatile.
 
 ---
 
-#### Wardrobe Notes
+### Wardrobe Notes
 
 * Keep shorts clean and understated.
 * Avoid turning them into statement pieces.
@@ -3236,24 +3223,23 @@ Well-proportioned shorts maintain visual balance while remaining versatile.
 
 ---
 
-#### Evaluation Checklist
+### Evaluation Checklist
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Length       |    25% |
+| Length       |    30% |
 | Fit          |    25% |
-| Fabric       |    20% |
-| Colour       |    15% |
-| Construction |    15% |
+| Rise         |    20% |
+| Fabric       |    15% |
+| Colour       |    10% |
 
-##### Verdict
+#### Verdict
 
 □ Buy
 
 □ Consider
 
 □ Skip
-
 
 # Part IV – Knit Tops
 
@@ -3534,7 +3520,7 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 * One of the highest-value garments in the wardrobe.
 * Prioritize collar quality over brand.
 * Earthy colours should dominate this category.
-* Piqué should be the default fabric unless there's a deliberate reason to choose another knit.
+* Piqué should be the default fabric unless there is a deliberate reason to choose another knit.
 
 ---
 
@@ -3554,12 +3540,11 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 
 | Attribute        | Weight |
 | ---------------- | -----: |
+| Collar & Placket |    30% |
 | Fit              |    25% |
-| Collar & Placket |    25% |
 | Fabric           |    20% |
 | Construction     |    15% |
 | Colour           |    10% |
-| Pattern          |     5% |
 
 #### Verdict
 
@@ -3795,7 +3780,7 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 
 * One of the strongest garments for the Modern Creative Minimalist aesthetic.
 * Prioritize fabric quality and drape over brand.
-* Open-collar designs should generally be preferred over heavily structured plackets.
+* Open-collar designs are generally preferable to heavily structured plackets.
 
 ---
 
@@ -3814,12 +3799,11 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 
 | Attribute        | Weight |
 | ---------------- | -----: |
-| Fabric           |    25% |
-| Collar & Placket |    25% |
-| Fit              |    20% |
+| Fabric           |    30% |
+| Fit              |    25% |
+| Collar & Placket |    20% |
 | Construction     |    15% |
 | Colour           |    10% |
-| Pattern          |     5% |
 
 #### Verdict
 
@@ -4223,7 +4207,6 @@ Simple cardigans integrate more easily into a minimalist wardrobe.
 
 □ Skip
 
-
 # Part V – Outerwear
 
 ## Philosophy
@@ -4575,7 +4558,6 @@ Adds structure, texture and depth without the formality of tailoring.
 
 □ Skip
 
-
 ## 5.2 Harrington Jacket
 
 ### Importance Tier
@@ -4824,7 +4806,7 @@ Provides structure, versatility and refinement while remaining appropriate acros
 
 * The highest-ROI jacket category for this wardrobe.
 * Prioritize silhouette and fabric over brand.
-* Waist-length designs consistently improve my proportions.
+* Waist-length designs consistently improve my proportions and support earth tones.
 * Earth tones should dominate this category.
 
 ---
@@ -4858,7 +4840,6 @@ Provides structure, versatility and refinement while remaining appropriate acros
 □ Consider
 
 □ Skip
-
 
 ## 5.3 Chore Jacket
 
@@ -5181,7 +5162,6 @@ Utility should remain subtle rather than becoming the focus.
 □ Consider
 
 □ Skip
-
 
 ## 5.5 Bomber Jacket
 
@@ -7270,7 +7250,6 @@ Simple details preserve timelessness and maximize outfit compatibility.
 
 □ Skip
 
-
 ## 7.3 Derby Shoes
 
 ### Importance Tier
@@ -7696,7 +7675,6 @@ Brown suede introduces texture and pairs naturally with earth-toned wardrobes.
 
 □ Skip
 
-
 ## 7.5 Oxford Shoes
 
 ### Importance Tier
@@ -7991,7 +7969,6 @@ Even casual footwear should align with the overall wardrobe aesthetic.
 
 □ Skip
 
-
 # Part VIII – Accessories
 
 ## Philosophy
@@ -8242,12 +8219,11 @@ Small details preserve versatility and prevent the belt from becoming a focal po
 
 ---
 
-#### Wardrobe Notes
+### Wardrobe Notes
 
 * One high-quality dark brown belt will satisfy the majority of wardrobe needs.
 * Prioritize leather quality over designer branding.
-* Match the belt to the footwear family rather than seeking an exact colour match.
-* Replace only when the leather structure begins to fail, not when it develops patina.
+* Match the belt to the footwear family, and replace it only when structure begins to fail.
 
 ---
 
@@ -8279,7 +8255,6 @@ Small details preserve versatility and prevent the belt from becoming a focal po
 □ Consider
 
 □ Skip
-
 
 ## 8.2 Watch
 
@@ -8489,7 +8464,7 @@ The watch should communicate refinement rather than attract attention.
 
 ---
 
-#### Wardrobe Notes
+### Wardrobe Notes
 
 * One excellent everyday watch provides more value than several fashion watches.
 * Prioritize timeless proportions over complications.
@@ -8524,7 +8499,6 @@ The watch should communicate refinement rather than attract attention.
 □ Consider
 
 □ Skip
-
 
 ## 8.3 Sunglasses
 
@@ -8633,7 +8607,7 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 
 ---
 
-#### Wardrobe Notes
+### Wardrobe Notes
 
 * Sunglasses should complement, not compete with, your prescription glasses.
 * Prioritize timeless frame shapes over fashion trends.
@@ -8760,7 +8734,7 @@ A slim wallet reduces bulk and wears more comfortably.
 
 ---
 
-#### Wardrobe Notes
+### Wardrobe Notes
 
 * One quality wallet is sufficient.
 * Patina is desirable; structural failure is not.
@@ -8783,7 +8757,6 @@ A slim wallet reduces bulk and wears more comfortably.
 □ Consider
 
 □ Skip
-
 
 ## 8.5 Scarf
 
@@ -8853,7 +8826,7 @@ The scarf should add texture and warmth without becoming the focal point.
 
 ---
 
-#### Wardrobe Notes
+### Wardrobe Notes
 
 * One versatile wool scarf is sufficient for most wardrobes.
 
@@ -8948,7 +8921,7 @@ Simple caps integrate naturally into a minimalist wardrobe.
 
 ---
 
-#### Wardrobe Notes
+### Wardrobe Notes
 
 * Own one versatile cap rather than multiple trend-driven options.
 
@@ -9036,7 +9009,7 @@ A pocket square should complement tailoring rather than match it exactly.
 
 ---
 
-#### Wardrobe Notes
+### Wardrobe Notes
 
 * White or cream linen should be the first pocket square purchased.
 
@@ -9058,7 +9031,3 @@ A pocket square should complement tailoring rather than match it exactly.
 □ Consider
 
 □ Skip
-
-
-
-
