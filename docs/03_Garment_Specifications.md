@@ -31,7 +31,7 @@ A garment should be evaluated within its intended level of formality rather than
 
 Fit describes how a garment follows the body's dimensions.
 
-A good fit should:
+A A good fit should:
 
 - Allow unrestricted movement
 - Follow the body's shape without excessive tightness
@@ -181,9 +181,9 @@ It should be evaluated by practical use rather than theoretical combinations.
 
 ### Philosophy
 
-Shirts define the upper body of an outfit. They frame the face, influence perceived shoulder width, communicate formality and provide the primary visual connection between the wearer and the observer.
+Shirts define the upper body of an outfit. They frame the face, influence perceived shoulder width, communicate formality, and provide the primary visual connection between wearer and observer.
 
-For this wardrobe, shirts should prioritize silhouette, versatility and timeless design over trend-driven styling.
+For this wardrobe, shirts should prioritize silhouette, versatility, and timeless design over trend-driven styling.
 
 ---
 
@@ -485,7 +485,6 @@ Allows the tailoring—not the shirt—to remain the visual focus.
 □ Consider
 
 □ Skip
-
 ## 2.2 Oxford Cloth Button-Down (OCBD)
 
 ### Importance Tier
@@ -2837,11 +2836,11 @@ Warm-weather trouser prioritizing comfort and breathability.
 
 ##### Rise
 
-**Ideal**
+##### Ideal
 
 * Mid Rise
 
-**Avoid**
+##### Avoid
 
 * Low Rise
 
@@ -2853,15 +2852,15 @@ Maintains balanced proportions.
 
 ##### Fit
 
-**Ideal**
+##### Ideal
 
 * Relaxed Straight
 
-**Acceptable**
+##### Acceptable
 
 * Relaxed Slim
 
-**Avoid**
+##### Avoid
 
 * Skinny
 * Oversized
@@ -2874,15 +2873,15 @@ Linen should drape naturally rather than cling.
 
 ##### Fabric
 
-**Ideal**
+##### Ideal
 
 * 100% Linen
 
-**Acceptable**
+##### Acceptable
 
 * Linen-Cotton Blend
 
-**Avoid**
+##### Avoid
 
 * Polyester-heavy blends
 
@@ -2894,19 +2893,19 @@ Natural drape and breathability are the defining strengths of linen.
 
 ##### Colours
 
-**Ideal**
+##### Ideal
 
 * Cream
 * Ecru
 * Sand
 * Olive
 
-**Acceptable**
+##### Acceptable
 
 * Tobacco
 * Stone
 
-**Avoid**
+##### Avoid
 
 * Black
 * Bright colours
@@ -3005,31 +3004,31 @@ Cool-weather trouser adding warmth and texture.
 
 ##### Fit
 
-**Ideal**
+##### Ideal
 
 * Relaxed Slim
 
 ##### Fabric
 
-**Ideal**
+##### Ideal
 
 * Medium-wale cotton corduroy
 
-**Avoid**
+##### Avoid
 
 * Very wide wale
 * Thin synthetic corduroy
 
 ##### Colours
 
-**Ideal**
+##### Ideal
 
 * Olive
 * Tobacco
 * Chocolate
 * Forest Green
 
-**Avoid**
+##### Avoid
 
 * Bright colours
 
@@ -3129,53 +3128,53 @@ Comfort should never compromise refinement.
 
 ##### Fit
 
-**Ideal**
+##### Ideal
 
 * Relaxed Slim
 
-**Avoid**
+##### Avoid
 
 * Skinny
 * Oversized
 
 ##### Length
 
-**Ideal**
+##### Ideal
 
 * Ends 2–5 cm above the knee
 
-**Avoid**
+##### Avoid
 
 * Below-knee
 * Very short athletic cuts
 
 ##### Fabric
 
-**Ideal**
+##### Ideal
 
 * Cotton Twill
 * Linen
 
-**Avoid**
+##### Avoid
 
 * Polyester
 * Shiny athletic fabric (unless intended for sport)
 
 ##### Colours
 
-**Ideal**
+##### Ideal
 
 * Olive
 * Cream
 * Tobacco
 * Stone
 
-**Acceptable**
+##### Acceptable
 
 * Ecru
 * Warm Navy
 
-**Avoid**
+##### Avoid
 
 * Neon
 * Loud prints
@@ -4880,13 +4879,13 @@ A casual layering jacket introducing texture and workwear influence without beco
 
 ##### Silhouette
 
-**Ideal**
+##### Ideal
 
 * Hip-length
 * Straight body
 * Comfortable layering
 
-**Avoid**
+##### Avoid
 
 * Oversized workwear fits
 * Cropped cuts
@@ -4899,17 +4898,17 @@ Maintains refinement while preserving workwear character.
 
 ##### Fabric
 
-**Ideal**
+##### Ideal
 
 * Cotton Canvas
 * Cotton Twill
 * Herringbone
 
-**Acceptable**
+##### Acceptable
 
 * Heavy Cotton
 
-**Avoid**
+##### Avoid
 
 * Polyester-rich fabric
 * Thin synthetic canvas
@@ -4922,19 +4921,19 @@ Texture is the defining characteristic of the chore jacket.
 
 ##### Colours
 
-**Ideal**
+##### Ideal
 
 * Olive
 * Tobacco
 * Chocolate
 * Ecru
 
-**Acceptable**
+##### Acceptable
 
 * Forest Green
 * Stone
 
-**Avoid**
+##### Avoid
 
 * Bright colours
 * Heavy contrast
@@ -5033,13 +5032,13 @@ A functional casual jacket providing structure, utility and seasonal versatility
 
 ##### Silhouette
 
-**Ideal**
+##### Ideal
 
 * Hip-length
 * Defined waist
 * Structured shoulders
 
-**Avoid**
+##### Avoid
 
 * Oversized military styling
 * Long parka proportions
@@ -5052,16 +5051,16 @@ Adds masculine structure while remaining versatile.
 
 ##### Fabric
 
-**Ideal**
+##### Ideal
 
 * Cotton Canvas
 * Waxed Cotton
 
-**Acceptable**
+##### Acceptable
 
 * Heavy Cotton Twill
 
-**Avoid**
+##### Avoid
 
 * Polyester shells
 * Shiny technical fabrics
@@ -5074,13 +5073,13 @@ Natural fabrics age better and complement the wardrobe aesthetic.
 
 ##### Details
 
-**Ideal**
+##### Ideal
 
 * Four-pocket layout
 * Hidden placket
 * Matte hardware
 
-**Avoid**
+##### Avoid
 
 * Excessive tactical details
 * Velcro
@@ -5094,17 +5093,17 @@ Utility should remain subtle rather than becoming the focus.
 
 ##### Colours
 
-**Ideal**
+##### Ideal
 
 * Olive
 * Tobacco
 * Dark Brown
 
-**Acceptable**
+##### Acceptable
 
 * Forest Green
 
-**Avoid**
+##### Avoid
 
 * Black
 * Camouflage
@@ -5202,13 +5201,13 @@ A casual jacket adding structure and visual weight without excessive ruggedness.
 
 ##### Silhouette
 
-**Ideal**
+##### Ideal
 
 * Waist-length
 * Clean shoulder line
 * Comfortable layering
 
-**Avoid**
+##### Avoid
 
 * Cropped fashion fits
 * Oversized bomber styling
@@ -5221,17 +5220,17 @@ A clean silhouette maintains versatility while adding masculine structure.
 
 ##### Fabric
 
-**Ideal**
+##### Ideal
 
 * Cotton Twill
 * Suede
 * Wool Blend
 
-**Acceptable**
+##### Acceptable
 
 * Cotton Blend
 
-**Avoid**
+##### Avoid
 
 * Shiny nylon
 * Satin
@@ -5245,18 +5244,18 @@ Matte fabrics align better with a refined wardrobe.
 
 ##### Colours
 
-**Ideal**
+##### Ideal
 
 * Olive
 * Tobacco
 * Chocolate
 * Warm Navy
 
-**Acceptable**
+##### Acceptable
 
 * Forest Green
 
-**Avoid**
+##### Avoid
 
 * Black
 * Bright colours
@@ -5357,7 +5356,7 @@ An elevated smart-casual jacket that introduces luxury, texture and refinement.
 
 ##### Silhouette
 
-**Ideal**
+##### Ideal
 
 * Waist-length
 * Structured shoulders
@@ -5365,32 +5364,32 @@ An elevated smart-casual jacket that introduces luxury, texture and refinement.
 
 ##### Fabric
 
-**Ideal**
+##### Ideal
 
 * Genuine goat or calf suede
 
-**Acceptable**
+##### Acceptable
 
 * High-quality suede leather
 
-**Avoid**
+##### Avoid
 
 * Faux suede
 * Plastic-coated finishes
 
 ##### Colours
 
-**Ideal**
+##### Ideal
 
 * Tobacco
 * Chocolate
 * Dark Olive
 
-**Acceptable**
+##### Acceptable
 
 * Sand
 
-**Avoid**
+##### Avoid
 
 * Black
 * Bright colours
@@ -5495,44 +5494,44 @@ Designed to layer over tailoring while maintaining elegant proportions.
 
 ##### Silhouette
 
-**Ideal**
+##### Ideal
 
 * Knee-length
 * Structured shoulders
 * Clean drape
 
-**Avoid**
+##### Avoid
 
 * Very short coats
 * Oversized fashion fits
 
 ##### Fabric
 
-**Ideal**
+##### Ideal
 
 * 100% Wool
 
-**Acceptable**
+##### Acceptable
 
 * Wool-Cashmere Blend
 
-**Avoid**
+##### Avoid
 
 * Polyester-heavy fabric
 
 ##### Colours
 
-**Ideal**
+##### Ideal
 
 * Chocolate
 * Charcoal Brown
 * Warm Navy
 
-**Acceptable**
+##### Acceptable
 
 * Camel
 
-**Avoid**
+##### Avoid
 
 * Bright colours
 * Busy patterns
@@ -5605,9 +5604,9 @@ An overcoat should remain timeless and integrate effortlessly with tailoring.
 
 Tailoring is the most structured category in the wardrobe and represents the highest level of refinement.
 
-Unlike casual clothing, tailoring should enhance the natural proportions of the body through precise fit, clean lines and thoughtful construction.
+Unlike casual clothing, tailoring should enhance the natural proportions of the body through precise fit, clean lines, and thoughtful construction.
 
-For this wardrobe, tailoring should prioritize proportion, structure and timeless elegance over fashion trends.
+For this wardrobe, tailoring should prioritize proportion, structure, and timeless elegance over fashion trends.
 
 ---
 
@@ -5977,18 +5976,18 @@ Designed for business, weddings, ceremonies and formal occasions requiring compl
 
 #### Silhouette
 
-**Ideal**
+##### Ideal
 
 * Single-breasted
 * Two-button front
 * Moderate lapels
 * Jacket covering the seat
 
-**Acceptable**
+##### Acceptable
 
 * Three-roll-two
 
-**Avoid**
+##### Avoid
 
 * Skinny fashion suits
 * Oversized cuts
@@ -6002,16 +6001,16 @@ A classic silhouette maximizes longevity and versatility.
 
 #### Shoulders
 
-**Ideal**
+##### Ideal
 
 * Lightly structured
 * Clean shoulder line
 
-**Acceptable**
+##### Acceptable
 
 * Natural shoulder
 
-**Avoid**
+##### Avoid
 
 * Heavy padding
 * Dropped shoulders
@@ -6024,16 +6023,16 @@ Shoulders determine the overall appearance of a tailored jacket.
 
 #### Fabric
 
-**Ideal**
+##### Ideal
 
 * 100% Wool
 * Tropical Wool
 
-**Acceptable**
+##### Acceptable
 
 * Wool Blend (high wool content)
 
-**Avoid**
+##### Avoid
 
 * Polyester-rich fabrics
 * High-shine finishes
@@ -6046,14 +6045,14 @@ Wool provides superior drape, breathability and longevity.
 
 #### Fit
 
-**Ideal**
+##### Ideal
 
 * Tailored
 * Comfortable chest
 * Suppressed waist
 * Clean trouser line
 
-**Avoid**
+##### Avoid
 
 * Skinny fit
 * Boxy fit
@@ -6066,18 +6065,18 @@ Tailoring should enhance the body without restricting movement.
 
 #### Construction
 
-**Ideal**
+##### Ideal
 
 * Half-canvas
 * Double vents
 * Flat-front trousers
 * Horn-style buttons
 
-**Acceptable**
+##### Acceptable
 
 * Quality fused construction
 
-**Avoid**
+##### Avoid
 
 * Single vent
 * Plastic buttons
@@ -6087,16 +6086,16 @@ Tailoring should enhance the body without restricting movement.
 
 #### Colours
 
-**Ideal**
+##### Ideal
 
 * Warm Navy
 * Charcoal
 
-**Acceptable**
+##### Acceptable
 
 * Medium Grey
 
-**Avoid**
+##### Avoid
 
 * Black (first suit)
 * Bright Blue
@@ -6110,16 +6109,16 @@ Warm navy offers the greatest versatility across business and formal occasions.
 
 #### Pattern
 
-**Ideal**
+##### Ideal
 
 * Solid
 
-**Acceptable**
+##### Acceptable
 
 * Birdseye
 * Fine Pinstripe
 
-**Avoid**
+##### Avoid
 
 * Bold checks
 * Loud windowpane
@@ -6225,13 +6224,13 @@ A smart-casual tailored jacket that introduces texture and personality while rem
 
 #### Silhouette
 
-**Ideal**
+##### Ideal
 
 * Single-breasted
 * Two-button
 * Slightly softer structure
 
-**Avoid**
+##### Avoid
 
 * Oversized tailoring
 * Very short jackets
@@ -6244,18 +6243,18 @@ Sport coats should feel relaxed without losing elegance.
 
 #### Fabric
 
-**Ideal**
+##### Ideal
 
 * Wool
 * Tweed
 * Hopsack
 * Linen-Wool Blend
 
-**Acceptable**
+##### Acceptable
 
 * Cotton Twill
 
-**Avoid**
+##### Avoid
 
 * Polyester-rich fabrics
 * High-shine materials
@@ -6268,19 +6267,19 @@ Texture distinguishes a sport coat from a blazer.
 
 #### Colours
 
-**Ideal**
+##### Ideal
 
 * Olive
 * Tobacco
 * Brown
 * Warm Navy
 
-**Acceptable**
+##### Acceptable
 
 * Forest Green
 * Rust
 
-**Avoid**
+##### Avoid
 
 * Bright colours
 * Loud contrasts
@@ -6289,17 +6288,17 @@ Texture distinguishes a sport coat from a blazer.
 
 #### Pattern
 
-**Ideal**
+##### Ideal
 
 * Herringbone
 * Hopsack
 * Subtle Check
 
-**Acceptable**
+##### Acceptable
 
 * Prince of Wales (low contrast)
 
-**Avoid**
+##### Avoid
 
 * Bold plaid
 * High-contrast windowpane
@@ -6405,51 +6404,51 @@ Primarily intended as part of a three-piece suit rather than a standalone garmen
 
 #### Silhouette
 
-**Ideal**
+##### Ideal
 
 * Five or six-button single-breasted
 * Covers waistband completely
 * Clean V-opening
 
-**Avoid**
+##### Avoid
 
 * Fashion waistcoats
 * Very short lengths
 
 #### Fit
 
-**Ideal**
+##### Ideal
 
 * Close to the body
 * Comfortable movement
 
-**Avoid**
+##### Avoid
 
 * Tight pulling
 * Excess fabric
 
 #### Fabric
 
-**Ideal**
+##### Ideal
 
 * Matching suit cloth
 * Wool
 
-**Avoid**
+##### Avoid
 
 * Shiny satin (except formal eveningwear)
 
 #### Colours
 
-**Ideal**
+##### Ideal
 
 * Match the suit
 
-**Acceptable**
+##### Acceptable
 
 * Tonal neutral (for separates)
 
-**Avoid**
+##### Avoid
 
 * Contrasting novelty colours
 
@@ -6550,51 +6549,51 @@ Reserved exclusively for black-tie events.
 
 #### Silhouette
 
-**Ideal**
+##### Ideal
 
 * Single-breasted
 * One-button closure
 * Proper evening proportions
 
-**Avoid**
+##### Avoid
 
 * Fashion tuxedos
 * Skinny tailoring
 
 #### Lapels
 
-**Ideal**
+##### Ideal
 
 * Shawl lapel
 * Peak lapel
 
-**Avoid**
+##### Avoid
 
 * Notch lapels
 
 #### Fabric
 
-**Ideal**
+##### Ideal
 
 * 100% Wool
 
-**Acceptable**
+##### Acceptable
 
 * Wool-Mohair Blend
 
-**Avoid**
+##### Avoid
 
 * Polyester
 * Shiny synthetic fabrics
 
 #### Colour
 
-**Ideal**
+##### Ideal
 
 * Midnight Navy
 * Black
 
-**Avoid**
+##### Avoid
 
 * White jackets (unless specifically required)
 * Fashion colours
@@ -8539,16 +8538,16 @@ Should complement facial structure without dominating it.
 
 #### Frame Shape
 
-**Ideal**
+##### Ideal
 
 * Rectangular
 * Soft square
 
-**Acceptable**
+##### Acceptable
 
 * Wayfarer-inspired
 
-**Avoid**
+##### Avoid
 
 * Oversized frames
 * Tiny round frames
@@ -8562,12 +8561,12 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 
 #### Material
 
-**Ideal**
+##### Ideal
 
 * Acetate
 * Stainless Steel
 
-**Avoid**
+##### Avoid
 
 * Glossy plastic
 * Decorative finishes
@@ -8576,12 +8575,12 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 
 #### Lens
 
-**Ideal**
+##### Ideal
 
 * Polarized
 * UV400
 
-**Avoid**
+##### Avoid
 
 * Mirror coatings
 * Bright coloured lenses
@@ -8590,17 +8589,17 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 
 #### Colours
 
-**Ideal**
+##### Ideal
 
 * Dark Brown
 * Tortoiseshell
 * Matte Black
 
-**Acceptable**
+##### Acceptable
 
 * Olive
 
-**Avoid**
+##### Avoid
 
 * Bright colours
 * White frames
@@ -8666,15 +8665,15 @@ A daily-carry essential prioritizing function, durability and understated qualit
 
 #### Format
 
-**Ideal**
+##### Ideal
 
 * Slim bi-fold
 
-**Acceptable**
+##### Acceptable
 
 * Card holder
 
-**Avoid**
+##### Avoid
 
 * Bulky tri-fold
 * Oversized travel wallets
@@ -8687,15 +8686,15 @@ A slim wallet reduces bulk and wears more comfortably.
 
 #### Material
 
-**Ideal**
+##### Ideal
 
 * Full-Grain Leather
 
-**Acceptable**
+##### Acceptable
 
 * Top-Grain Leather
 
-**Avoid**
+##### Avoid
 
 * Bonded leather
 * Faux leather
@@ -8704,12 +8703,12 @@ A slim wallet reduces bulk and wears more comfortably.
 
 #### Construction
 
-**Ideal**
+##### Ideal
 
 * Tight stitching
 * Burnished edges
 
-**Avoid**
+##### Avoid
 
 * Thick padding
 * Decorative embossing
@@ -8718,16 +8717,16 @@ A slim wallet reduces bulk and wears more comfortably.
 
 #### Colours
 
-**Ideal**
+##### Ideal
 
 * Dark Brown
 * Chocolate
 
-**Acceptable**
+##### Acceptable
 
 * Espresso
 
-**Avoid**
+##### Avoid
 
 * Black (default recommendation)
 * Bright colours

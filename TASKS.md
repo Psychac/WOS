@@ -15,8 +15,8 @@
 
 ## Next
 
-- [ ] Review consistency of Ideal / Acceptable / Avoid
-- [ ] Standardize wording
+- [x] Review consistency of Ideal / Acceptable / Avoid
+- [x] Standardize wording
 - [ ] Review outfit compatibility formatting
 - [ ] Ensure all sections use identical heading hierarchy
 - [ ] Remove repetition
