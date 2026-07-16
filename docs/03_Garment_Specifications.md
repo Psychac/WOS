@@ -150,36 +150,10 @@ Versatility is the ability of a garment to integrate naturally into multiple out
 
 It should be evaluated by practical use rather than theoretical combinations.
 
-## Category Overview
-
-- Part II: Shirts
-  - Formal Shirt
-  - Oxford Shirt
-  - Casual Shirt
-  - Linen Shirt
-  - Flannel Shirt
-  - Denim Shirt
-  - Chambray Shirt
-- Part III: Trousers
-  - Dress Trouser
-  - Chino
-  - Jeans
-  - Linen Trouser
-  - Shorts
-- Part IV: Knitwear
-  - ...
-- Part V: Tailoring
-  - ...
-- Part VI: Outerwear
-  - ...
-- Part VII: Footwear
-  - ...
-- Part VIII: Accessories
-  - ...
 
 # Part II – Shirts
 
-### Philosophy
+## Philosophy
 
 Shirts define the upper body of an outfit. They frame the face, influence perceived shoulder width, communicate formality, and provide the primary visual connection between wearer and observer.
 
@@ -187,7 +161,7 @@ For this wardrobe, shirts should prioritize silhouette, versatility, and timeles
 
 ---
 
-### Universal Principles
+## Universal Principles
 
 * Prioritize fit before colour.
 * Prioritize collar before brand.
@@ -199,9 +173,9 @@ For this wardrobe, shirts should prioritize silhouette, versatility, and timeles
 
 ---
 
-### Foundation vs Accent
+## Foundation vs Accent
 
-#### Foundation Shirts
+### Foundation Shirts
 
 Foundation shirts form the core of the wardrobe and should maximise versatility.
 
@@ -218,7 +192,7 @@ Examples:
 * Oxford Cloth Button-Downs
 * Casual Button-Downs
 
-#### Accent Shirts
+### Accent Shirts
 
 Accent shirts introduce seasonal variety, texture or casual character.
 
@@ -238,7 +212,20 @@ Examples:
 
 ---
 
-### Categories
+## Common Pitfalls
+
+These issues appear across multiple shirt types and should be avoided:
+
+* **Loud branding** — Undermines timelessness and visual refinement
+* **Polyester or synthetic-rich blends** — Reduces durability, breathability, and visual quality
+* **Excessive decorative detailing** — Conflicts with the principle that a shirt should support the outfit, not dominate it
+* **Poor shoulder fit** — Creates an unflattering silhouette regardless of other attributes
+
+When evaluating any shirt, check these universal criteria first before considering garment-specific attributes.
+
+---
+
+## Categories
 
 * 2.1 Formal Shirt
 * 2.2 Oxford Cloth Button-Down (OCBD)
@@ -282,9 +269,9 @@ A refined foundation for tailoring, business wear and formal occasions.
 
 ---
 
-### Fit
+#### Fit
 
-#### Ideal
+##### Ideal
 
 * Tailored
 * Relaxed Slim
@@ -292,72 +279,72 @@ A refined foundation for tailoring, business wear and formal occasions.
 * Gentle waist suppression
 * Long enough to remain tucked
 
-#### Acceptable
+##### Acceptable
 
 * Slightly relaxed classic fit
 
-#### Avoid
+##### Avoid
 
 * Extra Slim
 * Oversized
 * Boxy cuts
 
-#### Why
+##### Why
 
 Supports a clean silhouette while avoiding shapes that exaggerate a slim frame.
 
 ---
 
-### Collar
+#### Collar
 
-#### Ideal
+##### Ideal
 
 * Semi-spread
 * Moderate spread
 
-#### Acceptable
+##### Acceptable
 
 * Classic point
 
-#### Avoid
+##### Avoid
 
 * Extreme cutaway
 * Oversized collars
 * Button-down collars
 
-#### Why
+##### Why
 
 Balances facial proportions, works with rectangular glasses and remains timeless.
 
 ---
 
-### Fabric
+#### Fabric
 
-#### Ideal
+##### Ideal
 
 * Cotton Poplin
 * Cotton Twill
 
-#### Acceptable
+##### Acceptable
 
 * Pinpoint Oxford (less formal settings)
 
-#### Avoid
+##### Avoid
 
 * Polyester-rich blends
 * Linen
 * Satin finishes
 * High-shine fabrics
 
-#### Why
+##### Why
 
 Natural cotton offers better drape, breathability, longevity and refinement.
 
 ---
 
-### Construction
+#### Construction
 
-#### Ideal
+##### Ideal
 
 * Medium collar structure
 * Quality stitching
@@ -365,63 +352,63 @@ Natural cotton offers better drape, breathability, longevity and refinement.
 * Clean placket
 * Minimal branding
 
-#### Acceptable
+##### Acceptable
 
 * French cuffs (occasion dependent)
 
-#### Avoid
+##### Avoid
 
 * Soft collapsing collars
 * Decorative trims
 * Excessive branding
 
-#### Why
+##### Why
 
 Improves durability and keeps the shirt visually refined.
 
 ---
 
-### Colours
+#### Colours
 
-#### Ideal
+##### Ideal
 
 * White
 * Off-white
 * Light Blue
 
-#### Acceptable
+##### Acceptable
 
 * Pale Cream
 
-#### Avoid
+##### Avoid
 
 * Loud colours
 * Busy patterns
 
-#### Why
+##### Why
 
 Provides maximum versatility while complementing a Deep Autumn palette.
 
 ---
 
-### Pattern
+#### Pattern
 
-#### Ideal
+##### Ideal
 
 * Solid
 * Fine Stripe
 
-#### Acceptable
+##### Acceptable
 
 * Small conservative check
 
-#### Avoid
+##### Avoid
 
 * Large checks
 * Bold stripes
 * High-contrast prints
 
-#### Why
+##### Why
 
 Allows the tailoring—not the shirt—to remain the visual focus.
 
@@ -459,12 +446,8 @@ Allows the tailoring—not the shirt—to remain the visual focus.
 
 ### Avoid
 
-* Poor shoulder fit
 * Transparent fabric
-* Polyester-rich composition
 * Collar collapse
-* Loud branding
-* Fashion-forward detailing
 
 ---
 
@@ -521,9 +504,9 @@ The most versatile shirt in the wardrobe, bridging formal and casual dressing.
 
 ---
 
-### Fit
+#### Fit
 
-#### Ideal
+##### Ideal
 
 * Tailored
 * Relaxed Slim
@@ -531,98 +514,98 @@ The most versatile shirt in the wardrobe, bridging formal and casual dressing.
 * Comfortable chest
 * Gentle waist suppression
 
-#### Acceptable
+##### Acceptable
 
 * Straight classic fit
 
-#### Avoid
+##### Avoid
 
 * Extra Slim
 * Oversized
 * Boxy silhouettes
 
-#### Why
+##### Why
 
 Maintains masculine proportions while remaining comfortable enough for everyday wear.
 
 ---
 
-### Collar
+#### Collar
 
-#### Ideal
+##### Ideal
 
 * Soft button-down
 * Natural collar roll
 * Medium collar proportions
 
-#### Acceptable
+##### Acceptable
 
 * Slightly structured button-down
 
-#### Avoid
+##### Avoid
 
 * Fused collars
 * Tiny collars
 * Long exaggerated points
 
-#### Why
+##### Why
 
 The collar is the defining characteristic of an OCBD and should look equally natural with or without a tie.
 
 ---
 
-### Fabric
+#### Fabric
 
-#### Ideal
+##### Ideal
 
 * Medium-weight Oxford Cloth
 * 100% Cotton
 
-#### Acceptable
+##### Acceptable
 
 * Heavy Oxford Cloth
 
-#### Avoid
+##### Avoid
 
 * Stretch Oxford
 * Polyester blends
 * Thin poplin marketed as an OCBD
 
-#### Why
+##### Why
 
 Oxford cloth provides the texture, structure and durability that define the garment.
 
 ---
 
-### Construction
+#### Construction
 
-#### Ideal
+##### Ideal
 
 * Soft construction
 * Quality stitching
 * Rounded hem
 * Minimal branding
 
-#### Acceptable
+##### Acceptable
 
 * Locker loop
 * Box pleat
 
-#### Avoid
+##### Avoid
 
 * Decorative trims
 * Contrast stitching
 * Excessive logos
 
-#### Why
+##### Why
 
 Keeps the shirt timeless and allows the fabric texture to become the visual interest.
 
 ---
 
-### Colours
+#### Colours
 
-#### Ideal
+##### Ideal
 
 * Olive
 * Dark Olive
@@ -630,43 +613,43 @@ Keeps the shirt timeless and allows the fabric texture to become the visual inte
 * Ecru
 * Light Blue
 
-#### Acceptable
+##### Acceptable
 
 * White
 * Tobacco
 * Muted Beige
 
-#### Avoid
+##### Avoid
 
 * Bright Blue
 * Cool Grey
 * Neon colours
 
-#### Why
+##### Why
 
 Earthy colours reinforce the intended wardrobe palette while remaining highly versatile.
 
 ---
 
-### Pattern
+#### Pattern
 
-#### Ideal
+##### Ideal
 
 * Solid
 * University Stripe
 
-#### Acceptable
+##### Acceptable
 
 * Fine Bengal Stripe
 * Small Gingham
 
-#### Avoid
+##### Avoid
 
 * Large Plaids
 * Bold Prints
 * High-contrast patterns
 
-#### Why
+##### Why
 
 Texture should provide the visual interest—not loud patterns.
 
@@ -706,11 +689,7 @@ Texture should provide the visual interest—not loud patterns.
 
 ### Avoid
 
-* Poor shoulder fit
 * Collar without a natural roll
-* Polyester-rich fabric
-* Loud branding
-* Decorative detailing
 * Extremely thin Oxford cloth
 
 ---
@@ -978,11 +957,8 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 
 ### Avoid
 
-* Loud branding
 * Skinny fit
-* Synthetic-looking fabrics
 * High-contrast prints
-* Decorative details
 * Trend-driven designs
 
 ---
@@ -1236,11 +1212,9 @@ Designed for relaxed smart-casual dressing rather than crisp formality.
 
 ### Avoid
 
-* Polyester-heavy linen blends
 * Transparent fabric
 * Loud prints
 * Skinny fit
-* Heavy branding
 * Overly structured construction
 
 ---
@@ -1493,11 +1467,9 @@ A cool-weather shirt designed to provide warmth, texture and seasonal depth whil
 
 ### Avoid
 
-* Polyester-heavy fabric
 * Loud buffalo checks
 * Skinny fit
 * Decorative patches
-* Heavy branding
 * Thin flannel marketed as premium
 
 ---
@@ -1617,7 +1589,7 @@ Lighter shades maximise versatility while distinguishing chambray from denim.
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * Olive chinos
 * Cream chinos
@@ -1643,7 +1615,6 @@ Lighter shades maximise versatility while distinguishing chambray from denim.
 
 * Heavy contrast stitching
 * Distressing
-* Loud branding
 
 ---
 
@@ -1764,7 +1735,7 @@ Clean indigo denim is significantly more versatile.
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * Olive chinos
 * Cream chinos
@@ -1796,7 +1767,6 @@ Clean indigo denim is significantly more versatile.
 * Contrast stitching
 * Western yokes
 * Snap buttons
-* Loud branding
 
 ---
 
@@ -1874,6 +1844,16 @@ Examples:
 
 Linen Trousers
 Corduroy Trousers
+
+## Common Pitfalls
+
+These issues appear across multiple trouser types:
+
+* **Low or very low rise** — Affects proportions and requires constant adjustment
+* **Skinny or overly tapered fit** — Conflicts with the goal of a clean, balanced silhouette
+* **Polyester-dominant fabrics** — Reduces durability and breathability; lacks natural drape
+* **Decorative details or loud branding** — Undermines the principle that trousers should provide a neutral foundation
+* **Trend-driven cuts** — Compromises long-term versatility
 
 ## 3.1 Dress Trousers
 
@@ -2119,7 +2099,7 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * Formal Shirts
 * Blazers
@@ -2150,12 +2130,7 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 #### Avoid
 
-* Low rise
-* Skinny fit
 * Heavy break
-* Polyester-dominant fabrics
-* Decorative details
-* Loud branding
 
 ---
 
@@ -2407,7 +2382,6 @@ Bridges casual and refined dressing while offering maximum versatility.
 ##### Avoid
 
 * Prints
-* Loud patterns
 
 ##### Why
 
@@ -2417,7 +2391,7 @@ Bridges casual and refined dressing while offering maximum versatility.
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * Formal Shirts
 * OCBDs
@@ -2730,7 +2704,7 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * OCBDs
 * Casual Button-Downs
@@ -2834,7 +2808,7 @@ Warm-weather trouser prioritizing comfort and breathability.
 
 #### Design Specification
 
-##### Rise
+#### Rise
 
 ##### Ideal
 
@@ -2918,7 +2892,7 @@ Light earthy colours reinforce linen's relaxed character.
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * Linen Shirts
 * OCBDs
@@ -3002,7 +2976,7 @@ Cool-weather trouser adding warmth and texture.
 
 #### Design Specification
 
-##### Fit
+#### Fit
 
 ##### Ideal
 
@@ -3040,7 +3014,7 @@ Corduroy should provide texture without becoming the focal point.
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * Flannel Shirts
 * OCBDs
@@ -3063,9 +3037,7 @@ Corduroy should provide texture without becoming the focal point.
 
 #### Avoid
 
-* Skinny fit
 * Bright colours
-* Loud branding
 
 ---
 
@@ -3126,7 +3098,7 @@ Comfort should never compromise refinement.
 
 #### Design Specification
 
-##### Fit
+#### Fit
 
 ##### Ideal
 
@@ -3134,7 +3106,6 @@ Comfort should never compromise refinement.
 
 ##### Avoid
 
-* Skinny
 * Oversized
 
 ##### Length
@@ -3157,7 +3128,6 @@ Comfort should never compromise refinement.
 
 ##### Avoid
 
-* Polyester
 * Shiny athletic fabric (unless intended for sport)
 
 ##### Colours
@@ -3188,7 +3158,7 @@ Well-proportioned shorts maintain visual balance while remaining versatile.
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * Linen Shirts
 * Casual Button-Downs
@@ -3280,6 +3250,15 @@ Examples:
 
 - Quarter-Zips
 - Cardigans
+
+## Common Pitfalls
+
+These issues appear across multiple knit types:
+
+* **Heavy logos and bold graphics** — Reduces versatility and violates the principle that knitwear should complement, not compete
+* **Loud synthetic finishes** — Conflicts with the priority of natural fibres and tactile quality
+* **Bold or high-contrast stripes** — Creates visual competition with the outfit
+* **Clingy or oversized fits** — Should skim the body, not emphasize shape or create shapelessness
 
 ## 4.1 Polo Shirt
 
@@ -3477,9 +3456,6 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 
 ##### Avoid
 
-* Bold stripes
-* Large logos
-* Graphic prints
 * High-contrast colour blocking
 
 ##### Why
@@ -3491,7 +3467,7 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * Chinos
 * Dark Indigo Jeans
@@ -3523,7 +3499,7 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 
 ---
 
-##### Avoid
+### Avoid
 
 * Large chest logos
 * Skinny fit
@@ -3740,7 +3716,6 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 
 ##### Avoid
 
-* Bold stripes
 * Graphic patterns
 * Large logos
 
@@ -3752,7 +3727,7 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * Chinos
 * Dress Trousers
@@ -3783,7 +3758,7 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 
 ---
 
-##### Avoid
+### Avoid
 
 * Large logos
 * Polyester-rich fabric
@@ -3948,7 +3923,7 @@ Earth tones layer effortlessly and suit a Deep Autumn palette.
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * OCBDs
 * Formal Shirts
@@ -3974,7 +3949,7 @@ Earth tones layer effortlessly and suit a Deep Autumn palette.
 
 ---
 
-##### Avoid
+### Avoid
 
 * Large logos
 * Chunky graphics
@@ -4036,7 +4011,7 @@ A refined layering garment offering more structure than a crewneck while remaini
 
 ### Design Specification
 
-##### Ideal
+#### Ideal
 
 * Fine-gauge knit
 * Quality metal zipper
@@ -4052,7 +4027,6 @@ A refined layering garment offering more structure than a crewneck while remaini
 * Oversized fit
 * Plastic zippers
 * Contrast panels
-* Large logos
 
 ##### Why
 
@@ -4062,7 +4036,7 @@ The quarter-zip should elevate an outfit through clean construction rather than 
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * OCBDs
 * Chinos
@@ -4138,7 +4112,7 @@ A refined layering garment providing warmth and versatility without the structur
 
 ### Design Specification
 
-##### Ideal
+#### Ideal
 
 * Fine to medium gauge knit
 * Button front
@@ -4152,7 +4126,6 @@ A refined layering garment providing warmth and versatility without the structur
 ##### Avoid
 
 * Chunky oversized knits
-* Large logos
 * Decorative patterns
 
 ##### Why
@@ -4163,7 +4136,7 @@ Simple cardigans integrate more easily into a minimalist wardrobe.
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * Formal Shirts
 * OCBDs
@@ -4265,6 +4238,18 @@ Examples:
 * Field Jacket
 * Bomber Jacket
 * Overcoat
+
+---
+
+## Common Pitfalls
+
+These issues appear across multiple outerwear types:
+
+* **Bold patterns or graphic prints** — Reduces versatility and visual restraint; conflicts with prioritizing texture
+* **Heavy branding or decorative detailing** — Prioritize structure before decoration; detracts from clean silhouette
+* **Trend-driven designs** — Timeless silhouettes are essential for a wardrobe investment
+* **Poor shoulder or chest fit** — Outerwear must enhance the silhouette beneath it, not fight it
+* **Oversized or undersized proportions** — Should coordinate naturally with layered clothing underneath
 
 ---
 
@@ -4401,7 +4386,6 @@ Adds structure, texture and depth without the formality of tailoring.
 ##### Avoid
 
 * Thin poplin
-* Polyester-rich blends
 * High-shine fabrics
 
 ##### Why
@@ -4493,7 +4477,7 @@ Adds structure, texture and depth without the formality of tailoring.
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * OCBDs
 * Casual Button-Downs
@@ -4527,7 +4511,7 @@ Adds structure, texture and depth without the formality of tailoring.
 
 ---
 
-##### Avoid
+### Avoid
 
 * Oversized "shacket" fits
 * Shirt-weight fabrics
@@ -4741,8 +4725,6 @@ Provides structure, versatility and refinement while remaining appropriate acros
 
 ##### Avoid
 
-* Bright colours
-* Neon
 * Cool Grey
 * Heavy colour blocking
 
@@ -4776,7 +4758,7 @@ Provides structure, versatility and refinement while remaining appropriate acros
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * OCBDs
 * Casual Button-Downs
@@ -4810,7 +4792,7 @@ Provides structure, versatility and refinement while remaining appropriate acros
 
 ---
 
-##### Avoid
+### Avoid
 
 * Long jackets
 * Oversized bomber styling
@@ -4877,7 +4859,7 @@ A casual layering jacket introducing texture and workwear influence without beco
 
 ### Design Specification
 
-##### Silhouette
+#### Silhouette
 
 ##### Ideal
 
@@ -4887,7 +4869,6 @@ A casual layering jacket introducing texture and workwear influence without beco
 
 ##### Avoid
 
-* Oversized workwear fits
 * Cropped cuts
 
 **Why**
@@ -4942,7 +4923,7 @@ Texture is the defining characteristic of the chore jacket.
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * OCBDs
 * Casual Button-Downs
@@ -4965,7 +4946,7 @@ Texture is the defining characteristic of the chore jacket.
 
 ---
 
-##### Avoid
+### Avoid
 
 * Oversized fits
 * Large utility pockets
@@ -5030,7 +5011,7 @@ A functional casual jacket providing structure, utility and seasonal versatility
 
 ### Design Specification
 
-##### Silhouette
+#### Silhouette
 
 ##### Ideal
 
@@ -5062,7 +5043,6 @@ Adds masculine structure while remaining versatile.
 
 ##### Avoid
 
-* Polyester shells
 * Shiny technical fabrics
 
 **Why**
@@ -5081,9 +5061,7 @@ Natural fabrics age better and complement the wardrobe aesthetic.
 
 ##### Avoid
 
-* Excessive tactical details
 * Velcro
-* Decorative patches
 
 **Why**
 
@@ -5113,7 +5091,7 @@ Utility should remain subtle rather than becoming the focus.
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * OCBDs
 * Crewneck Sweaters
@@ -5135,7 +5113,7 @@ Utility should remain subtle rather than becoming the focus.
 
 ---
 
-##### Avoid
+### Avoid
 
 * Tactical styling
 * Camouflage
@@ -5199,7 +5177,7 @@ A casual jacket adding structure and visual weight without excessive ruggedness.
 
 ### Design Specification
 
-##### Silhouette
+#### Silhouette
 
 ##### Ideal
 
@@ -5234,7 +5212,6 @@ A clean silhouette maintains versatility while adding masculine structure.
 
 * Shiny nylon
 * Satin
-* Polyester-rich fabrics
 
 **Why**
 
@@ -5258,14 +5235,13 @@ Matte fabrics align better with a refined wardrobe.
 ##### Avoid
 
 * Black
-* Bright colours
 * High-contrast panels
 
 ---
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * Chinos
 * Jeans
@@ -5288,7 +5264,7 @@ Matte fabrics align better with a refined wardrobe.
 
 ---
 
-##### Avoid
+### Avoid
 
 * MA-1 styling with excessive pocket details
 * Bright orange linings
@@ -5354,7 +5330,7 @@ An elevated smart-casual jacket that introduces luxury, texture and refinement.
 
 ### Design Specification
 
-##### Silhouette
+#### Silhouette
 
 ##### Ideal
 
@@ -5402,7 +5378,7 @@ Suede should provide understated luxury through texture rather than colour.
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * Knit Polos
 * OCBDs
@@ -5424,7 +5400,7 @@ Suede should provide understated luxury through texture rather than colour.
 
 ---
 
-##### Avoid
+### Avoid
 
 * Faux suede
 * Heavy distressing
@@ -5492,7 +5468,7 @@ Designed to layer over tailoring while maintaining elegant proportions.
 
 ### Design Specification
 
-##### Silhouette
+#### Silhouette
 
 ##### Ideal
 
@@ -5544,7 +5520,7 @@ An overcoat should remain timeless and integrate effortlessly with tailoring.
 
 ### Outfit Compatibility
 
-##### Excellent
+#### Excellent
 
 * Suits
 * Dress Trousers
@@ -5571,7 +5547,7 @@ An overcoat should remain timeless and integrate effortlessly with tailoring.
 
 ---
 
-##### Avoid
+### Avoid
 
 * Trend-driven oversized cuts
 * Polyester-rich fabric
@@ -5641,6 +5617,18 @@ Examples:
 * Sport Coat
 * Waistcoat
 * Tuxedo
+
+---
+
+## Common Pitfalls
+
+These issues appear across multiple tailoring types:
+
+* **Poor shoulder fit** — The foundation of all tailoring; cannot be corrected elsewhere
+* **Fashion-forward or oversized cuts** — Classic proportions outlast trends and suit various body types better
+* **Heavy branding or decorative buttons** — Detracts from clean lines and timeless elegance
+* **Synthetic or low-quality fabrics** — Natural fabrics drape better and age with character
+* **Poor construction** — Half-canvas or better is essential for longevity and shape retention
 
 ---
 
@@ -5807,9 +5795,6 @@ Bridges formal and smart-casual dressing while providing structure, refinement a
 ##### Avoid
 
 * Single vent
-* Cheap plastic buttons
-* Decorative stitching
-* Heavy branding
 
 ##### Why
 
@@ -6079,8 +6064,6 @@ Tailoring should enhance the body without restricting movement.
 ##### Avoid
 
 * Single vent
-* Plastic buttons
-* Decorative stitching
 
 ---
 
@@ -6281,7 +6264,6 @@ Texture distinguishes a sport coat from a blazer.
 
 ##### Avoid
 
-* Bright colours
 * Loud contrasts
 
 ---
@@ -6583,7 +6565,6 @@ Reserved exclusively for black-tie events.
 
 ##### Avoid
 
-* Polyester
 * Shiny synthetic fabrics
 
 #### Colour
@@ -6711,6 +6692,18 @@ Examples:
 * Chukka Boots
 * Oxford Shoes
 * Sandals
+
+---
+
+## Common Pitfalls
+
+These issues appear across multiple footwear types:
+
+* **Trend-driven silhouettes** — Dated shoe shapes look outdated quickly; timeless lasts endure
+* **Poor construction** — Weak stitching, thin soles, or inferior welting compromises longevity
+* **Synthetic or faux leather** — Doesn't age well or develop patina; cracks and peels
+* **Excessive detailing or branding** — Should complement the outfit, not draw attention
+* **Incompatible toe shapes or proportions** — Extreme pointed or oversized toes conflict with modern minimalist aesthetics
 
 ---
 
@@ -6894,11 +6887,6 @@ Off-white and cream integrate more naturally with a Deep Autumn wardrobe while r
 * Small embossed logo
 
 ##### Avoid
-
-* Large logos
-* Metallic details
-* Printed graphics
-* Contrast heel tabs
 
 ##### Why
 
@@ -7173,11 +7161,6 @@ Brown tones integrate naturally with a Deep Autumn wardrobe and offer greater ve
 
 ##### Avoid
 
-* Large logos
-* Metal hardware
-* Decorative broguing
-* Contrast stitching
-
 ##### Why
 
 Simple details preserve timelessness and maximize outfit compatibility.
@@ -7404,7 +7387,6 @@ Slim soles preserve elegant proportions.
 ##### Avoid
 
 * Black (first pair)
-* Bright colours
 
 ##### Why
 
@@ -7712,7 +7694,7 @@ Reserved for business formal dress, ceremonies and traditional tailoring.
 
 ### Design Specification
 
-##### Ideal
+#### Ideal
 
 * Closed lacing
 * Plain cap toe
@@ -7813,7 +7795,7 @@ A relaxed smart-casual boot bridging sneakers and Chelsea boots.
 
 ### Design Specification
 
-##### Ideal
+#### Ideal
 
 * Rounded toe
 * Two or three eyelets
@@ -7908,7 +7890,7 @@ Warm-weather casual footwear prioritizing comfort while maintaining refinement.
 
 ### Design Specification
 
-##### Ideal
+#### Ideal
 
 * Minimal straps
 * Leather upper
@@ -8011,6 +7993,18 @@ Examples:
 * Pocket Square
 * Gloves
 * Cap
+
+---
+
+## Common Pitfalls
+
+These issues appear across multiple accessory types:
+
+* **Heavy branding or logos** — Detracts from the principle that accessories should complement, not dominate
+* **Trend-driven designs** — Statement accessories date quickly; timeless pieces remain relevant
+* **Synthetic or low-quality materials** — Reduces longevity and professional appearance
+* **Incompatible metal finishes** — Creates visual discord when mixed with existing accessories
+* **Excessive detailing** — Conflicts with the goal of subtle refinement
 
 ---
 
@@ -8162,8 +8156,6 @@ A restrained buckle complements the outfit rather than drawing attention to itse
 ##### Avoid
 
 * Black (first belt)
-* Bright colours
-* Contrasting stitching
 
 ##### Why
 
@@ -8184,10 +8176,6 @@ Brown belts integrate naturally with the wardrobe's earth-toned footwear and Dee
 * Small embossed maker's mark
 
 ##### Avoid
-
-* Contrast stitching
-* Decorative embossing
-* Large logos
 * Reversible construction
 
 ##### Why
@@ -8406,10 +8394,6 @@ Reliability and longevity are more valuable than unnecessary complexity.
 
 ##### Avoid
 
-* Gold-tone cases
-* Bright coloured dials
-* Two-tone finishes
-
 ##### Why
 
 Neutral colours integrate effortlessly with the wardrobe.
@@ -8568,9 +8552,6 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 
 ##### Avoid
 
-* Glossy plastic
-* Decorative finishes
-
 ---
 
 #### Lens
@@ -8581,9 +8562,6 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 * UV400
 
 ##### Avoid
-
-* Mirror coatings
-* Bright coloured lenses
 
 ---
 
@@ -8790,7 +8768,7 @@ Provides warmth while introducing understated texture during cooler weather.
 
 ### Design Specification
 
-##### Ideal
+#### Ideal
 
 * Wool or cashmere
 * Medium length
@@ -8883,7 +8861,7 @@ Casual sun protection and travel accessory.
 
 ### Design Specification
 
-##### Ideal
+#### Ideal
 
 * Unstructured six-panel
 * Curved brim
@@ -8976,7 +8954,7 @@ A subtle finishing detail for tailored outfits.
 
 ### Design Specification
 
-##### Ideal
+#### Ideal
 
 * Linen or silk
 * Minimal border

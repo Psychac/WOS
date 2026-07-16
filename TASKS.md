@@ -17,10 +17,10 @@
 
 - [x] Review consistency of Ideal / Acceptable / Avoid
 - [x] Standardize wording
-- [ ] Review outfit compatibility formatting
-- [ ] Ensure all sections use identical heading hierarchy
-- [ ] Remove repetition
-- [ ] Improve consistency
+- [x] Review outfit compatibility formatting
+- [x] Ensure all sections use identical heading hierarchy
+- [x] Remove repetition
+- [x] Improve consistency
 - [ ] Adjust evaluation weights where necessary
 - [ ] Standardize terminology
 - [ ] Review construction vs construction & serviceability for footwear
