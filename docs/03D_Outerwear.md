@@ -10,7 +10,7 @@ It is a permanent reference manual and does not contain shopping priorities or b
 
 # Part I — Garment Fundamentals
 
-This section defines concepts that apply across multiple garment categories.
+This section defines concepts that apply across all garment categories.
 
 ## 1. Formality Scale
 
@@ -31,7 +31,7 @@ A garment should be evaluated within its intended level of formality rather than
 
 Fit describes how a garment follows the body's dimensions.
 
-A A good fit should:
+A good fit should:
 
 - Allow unrestricted movement
 - Follow the body's shape without excessive tightness
@@ -149,6 +149,8 @@ Garments without a clear role should generally be avoided.
 Versatility is the ability of a garment to integrate naturally into multiple outfits and occasions.
 
 It should be evaluated by practical use rather than theoretical combinations.
+
+---
 
 # Part V – Outerwear
 
