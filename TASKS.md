@@ -23,8 +23,8 @@
 - [x] Improve consistency
 - [x] Adjust evaluation weights where necessary
 - [x] Standardize terminology
-- [ ] Review construction vs construction & serviceability for footwear
-- [ ] Review perception-first evaluation ordering
-- [ ] Review specification-first documentation scope
-- [ ] Review garment-first evaluation order
-- [ ] Review decision-oriented rationale
+- [x] Review construction vs construction & serviceability for footwear
+- [x] Review perception-first evaluation ordering
+- [x] Review specification-first documentation scope
+- [x] Review garment-first evaluation order
+- [x] Review decision-oriented rationale
