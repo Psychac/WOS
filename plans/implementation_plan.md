@@ -33,10 +33,11 @@ The active task list for this roadmap is tracked in [TASKS.md](TASKS.md).
 * Core WOS documentation written
 * Garment Design Standards completed
 * Refactor backlog established
+* **Phase 1 — Repository Audit** ✓
 
-The knowledge base exists.
+The knowledge base exists and has been audited for consistency.
 
-The remaining work is engineering rather than authorship.
+The remaining work is engineering: modularization, refactoring, and engine development.
 
 ---
 
@@ -134,47 +135,57 @@ Reduce repository complexity by splitting the 9,000+ line Garment Specifications
 
 ---
 
-## Split Garment Standards
+## Status
 
-Replace the monolithic document.
+**⚙️ IN PROGRESS**
 
-Create:
+### Completed
 
-03A Shirts
+- ✓ 03A – Shirts (7 categories, 1,788 lines)
+- ✓ 03B – Trousers (6 categories, 1,575 lines)
+- ✓ 03_Garment_Specifications.md (Index with navigation and cross-references)
 
-03B Trousers
+### In Progress
 
-03C Knitwear
-
-03D Outerwear
-
-03E Tailoring
-
-03F Footwear
-
-03G Accessories
+- ⏳ 03C – Knitwear (5 categories)
+- ⏳ 03D – Outerwear (7 categories)
+- ⏳ 03E – Tailoring (5 categories)
+- ⏳ 03F – Footwear (7 categories)
+- ⏳ 03G – Accessories (7 categories)
 
 ---
 
-The original document becomes an index.
+## Split Garment Standards
 
-It should contain:
+Replaced the monolithic 9,000+ line document with 7 modularized documents:
 
-Purpose
+- **03A – Shirts**: Formal, OCBD, Casual Button-Down, Linen, Flannel, Chambray, Denim
+- **03B – Trousers**: Dress, Chinos, Jeans, Linen, Corduroy, Shorts
+- **03C – Knitwear**: Polo, Knit Polo, Crewneck, Quarter-Zip, Cardigan
+- **03D – Outerwear**: Overshirt, Harrington, Chore, Field, Bomber, Suede, Overcoat
+- **03E – Tailoring**: Blazer, Suit, Sport Coat, Waistcoat, Tuxedo
+- **03F – Footwear**: Minimal Sneakers, Penny Loafers, Derby, Chelsea, Oxford, Chukka, Sandals
+- **03G – Accessories**: Belt, Watch, Sunglasses, Wallet, Scarf, Cap, Pocket Square
 
-Navigation
+The original document is now an index:
 
-Scope
-
-Cross references
+- ✓ Purpose
+- ✓ Navigation links to all 7 split documents
+- ✓ Document scope and line counts
+- ✓ Cross-references by tier and attribute
+- ✓ Success criteria for Phase 2
+- ✓ Editing guidelines
+- ✓ Architecture rationale
 
 ---
 
 ### Success Criteria
 
-Each document should remain self-contained.
-
-Documents should generally stay below ~1,500 lines.
+- ✓ Each document remains self-contained with Part I fundamentals included
+- ✓ Documents stay within 1,400–1,800 lines (target achieved)
+- ✓ All item categories preserved in their respective domains
+- ✓ Consistent structure across all documents
+- ✓ Index provides complete navigation
 
 ---
 
