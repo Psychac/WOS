@@ -144,10 +144,10 @@ Reduce repository complexity by splitting the 9,000+ line Garment Specifications
 - ✓ 03A – Shirts (7 categories, 1,788 lines)
 - ✓ 03B – Trousers (6 categories, 1,575 lines)
 - ✓ 03C – Knitwear (5 categories, 1,122 lines)
-- ✓ 03D – Outerwear (7 categories, 1,421 lines)
-- ✓ 03E – Tailoring (5 categories, 1,108 lines)
-- ✓ 03F – Footwear (7 categories, 1,547 lines)
-- ✓ 03G – Accessories (7 categories, 1,286 lines)
+- ✓ 03D – Outerwear (7 categories, 1,545 lines)
+- ✓ 03E – Tailoring (5 categories, 1,213 lines)
+- ✓ 03F – Footwear (7 categories, 1,467 lines)
+- ✓ 03G – Accessories (7 categories, 1,210 lines)
 - ✓ 03_Garment_Specifications.md (Index with navigation and cross-references)
 
 ---
@@ -179,11 +179,11 @@ The original document is now an index:
 ### Success Criteria
 
 - ✓ Each document remains self-contained with Part I fundamentals included
-- ✓ Documents stay within 1,100–1,800 lines (target achieved: average 1,406 lines)
+- ✓ Documents stay within 1,100–1,800 lines (target achieved: average 1,417 lines)
 - ✓ All 33 garment categories preserved in their respective domains
 - ✓ Consistent structure across all 7 documents
 - ✓ Index provides complete navigation and cross-references
-- ✓ Total modularized content: ~9,850 lines (preserved from 9,000+ original)
+- ✓ Total modularized content: 9,920 lines (preserved from 9,000+ original)
 - ✓ Architecture enables independent refactoring in Phase 3
 
 ---
