@@ -14,6 +14,12 @@ The repository should be treated as a software project rather than a collection 
 
 This roadmap defines the order in which work should be performed. Unless explicitly instructed otherwise, future AI agents should follow this document.
 
+Do not begin a phase until the previous phase's Success Criteria are met. Phases are sequential gates, not a checklist to work in parallel.
+
+Phases 4 through 8 produce structured markdown/YAML documentation only — no scripts, generators, or executable tooling. "Engine," "database," and "regenerated automatically" describe content an AI agent reads and re-derives on request, not software to be built.
+
+The active task list for this roadmap is tracked in [TASKS.md](TASKS.md).
+
 ---
 
 # Project Status
@@ -78,7 +84,7 @@ Identify:
 
 ## Deliverables
 
-Repository audit report containing:
+Repository audit report, appended as a new section in [99 Refactor Backlog.md](../docs/99%20Refactor%20Backlog.md), containing:
 
 ### Terminology Issues
 
@@ -120,11 +126,63 @@ Consistent document structure.
 
 ---
 
-# Phase 2 — Doc03 Refactor
+# Phase 2 — Modularization
 
 ## Goal
 
-Transform Garment Design Standards into the canonical specification.
+Reduce repository complexity by splitting the 9,000+ line Garment Specifications document before refactoring it. Refactoring a document of this size in place, then re-splitting it, means touching the same content twice; splitting first lets each garment category be refactored and committed independently in Phase 3.
+
+---
+
+## Split Garment Standards
+
+Replace the monolithic document.
+
+Create:
+
+03A Shirts
+
+03B Trousers
+
+03C Knitwear
+
+03D Outerwear
+
+03E Tailoring
+
+03F Footwear
+
+03G Accessories
+
+---
+
+The original document becomes an index.
+
+It should contain:
+
+Purpose
+
+Navigation
+
+Scope
+
+Cross references
+
+---
+
+### Success Criteria
+
+Each document should remain self-contained.
+
+Documents should generally stay below ~1,500 lines.
+
+---
+
+# Phase 3 — Garment Document Refactor
+
+## Goal
+
+Transform each split garment document into a canonical specification.
 
 ---
 
@@ -135,6 +193,8 @@ Apply every approved backlog item.
 Do not introduce new concepts.
 
 Refactor only.
+
+Each split document (03A–03G) may be refactored and committed independently.
 
 ---
 
@@ -247,58 +307,6 @@ Every garment follows STYLE_GUIDE.md.
 No repeated philosophy.
 
 No inconsistent terminology.
-
----
-
-# Phase 3 — Modularization
-
-## Goal
-
-Reduce repository complexity.
-
----
-
-## Split Garment Standards
-
-Replace the monolithic document.
-
-Create:
-
-03A Shirts
-
-03B Trousers
-
-03C Knitwear
-
-03D Outerwear
-
-03E Tailoring
-
-03F Footwear
-
-03G Accessories
-
----
-
-The original document becomes an index.
-
-It should contain:
-
-Purpose
-
-Navigation
-
-Scope
-
-Cross references
-
----
-
-### Success Criteria
-
-Each document should remain self-contained.
-
-Documents should generally stay below ~1,500 lines.
 
 ---
 
@@ -420,7 +428,7 @@ Produce a compressed AI reference.
 
 This is not another source of truth.
 
-It is generated from the curated documentation.
+It is re-derived from the curated documentation by an AI agent following this document — not by an automated build script.
 
 ---
 
@@ -580,7 +588,7 @@ Inputs
 
 Occasion
 
-Temperature
+Season (per doc01 — not live weather/temperature data; no external integration is in scope)
 
 Dress Code
 
@@ -695,6 +703,6 @@ The implementation is complete when:
 * Documentation is modular and internally consistent.
 * Every concept has a single source of truth.
 * The Evaluation Engine can produce deterministic recommendations.
-* Runtime specifications can be regenerated automatically from the curated knowledge base.
+* Runtime specifications can be re-derived from the curated knowledge base by an AI agent, without ambiguity, using only this repository.
 * Product evaluations are structured rather than conversational.
 * New AI agents can understand and extend the repository using only the repository itself, without requiring prior chat context.
