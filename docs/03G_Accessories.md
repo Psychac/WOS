@@ -752,7 +752,18 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 * Acetate
 * Stainless Steel
 
+##### Acceptable
+
+* Plastic frames (if quality construction)
+
 ##### Avoid
+
+* Cheap plastic
+* Fragile hinges
+
+##### Why
+
+Quality materials ensure durability and maintain appearance over years of use.
 
 ---
 
@@ -763,7 +774,18 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 * Polarized
 * UV400
 
+##### Acceptable
+
+* Standard UV protection
+
 ##### Avoid
+
+* Non-polarized lenses
+* Poor UV protection
+
+##### Why
+
+Lens quality directly impacts visual comfort, eye health, and the longevity of the eyewear.
 
 ---
 
@@ -783,6 +805,10 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 
 * Bright colours
 * White frames
+
+##### Why
+
+Neutral tones integrate with wardrobe while maintaining the refined aesthetic.
 
 ---
 

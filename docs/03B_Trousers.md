@@ -1182,7 +1182,7 @@ Warm-weather trouser prioritizing comfort and breathability.
 
 * Low Rise
 
-**Why**
+##### Why
 
 Maintains balanced proportions.
 
@@ -1203,7 +1203,7 @@ Maintains balanced proportions.
 * Skinny
 * Oversized
 
-**Why**
+##### Why
 
 Linen should drape naturally rather than cling.
 
@@ -1223,7 +1223,7 @@ Linen should drape naturally rather than cling.
 
 * Polyester-heavy blends
 
-**Why**
+##### Why
 
 Natural drape and breathability are the defining strengths of linen.
 
@@ -1248,7 +1248,7 @@ Natural drape and breathability are the defining strengths of linen.
 * Black
 * Bright colours
 
-**Why**
+##### Why
 
 Light earthy colours reinforce linen's relaxed character.
 

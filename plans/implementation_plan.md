@@ -226,10 +226,10 @@ Each split document (03A–03G) may be refactored and committed independently.
 - ✓ Construction & Serviceability applied (footwear category)
 
 ### Remaining Verification (TASKS.md)
-- [ ] Verify all garments follow STYLE_GUIDE.md format
-- [ ] Audit 03A–03G for inconsistent terminology
-- [ ] Confirm no repeated philosophy across documents
-- [ ] Spot-check 2–3 garments per category for completeness
+- ✓ Verify all garments follow STYLE_GUIDE.md format
+- ✓ Audit 03A–03G for inconsistent terminology
+- ✓ Confirm no repeated philosophy across documents
+- ✓ Spot-check 2–3 garments per category for completeness
 - [ ] Verify Part I Fundamentals consistency across all 7 split docs
 
 ---

@@ -556,7 +556,7 @@ Designed for business, weddings, ceremonies and formal occasions requiring compl
 * Oversized cuts
 * Double-breasted (first suit)
 
-**Why**
+##### Why
 
 A classic silhouette maximizes longevity and versatility.
 
@@ -578,7 +578,7 @@ A classic silhouette maximizes longevity and versatility.
 * Heavy padding
 * Dropped shoulders
 
-**Why**
+##### Why
 
 Shoulders determine the overall appearance of a tailored jacket.
 
@@ -600,7 +600,7 @@ Shoulders determine the overall appearance of a tailored jacket.
 * Polyester-rich fabrics
 * High-shine finishes
 
-**Why**
+##### Why
 
 Wool provides superior drape, breathability and longevity.
 
@@ -620,7 +620,7 @@ Wool provides superior drape, breathability and longevity.
 * Skinny fit
 * Boxy fit
 
-**Why**
+##### Why
 
 Tailoring should enhance the body without restricting movement.
 
@@ -642,6 +642,10 @@ Tailoring should enhance the body without restricting movement.
 ##### Avoid
 
 * Single vent
+
+##### Why
+
+Double vents provide ease of movement and a more refined silhouette when worn.
 
 ---
 
@@ -683,6 +687,10 @@ Warm navy offers the greatest versatility across business and formal occasions.
 
 * Bold checks
 * Loud windowpane
+
+##### Why
+
+Subtle patterns or solids maintain formality and prevent the suit from appearing dated or trendy.
 
 ---
 
@@ -796,7 +804,7 @@ A smart-casual tailored jacket that introduces texture and personality while rem
 * Oversized tailoring
 * Very short jackets
 
-**Why**
+##### Why
 
 Sport coats should feel relaxed without losing elegance.
 
@@ -820,7 +828,7 @@ Sport coats should feel relaxed without losing elegance.
 * Polyester-rich fabrics
 * High-shine materials
 
-**Why**
+##### Why
 
 Texture distinguishes a sport coat from a blazer.
 
@@ -843,6 +851,10 @@ Texture distinguishes a sport coat from a blazer.
 ##### Avoid
 
 * Loud contrasts
+
+##### Why
+
+Earth tones establish cohesion and allow texture to be the defining characteristic of the sport coat.
 
 ---
 

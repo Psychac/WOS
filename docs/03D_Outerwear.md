@@ -467,7 +467,7 @@ Adds structure, texture and depth without the formality of tailoring.
 * Crewneck Sweaters
 * Linen Trousers
 
-##### Poor
+#### Poor
 
 * Business Suits
 * Black Tie
@@ -747,7 +747,7 @@ Provides structure, versatility and refinement while remaining appropriate acros
 * Linen Trousers
 * Boots
 
-##### Poor
+#### Poor
 
 * Business Suits
 * Black Tie
@@ -842,13 +842,13 @@ A casual layering jacket introducing texture and workwear influence without beco
 
 * Cropped cuts
 
-**Why**
+##### Why
 
 Maintains refinement while preserving workwear character.
 
 ---
 
-##### Fabric
+#### Fabric
 
 ##### Ideal
 
@@ -865,13 +865,13 @@ Maintains refinement while preserving workwear character.
 * Polyester-rich fabric
 * Thin synthetic canvas
 
-**Why**
+##### Why
 
 Texture is the defining characteristic of the chore jacket.
 
 ---
 
-##### Colours
+#### Colours
 
 ##### Ideal
 
@@ -890,6 +890,10 @@ Texture is the defining characteristic of the chore jacket.
 * Bright colours
 * Heavy contrast
 
+##### Why
+
+Neutral earth tones integrate naturally with the wardrobe and enhance versatility.
+
 ---
 
 ### Outfit Compatibility
@@ -903,7 +907,7 @@ Texture is the defining characteristic of the chore jacket.
 * Boots
 * Loafers
 
-##### Poor
+#### Poor
 
 * Business Suits
 * Black Tie
@@ -995,13 +999,13 @@ A functional casual jacket providing structure, utility and seasonal versatility
 * Oversized military styling
 * Long parka proportions
 
-**Why**
+##### Why
 
 Adds masculine structure while remaining versatile.
 
 ---
 
-##### Fabric
+#### Fabric
 
 ##### Ideal
 
@@ -1016,13 +1020,13 @@ Adds masculine structure while remaining versatile.
 
 * Shiny technical fabrics
 
-**Why**
+##### Why
 
 Natural fabrics age better and complement the wardrobe aesthetic.
 
 ---
 
-##### Details
+#### Details
 
 ##### Ideal
 
@@ -1034,13 +1038,13 @@ Natural fabrics age better and complement the wardrobe aesthetic.
 
 * Velcro
 
-**Why**
+##### Why
 
 Utility should remain subtle rather than becoming the focus.
 
 ---
 
-##### Colours
+#### Colours
 
 ##### Ideal
 
@@ -1058,6 +1062,10 @@ Utility should remain subtle rather than becoming the focus.
 * Camouflage
 * Bright colours
 
+##### Why
+
+Earth tones establish the defining character of the field jacket and enhance outfit cohesion.
+
 ---
 
 ### Outfit Compatibility
@@ -1070,7 +1078,7 @@ Utility should remain subtle rather than becoming the focus.
 * Jeans
 * Boots
 
-##### Poor
+#### Poor
 
 * Tailoring
 * Black Tie
@@ -1161,13 +1169,13 @@ A casual jacket adding structure and visual weight without excessive ruggedness.
 * Cropped fashion fits
 * Oversized bomber styling
 
-**Why**
+##### Why
 
 A clean silhouette maintains versatility while adding masculine structure.
 
 ---
 
-##### Fabric
+#### Fabric
 
 ##### Ideal
 
@@ -1184,13 +1192,13 @@ A clean silhouette maintains versatility while adding masculine structure.
 * Shiny nylon
 * Satin
 
-**Why**
+##### Why
 
 Matte fabrics align better with a refined wardrobe.
 
 ---
 
-##### Colours
+#### Colours
 
 ##### Ideal
 
@@ -1208,6 +1216,10 @@ Matte fabrics align better with a refined wardrobe.
 * Black
 * High-contrast panels
 
+##### Why
+
+Warm, cohesive colours maintain versatility and work with broader outfit combinations.
+
 ---
 
 ### Outfit Compatibility
@@ -1221,7 +1233,7 @@ Matte fabrics align better with a refined wardrobe.
 * Minimal Sneakers
 * Boots
 
-##### Poor
+#### Poor
 
 * Tailoring
 * Black Tie
@@ -1309,7 +1321,7 @@ An elevated smart-casual jacket that introduces luxury, texture and refinement.
 * Structured shoulders
 * Clean body
 
-##### Fabric
+#### Fabric
 
 ##### Ideal
 
@@ -1324,7 +1336,7 @@ An elevated smart-casual jacket that introduces luxury, texture and refinement.
 * Faux suede
 * Plastic-coated finishes
 
-##### Colours
+#### Colours
 
 ##### Ideal
 
@@ -1357,7 +1369,7 @@ Suede should provide understated luxury through texture rather than colour.
 * Dark Indigo Jeans
 * Loafers
 
-##### Poor
+#### Poor
 
 * Formal business suits
 * Heavy outdoor wear
@@ -1452,7 +1464,7 @@ Designed to layer over tailoring while maintaining elegant proportions.
 * Very short coats
 * Oversized fashion fits
 
-##### Fabric
+#### Fabric
 
 ##### Ideal
 
@@ -1466,7 +1478,7 @@ Designed to layer over tailoring while maintaining elegant proportions.
 
 * Polyester-heavy fabric
 
-##### Colours
+#### Colours
 
 ##### Ideal
 
@@ -1504,7 +1516,7 @@ An overcoat should remain timeless and integrate effortlessly with tailoring.
 * Knitwear
 * Chinos
 
-##### Poor
+#### Poor
 
 * Shorts
 * Athletic wear
