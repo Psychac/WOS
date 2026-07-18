@@ -455,11 +455,11 @@ Allows the tailoring—not the shirt—to remain the visual focus.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Collar       |    30% |
-| Fit          |    25% |
+| Fit          |    30% |
+| Collar       |    20% |
 | Fabric       |    20% |
 | Construction |    15% |
-| Colour       |    10% |
+| Colour       |    15% |
 
 #### Verdict
 
@@ -698,11 +698,11 @@ Texture should provide the visual interest—not loud patterns.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Collar       |    30% |
+| Fit          |    30% |
 | Fabric       |    25% |
-| Fit          |    20% |
+| Collar       |    15% |
 | Construction |    15% |
-| Colour       |    10% |
+| Colour       |    15% |
 
 #### Verdict
 
@@ -967,12 +967,11 @@ Adds warmth, texture and personality while maintaining a refined appearance.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Fabric       |    30% |
-| Fit          |    25% |
-| Collar       |    15% |
+| Fit          |    30% |
+| Collar       |    20% |
+| Fabric       |    20% |
 | Construction |    15% |
-| Colour       |    10% |
-| Pattern      |     5% |
+| Colour       |    15% |
 
 #### Verdict
 
@@ -1223,12 +1222,11 @@ Designed for relaxed smart-casual dressing rather than crisp formality.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Fabric       |    30% |
-| Fit          |    25% |
-| Colour       |    15% |
-| Collar       |    15% |
-| Construction |    10% |
-| Pattern      |     5% |
+| Fit          |    30% |
+| Fabric       |    25% |
+| Colour       |    20% |
+| Construction |    15% |
+| Collar       |    10% |
 
 #### Verdict
 
@@ -1478,12 +1476,11 @@ A cool-weather shirt designed to provide warmth, texture and seasonal depth whil
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Fabric       |    30% |
-| Fit          |    25% |
-| Colour       |    15% |
-| Pattern      |    15% |
-| Collar       |    10% |
-| Construction |     5% |
+| Fit          |    30% |
+| Fabric       |    25% |
+| Colour       |    20% |
+| Construction |    15% |
+| Pattern      |    10% |
 
 #### Verdict
 
@@ -1622,8 +1619,8 @@ Lighter shades maximise versatility while distinguishing chambray from denim.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Fabric       |    30% |
-| Fit          |    25% |
+| Fit          |    30% |
+| Fabric       |    25% |
 | Colour       |    20% |
 | Construction |    15% |
 | Details      |    10% |
@@ -1774,8 +1771,8 @@ Clean indigo denim is significantly more versatile.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Fabric       |    30% |
-| Fit          |    25% |
+| Fit          |    30% |
+| Fabric       |    25% |
 | Colour       |    20% |
 | Construction |    15% |
 | Details      |    10% |
@@ -2138,11 +2135,11 @@ Designed to provide clean lines, elegant drape and timeless versatility.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Rise         |    30% |
-| Fit          |    25% |
+| Fit          |    30% |
+| Rise         |    20% |
 | Leg Shape    |    20% |
 | Hem & Break  |    15% |
-| Fabric       |    10% |
+| Fabric       |    15% |
 
 #### Verdict
 
@@ -2441,11 +2438,11 @@ Bridges casual and refined dressing while offering maximum versatility.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Rise         |    30% |
-| Fit          |    25% |
+| Fit          |    30% |
+| Rise         |    20% |
 | Fabric       |    20% |
 | Construction |    15% |
-| Colour       |    10% |
+| Colour       |    15% |
 
 #### Verdict
 
@@ -2646,7 +2643,7 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 ---
 
-#### Colour
+#### Colours
 
 ##### Ideal
 
@@ -2755,12 +2752,12 @@ Provides durability, versatility and visual structure while remaining appropriat
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Colour/Wash  |    30% |
-| Fit          |    25% |
-| Leg Shape    |    15% |
-| Fabric       |    10% |
+| Fit          |    30% |
+| Wash         |    20% |
+| Leg Shape    |    20% |
+| Fabric       |    15% |
 | Construction |    10% |
-| Rise         |    10% |
+| Rise         |     5% |
 
 #### Verdict
 
@@ -2925,11 +2922,11 @@ Light earthy colours reinforce linen's relaxed character.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Fabric       |    35% |
-| Fit          |    25% |
+| Fit          |    30% |
+| Fabric       |    25% |
 | Rise         |    15% |
 | Colour       |    15% |
-| Construction |    10% |
+| Construction |    15% |
 
 #### Verdict
 
@@ -3045,8 +3042,8 @@ Corduroy should provide texture without becoming the focal point.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Fabric       |    30% |
-| Fit          |    25% |
+| Fit          |    30% |
+| Fabric       |    25% |
 | Colour       |    20% |
 | Rise         |    15% |
 | Construction |    10% |
@@ -3196,11 +3193,11 @@ Well-proportioned shorts maintain visual balance while remaining versatile.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Length       |    30% |
-| Fit          |    25% |
+| Fit          |    30% |
+| Length       |    20% |
 | Rise         |    20% |
 | Fabric       |    15% |
-| Colour       |    10% |
+| Colour       |    15% |
 
 #### Verdict
 
@@ -3515,11 +3512,11 @@ Provides a more refined appearance than a T-shirt while remaining more relaxed t
 
 | Attribute        | Weight |
 | ---------------- | -----: |
-| Collar & Placket |    30% |
-| Fit              |    25% |
+| Fit              |    30% |
+| Collar & Placket |    20% |
 | Fabric           |    20% |
 | Construction     |    15% |
-| Colour           |    10% |
+| Colour           |    15% |
 
 #### Verdict
 
@@ -3773,11 +3770,11 @@ Ideal for occasions where a T-shirt feels too casual and a shirt feels too forma
 
 | Attribute        | Weight |
 | ---------------- | -----: |
-| Fabric           |    30% |
-| Fit              |    25% |
+| Fit              |    30% |
+| Fabric           |    20% |
 | Collar & Placket |    20% |
 | Construction     |    15% |
-| Colour           |    10% |
+| Colour           |    15% |
 
 #### Verdict
 
@@ -3961,11 +3958,11 @@ Earth tones layer effortlessly and suit a Deep Autumn palette.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Fabric       |    30% |
-| Fit          |    25% |
+| Fit          |    30% |
+| Fabric       |    20% |
 | Neckline     |    20% |
 | Construction |    15% |
-| Colour       |    10% |
+| Colour       |    15% |
 
 #### Verdict
 
@@ -4062,11 +4059,11 @@ The quarter-zip should elevate an outfit through clean construction rather than 
 
 | Attribute         | Weight |
 | ----------------- | -----: |
-| Fabric            |    30% |
-| Fit               |    25% |
+| Fit               |    30% |
+| Fabric            |    20% |
 | Zipper & Neckline |    20% |
 | Construction      |    15% |
-| Colour            |    10% |
+| Colour            |    15% |
 
 #### Verdict
 
@@ -4165,8 +4162,8 @@ Simple cardigans integrate more easily into a minimalist wardrobe.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Fabric       |    30% |
-| Fit          |    25% |
+| Fit          |    30% |
+| Fabric       |    25% |
 | Construction |    20% |
 | Colour       |    15% |
 | Closure      |    10% |
@@ -4526,12 +4523,11 @@ Adds structure, texture and depth without the formality of tailoring.
 
 | Attribute           | Weight |
 | ------------------- | -----: |
-| Layering Silhouette |    25% |
-| Fabric              |    25% |
-| Fit                 |    20% |
+| Fit                 |    30% |
+| Layering Silhouette |    20% |
+| Fabric              |    20% |
 | Construction        |    15% |
-| Colour              |    10% |
-| Pattern             |     5% |
+| Colour              |    15% |
 
 #### Verdict
 
@@ -4807,12 +4803,11 @@ Provides structure, versatility and refinement while remaining appropriate acros
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Silhouette   |    30% |
+| Fit          |    30% |
+| Silhouette   |    20% |
 | Fabric       |    20% |
-| Fit          |    20% |
 | Construction |    15% |
-| Colour       |    10% |
-| Pattern      |     5% |
+| Colour       |    15% |
 
 #### Verdict
 
@@ -4959,11 +4954,11 @@ Texture is the defining characteristic of the chore jacket.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Fabric       |    30% |
-| Silhouette   |    25% |
-| Fit          |    20% |
+| Fit          |    30% |
+| Silhouette   |    20% |
+| Fabric       |    20% |
 | Construction |    15% |
-| Colour       |    10% |
+| Colour       |    15% |
 
 #### Verdict
 
@@ -5126,11 +5121,11 @@ Utility should remain subtle rather than becoming the focus.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Silhouette   |    30% |
-| Fabric       |    25% |
-| Construction |    20% |
-| Details      |    15% |
-| Colour       |    10% |
+| Fit          |    30% |
+| Silhouette   |    20% |
+| Fabric       |    20% |
+| Construction |    15% |
+| Colour       |    15% |
 
 #### Verdict
 
@@ -5277,11 +5272,11 @@ Matte fabrics align better with a refined wardrobe.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Silhouette   |    30% |
-| Fabric       |    25% |
-| Fit          |    20% |
+| Fit          |    30% |
+| Silhouette   |    20% |
+| Fabric       |    20% |
 | Construction |    15% |
-| Colour       |    10% |
+| Colour       |    15% |
 
 #### Verdict
 
@@ -5413,10 +5408,10 @@ Suede should provide understated luxury through texture rather than colour.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Fabric       |    35% |
+| Fit          |    30% |
 | Silhouette   |    25% |
-| Fit          |    20% |
-| Construction |    10% |
+| Fabric       |    20% |
+| Construction |    15% |
 | Colour       |    10% |
 
 #### Verdict
@@ -5560,10 +5555,10 @@ An overcoat should remain timeless and integrate effortlessly with tailoring.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Silhouette   |    30% |
-| Fabric       |    30% |
-| Fit          |    20% |
-| Construction |    10% |
+| Fit          |    30% |
+| Silhouette   |    25% |
+| Fabric       |    20% |
+| Construction |    15% |
 | Colour       |    10% |
 
 #### Verdict
@@ -5905,10 +5900,10 @@ Bridges formal and smart-casual dressing while providing structure, refinement a
 
 | Attribute        | Weight |
 | ---------------- | -----: |
-| Silhouette       |    30% |
-| Shoulders        |    20% |
+| Fit              |    30% |
+| Silhouette       |    20% |
 | Fabric           |    20% |
-| Fit              |    15% |
+| Shoulders        |    15% |
 | Construction     |    10% |
 | Colour & Pattern |     5% |
 
@@ -6150,10 +6145,10 @@ Warm navy offers the greatest versatility across business and formal occasions.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Silhouette   |    30% |
-| Shoulders    |    20% |
+| Fit          |    30% |
+| Silhouette   |    20% |
 | Fabric       |    20% |
-| Fit          |    15% |
+| Shoulders    |    15% |
 | Construction |    10% |
 | Colour       |     5% |
 
@@ -6333,10 +6328,10 @@ The pattern should add depth without dominating the outfit.
 
 | Attribute  | Weight |
 | ---------- | -----: |
-| Fabric     |    30% |
+| Fit        |    30% |
 | Silhouette |    25% |
-| Pattern    |    20% |
-| Fit        |    15% |
+| Fabric     |    20% |
+| Pattern    |    15% |
 | Colour     |    10% |
 
 #### Verdict
@@ -6567,7 +6562,7 @@ Reserved exclusively for black-tie events.
 
 * Shiny synthetic fabrics
 
-#### Colour
+#### Colours
 
 ##### Ideal
 
@@ -6621,10 +6616,10 @@ A tuxedo should follow established black-tie conventions rather than seasonal tr
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Silhouette   |    30% |
-| Lapels       |    20% |
+| Fit          |    30% |
+| Silhouette   |    25% |
 | Fabric       |    20% |
-| Fit          |    20% |
+| Lapels       |    15% |
 | Construction |    10% |
 
 #### Verdict
@@ -6948,8 +6943,8 @@ The sneaker should act as a foundation rather than a statement piece.
 | Attribute      | Weight |
 | -------------- | -----: |
 | Last & Shape   |    30% |
-| Upper Material |    25% |
-| Construction   |    20% |
+| Construction   |    25% |
+| Upper Material |    20% |
 | Sole           |    15% |
 | Colour         |     5% |
 | Details        |     5% |
@@ -7218,10 +7213,10 @@ Simple details preserve timelessness and maximize outfit compatibility.
 | Attribute        | Weight |
 | ---------------- | -----: |
 | Last & Shape     |    30% |
-| Vamp & Apron     |    20% |
+| Construction     |    25% |
 | Upper Material   |    20% |
-| Construction     |    15% |
-| Sole             |    10% |
+| Vamp & Apron     |    15% |
+| Sole             |     5% |
 | Colour & Details |     5% |
 
 #### Verdict
@@ -7436,11 +7431,11 @@ Brown tones integrate with a broader range of outfits than black.
 | Attribute      | Weight |
 | -------------- | -----: |
 | Last & Shape   |    30% |
-| Construction   |    20% |
+| Construction   |    25% |
 | Upper Material |    20% |
 | Sole           |    15% |
-| Lacing         |    10% |
 | Colour         |     5% |
+| Lacing         |     5% |
 
 #### Verdict
 
@@ -7643,8 +7638,8 @@ Brown suede introduces texture and pairs naturally with earth-toned wardrobes.
 | Attribute      | Weight |
 | -------------- | -----: |
 | Last & Shape   |    30% |
-| Upper Material |    25% |
-| Construction   |    20% |
+| Construction   |    25% |
+| Upper Material |    20% |
 | Sole           |    15% |
 | Colour         |    10% |
 
@@ -7841,8 +7836,8 @@ The Chukka should remain simple and versatile rather than rugged.
 | Attribute      | Weight |
 | -------------- | -----: |
 | Last & Shape   |    30% |
-| Upper Material |    25% |
-| Construction   |    20% |
+| Construction   |    25% |
+| Upper Material |    20% |
 | Sole           |    15% |
 | Colour         |    10% |
 
@@ -7937,8 +7932,8 @@ Even casual footwear should align with the overall wardrobe aesthetic.
 | Attribute      | Weight |
 | -------------- | -----: |
 | Shape          |    30% |
-| Upper Material |    25% |
-| Construction   |    20% |
+| Construction   |    25% |
+| Upper Material |    20% |
 | Sole           |    15% |
 | Colour         |    10% |
 
@@ -8595,9 +8590,9 @@ Rectangular shapes reinforce masculine facial structure and complement your exis
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Frame Shape  |    35% |
+| Frame Shape  |    30% |
 | Lens Quality |    25% |
-| Material     |    20% |
+| Material     |    25% |
 | Colour       |    20% |
 
 #### Verdict
@@ -8722,10 +8717,10 @@ A slim wallet reduces bulk and wears more comfortably.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Material     |    35% |
+| Format       |    30% |
+| Material     |    25% |
 | Construction |    25% |
-| Format       |    25% |
-| Colour       |    15% |
+| Colour       |    20% |
 
 #### Verdict
 
@@ -8813,10 +8808,10 @@ The scarf should add texture and warmth without becoming the focal point.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Material     |    40% |
+| Material     |    30% |
 | Colour       |    25% |
-| Construction |    20% |
-| Pattern      |    15% |
+| Construction |    25% |
+| Pattern      |    20% |
 
 #### Verdict
 
@@ -8908,10 +8903,10 @@ Simple caps integrate naturally into a minimalist wardrobe.
 
 | Attribute | Weight |
 | --------- | -----: |
-| Shape     |    35% |
+| Shape     |    30% |
 | Material  |    25% |
 | Colour    |    25% |
-| Details   |    15% |
+| Details   |    20% |
 
 #### Verdict
 
@@ -8996,10 +8991,10 @@ A pocket square should complement tailoring rather than match it exactly.
 
 | Attribute    | Weight |
 | ------------ | -----: |
-| Material     |    35% |
+| Material     |    30% |
 | Colour       |    30% |
 | Pattern      |    20% |
-| Construction |    15% |
+| Construction |    20% |
 
 #### Verdict
 

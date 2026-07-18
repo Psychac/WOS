@@ -21,8 +21,8 @@
 - [x] Ensure all sections use identical heading hierarchy
 - [x] Remove repetition
 - [x] Improve consistency
-- [ ] Adjust evaluation weights where necessary
-- [ ] Standardize terminology
+- [x] Adjust evaluation weights where necessary
+- [x] Standardize terminology
 - [ ] Review construction vs construction & serviceability for footwear
 - [ ] Review perception-first evaluation ordering
 - [ ] Review specification-first documentation scope
