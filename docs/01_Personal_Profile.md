@@ -1,12 +1,16 @@
-01 – Personal Profile
-Purpose
+# 01 – Personal Profile
+
+## Purpose
 
 This document defines the permanent characteristics, goals and constraints that every wardrobe decision should respect.
 
 It intentionally avoids garment recommendations, shopping advice and outfit guidance. Those belong in other documents.
 
-Personal Profile
-Physical Profile
+---
+
+## Personal Profile
+
+### Physical Profile
 Age: 25
 Height: 173 cm
 Weight: 54 kg
@@ -15,12 +19,15 @@ Shoulder Width: Slightly narrow-average
 Proportions: Balanced
 Hair: Straight
 Facial Hair: French beard / stubble
-Colour Profile
-Seasonal Palette
+
+### Colour Profile
+
+#### Seasonal Palette
 
 Deep Autumn
 
-Priority Colours
+#### Priority Colours
+
 Olive
 Dark Olive
 Tobacco
@@ -34,24 +41,31 @@ Warm Navy
 Cream
 Ecru
 Charcoal Brown
-Colours to Avoid
+
+#### Colours to Avoid
+
 Icy colours
 Neon colours
 Cool greys
 Bright royal blues
 Excessive pure white
-Lifestyle
-Work
+
+### Lifestyle
+
+#### Work
+
 Monday–Thursday: Smart Casual
 Friday: Casual
-Personal
+
+#### Personal
 Evening gym
 Casual weekends
 Social dinners
 Cafés
 Occasional dates
 Travel within India
-Budget
+
+### Budget
 
 Typical purchase range:
 
@@ -59,16 +73,18 @@ Typical purchase range:
 
 Budget may change over time and should never override higher-priority design decisions.
 
-Style Identity
-Target Aesthetic
+### Style Identity
+
+#### Target Aesthetic
 
 Modern Creative Minimalist
 
-Influences
+#### Influences
 Parisian Minimalism
 Italian Sprezzatura
 Japanese Neo-Minimalism
-Desired Impression
+
+#### Desired Impression
 
 The wardrobe should communicate:
 
@@ -88,7 +104,8 @@ Excessive streetwear influence
 Corporate stiffness
 Loud luxury
 Overly rugged aesthetics
-Objectives
+
+## Objectives
 
 Primary objectives:
 
@@ -98,14 +115,16 @@ Improve elegance.
 Increase attractiveness through silhouette, fit and grooming.
 Develop a timeless personal style.
 Reduce decision fatigue while dressing.
-Decision Principles
+
+## Decision Principles
 Buy wardrobe roles, not garment categories.
 Optimize the wardrobe as a complete system.
 Prioritize long-term cohesion over short-term novelty.
 Prioritize frequently worn garments over occasion-specific garments.
 Every purchase should solve a genuine wardrobe problem.
 Prefer versatility over quantity.
-Success Metrics
+
+## Success Metrics
 
 The wardrobe is successful if it:
 
@@ -114,7 +133,8 @@ Functions across office, casual and social settings.
 Consistently reinforces the intended personal image.
 Ages well instead of following short-lived trends.
 Allows confident purchasing decisions with minimal second-guessing.
-Permanent Constraints
+
+## Permanent Constraints
 
 These characteristics should be treated as stable:
 
@@ -123,7 +143,8 @@ Colour palette
 Style identity
 Design philosophy
 Decision hierarchy
-Runtime Variables
+
+## Runtime Variables
 
 These may change and should never alter the core architecture:
 
@@ -134,7 +155,8 @@ Budget
 Wardrobe inventory
 Fashion trends
 Seasonal requirements
-Wardrobe Philosophy
+
+## Wardrobe Philosophy
 
 The wardrobe is treated as a system rather than a collection of garments.
 
@@ -147,14 +169,14 @@ Improve the quality and versatility of future outfit combinations.
 
 When choosing between two similar garments, preference should be given to the option that strengthens the wardrobe as a whole rather than the individual item.
 
-### Foot Profile
+## Foot Profile
 
 * Wide forefoot (metatarsal area)
 * Medium-to-high instep
 * Big toe and second toe approximately equal length
 * Standard-width footwear often feels cramped despite adequate length
 
-#### Common Fit Issues
+### Common Fit Issues
 
 * Pressure across the forefoot
 * Cramped toe box

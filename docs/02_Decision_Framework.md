@@ -30,7 +30,7 @@ Highest priority.
 
 The garment should improve or maintain the intended visual shape.
 
-Silhouette always takes precedence over colour, fabric, price or brand.
+Silhouette is the visual outcome of correct proportions; both must work together. Silhouette always takes precedence over colour, fabric, price or brand.
 
 Questions:
 
@@ -42,7 +42,7 @@ Questions:
 
 ## 2. Proportions
 
-The garment should support balanced visual proportions.
+Proportions are the prerequisites to silhouette. Before a garment can create the intended visual shape, its length, rise, and construction must be proportionally correct for the wearer's body.
 
 Examples:
 
@@ -51,7 +51,9 @@ Examples:
 * Balanced leg opening
 * Appropriate collar size
 
-A well-proportioned garment is preferred over a trend-driven silhouette.
+Correct proportions enable the intended silhouette. A garment with poor proportions cannot create good silhouette, regardless of fabric or fit.
+
+A well-proportioned garment is essential; trend-driven silhouettes cannot compensate for proportional mismatch.
 
 ---
 

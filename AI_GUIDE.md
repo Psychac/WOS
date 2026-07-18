@@ -24,21 +24,13 @@ The repository should help answer questions such as:
 
 ---
 
-# Core Philosophy
+# Decision Priority
 
-Always optimize for:
+The evaluation priority is defined in [02_Decision_Framework.md](docs/02_Decision_Framework.md#decision-hierarchy).
 
-1. Fit
-2. Proportions & Silhouette
-3. Versatility
-4. Wardrobe cohesion
-5. Colour harmony
-6. Fabric quality
-7. Construction
-8. Value
-9. Brand
+Summary: Silhouette and proportions take precedence over all other criteria. Evaluation proceeds through fit, wardrobe role, versatility, colour harmony, fabric quality, construction, and value. Brand is a tiebreaker only.
 
-Never reverse this order without strong justification.
+Never reverse the order of the Decision Hierarchy without strong justification and updates to 02_Decision_Framework.md.
 
 ---
 
