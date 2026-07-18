@@ -208,6 +208,31 @@ Each split document (03A–03G) may be refactored and committed independently.
 
 ---
 
+
+## Status
+
+**✅ SUBSTANTIALLY COMPLETE** (Final verification pending)
+
+### Refactors Applied
+- ✓ Rename Personal Notes → Wardrobe Notes (all 7 documents)
+- ✓ Apply Importance Tier (all 33 garments)
+- ✓ Standardize evaluation weights (all categories)
+- ✓ Remove duplicated rationale (cross-document deduplication)
+- ✓ Standardize headings (consistent structure across 03A–03G)
+- ✓ Reorder evaluation hierarchy (garment-defining characteristics first)
+- ✓ Review perception-first evaluation ordering (visual before technical)
+- ✓ Standardize terminology globally (Ideal/Acceptable/Avoid pattern)
+- ✓ Consolidate section introductions (reduced individual garment duplication)
+- ✓ Construction & Serviceability applied (footwear category)
+
+### Remaining Verification (TASKS.md)
+- [ ] Verify all garments follow STYLE_GUIDE.md format
+- [ ] Audit 03A–03G for inconsistent terminology
+- [ ] Confirm no repeated philosophy across documents
+- [ ] Spot-check 2–3 garments per category for completeness
+- [ ] Verify Part I Fundamentals consistency across all 7 split docs
+
+---
 ## Required Tasks
 
 ### Standardize terminology
