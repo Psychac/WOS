@@ -30,14 +30,17 @@
 - [ ] Verify Part I Fundamentals consistency across all 7 split docs
 - [ ] Update implementation_plan.md Phase 3 status to ✅ COMPLETE (when verified)
 
+## Phase 4 — Evaluation Engine ✅
+
+- [x] Create EVALUATION_ENGINE.md
+
 ## Backlog
 
-### Phase 4 Prep
+### Phase 5 Prep
 - [ ] Distill Doc03 (create compressed reference)
 - [ ] Distill Doc02 (create compressed reference)
 
 ### Phase 5 — Runtime Specification (Pending)
-- [ ] Create EVALUATION_ENGINE.md
 - [ ] Create runtime specs for all categories
 
 ## Phase 3 Success Criteria (Per implementation_plan.md)

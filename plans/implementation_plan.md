@@ -36,10 +36,11 @@ The active task list for this roadmap is tracked in [TASKS.md](TASKS.md).
 * **Phase 1 — Repository Audit** ✓
 * **Phase 2 — Modularization** ✓ (7 split documents, 9,920 lines)
 * **Phase 3 — Garment Document Refactor** ✓ (All verification checks pass)
+* **Phase 4 — Evaluation Engine** ✓ (EVALUATION_ENGINE.md created)
 
-The knowledge base has been audited, modularized, and refactored to canonical specifications.
+The knowledge base has been audited, modularized, and refactored to canonical specifications. The evaluation process is now formally defined.
 
-The remaining work is engine development and additional reference layers (Phases 4–8).
+The remaining work is additional reference layers (Phases 5–8).
 
 ---
 
@@ -358,6 +359,19 @@ This document explains the decision process rather than clothing knowledge.
 Create:
 
 EVALUATION_ENGINE.md
+
+---
+
+## Status
+
+**✅ COMPLETE**
+
+- ✓ [EVALUATION_ENGINE.md](../EVALUATION_ENGINE.md) created at repository root, alongside AI_GUIDE.md, ARCHITECTURE.md, STYLE_GUIDE.md
+- ✓ Evaluation Pipeline defined (Input → Classification → Specification Retrieval → Evaluation → Wardrobe Impact → Recommendation → Output)
+- ✓ Purchase Algorithm defined as a 9-step procedural sequence, referencing rather than restating 02_Decision_Framework.md
+- ✓ Scoring Model defined: Objective Quality, Wardrobe Utility, Opportunity Cost, Value, each rated Low/Medium/High
+- ✓ Overall Recommendation thresholds defined deterministically (Buy / Consider / Skip)
+- ✓ Ownership section confirms no criteria are duplicated from 01, 02, 03, 04, or 05
 
 ---
 
