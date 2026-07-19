@@ -115,3 +115,21 @@ When editing documentation:
 - Do not introduce unnecessary complexity.
 - Follow STYLE_GUIDE.md.
 - Respect ARCHITECTURE.md.
+
+---
+
+# Runtime Metadata Schema
+
+Each garment entry in `distilled/03A`–`03G` carries a `Tags:` line for retrieval, in a fixed field order:
+
+`category, formality, occasion(s), season, colour-palette, priority-tier, wardrobe-role`
+
+- **category** — garment group (e.g. `shirts`, `trousers`, `footwear`)
+- **formality** — `formal` / `smart-casual` / `casual` / `all-formality`
+- **occasion(s)** — one or more of `office`, `casual-friday`, `weekend`, `dinner`, `date`, `travel`, `formal-occasion`, `black-tie`, `layering`, `daily`
+- **season** — `all-season`, `summer`, or `winter`
+- **colour-palette** — always `deep-autumn` (matches [`01_Personal_Profile.md`](distilled/01_Personal_Profile.md))
+- **priority-tier** — `foundation-tier` / `core` / `supporting` / `specialist` (mirrors the entry's `Tier:` line)
+- **wardrobe-role** — `foundation` / `accent` / `specialist` / `core` (mirrors the entry's `Wardrobe role:` line)
+
+Use tags to filter candidates before applying the full evaluation hierarchy from [`02_Decision_Framework.md`](distilled/02_Decision_Framework.md) — never as a substitute for it.

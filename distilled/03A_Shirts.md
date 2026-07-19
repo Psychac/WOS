@@ -11,6 +11,7 @@ Avoid: Extra Slim/oversized/boxy cuts; extreme cutaway/oversized/button-down col
 Colours: White, Off-white, Light Blue
 Evaluation order: Fit(30%) > Fabric(20%) > Collar(20%) > Construction(15%) > Colour(15%)
 Wardrobe role: Foundation — highest-formality shirt, pairs with tailoring only.
+Tags: shirts, formal, office, tailoring, all-season, deep-autumn, core, foundation
 
 ### Oxford Cloth Button-Down (OCBD)
 Tier: S — Foundation
@@ -21,6 +22,7 @@ Avoid: Extra Slim/oversized/boxy; fused collars, tiny collars, long exaggerated 
 Colours: Olive, Dark Olive, Cream, Ecru, Light Blue
 Evaluation order: Fit(30%) > Fabric(25%) > Collar(15%) > Construction(15%) > Colour(15%)
 Wardrobe role: Foundation — highest-value shirt category, primary versatility driver.
+Tags: shirts, smart-casual, office, weekend, all-season, deep-autumn, foundation-tier, foundation
 
 ### Casual Button-Down
 Tier: A — Core
@@ -31,6 +33,7 @@ Avoid: Extra Slim/oversized/boxy/skinny; stiff fused collars, extreme cutaway, v
 Colours: Olive, Dark Olive, Forest Green, Tobacco, Rust, Terracotta, Cream, Ecru
 Evaluation order: Fit(30%) > Fabric(20%) > Collar(20%) > Construction(15%) > Colour(15%)
 Wardrobe role: Foundation — everyday relaxed smart-casual driver, earth tones dominant.
+Tags: shirts, casual, weekend, casual-friday, all-season, deep-autumn, core, foundation
 
 ### Linen Shirt
 Tier: B — Supporting
@@ -41,6 +44,7 @@ Avoid: Extra Slim, oversized, cropped lengths; stiff fused collars, button-down 
 Colours: Cream, Ecru, Olive, Sage, Sand, Tobacco
 Evaluation order: Fit(30%) > Fabric(25%) > Colour(20%) > Construction(15%) > Collar(10%)
 Wardrobe role: Accent — warm-weather/resort use, natural wrinkling embraced not avoided.
+Tags: shirts, casual, weekend, travel, summer, deep-autumn, supporting, accent
 
 ### Flannel Shirt
 Tier: B — Supporting
@@ -51,6 +55,7 @@ Avoid: Extra Slim/oversized/boxy/skinny; stiff fused collars, extreme cutaways; 
 Colours: Olive, Forest Green, Tobacco, Chocolate Brown, Rust, Cream
 Evaluation order: Fit(30%) > Fabric(25%) > Colour(20%) > Construction(15%) > Pattern(10%)
 Wardrobe role: Accent — autumn/winter layering, should read refined not rugged.
+Tags: shirts, casual, weekend, winter, deep-autumn, supporting, accent
 
 ### Chambray Shirt
 Tier: B — Supporting
@@ -61,6 +66,7 @@ Avoid: Extra Slim, oversized; denim marketed as chambray, polyester blends; very
 Colours: Mid Blue, Light Blue
 Evaluation order: Fit(30%) > Fabric(25%) > Colour(20%) > Construction(15%) > Details(10%)
 Wardrobe role: Accent — relaxed smart-casual, lighter alternative to denim.
+Tags: shirts, casual, weekend, all-season, deep-autumn, supporting, accent
 
 ### Denim Shirt
 Tier: B — Supporting
@@ -71,3 +77,4 @@ Avoid: Skinny, oversized; stretch denim, heavy washes, distressing; acid wash, l
 Colours: Mid Indigo, Dark Indigo
 Evaluation order: Fit(30%) > Fabric(25%) > Colour(20%) > Construction(15%) > Details(10%)
 Wardrobe role: Accent — one denim garment per outfit, styled clean to avoid workwear overload.
+Tags: shirts, casual, weekend, all-season, deep-autumn, supporting, accent

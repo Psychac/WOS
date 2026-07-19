@@ -11,6 +11,7 @@ Avoid: Very narrow fashion belts, wide casual belts; bonded/faux/split leather; 
 Colours: Dark Brown, Chocolate, Tobacco
 Evaluation order: Leather Quality(30%) > Construction(25%) > Buckle(20%) > Width(15%) > Colour(10%)
 Wardrobe role: Foundation — one high-quality dark brown belt satisfies most needs; match to footwear family.
+Tags: accessories, all-formality, office, weekend, all-season, deep-autumn, foundation-tier, foundation
 
 ### Watch
 Tier: S — Foundation
@@ -21,6 +22,7 @@ Avoid: Oversized cases (40mm+), thick dive-watch proportions, extremely small fa
 Colours: Silver case, White/Cream/Black dial
 Evaluation order: Case Proportions(30%) > Dial Design(25%) > Strap/Bracelet(20%) > Movement(15%) > Finishing(10%)
 Wardrobe role: Foundation — one excellent everyday watch over several fashion watches; brown leather strap first.
+Tags: accessories, all-formality, office, weekend, dinner, all-season, deep-autumn, foundation-tier, foundation
 
 ### Sunglasses
 Tier: A — Core
@@ -31,6 +33,7 @@ Avoid: Oversized frames, tiny round frames, aviators (default recommendation); c
 Colours: Dark Brown, Tortoiseshell, Matte Black
 Evaluation order: Frame Shape(30%) > Lens Quality(25%) > Material(25%) > Colour(20%)
 Wardrobe role: Core — should complement, not compete with, prescription glasses; timeless shapes over trends.
+Tags: accessories, casual, weekend, travel, summer, deep-autumn, core, core
 
 ### Wallet
 Tier: S — Foundation
@@ -41,6 +44,7 @@ Avoid: Bulky tri-fold, oversized travel wallets; bonded/faux leather; thick padd
 Colours: Dark Brown, Chocolate
 Evaluation order: Format(30%) > Material(25%) > Construction(25%) > Colour(20%)
 Wardrobe role: Foundation — one quality wallet is sufficient; patina desirable, structural failure is not.
+Tags: accessories, all-formality, daily, all-season, deep-autumn, foundation-tier, foundation
 
 ### Scarf
 Tier: B — Supporting
@@ -50,6 +54,7 @@ Avoid: Loud tartans, bright colours, heavy logos, bulky knit scarves
 Colours: Chocolate, Olive, Tobacco, Charcoal Brown
 Evaluation order: Material(30%) > Colour(25%) > Construction(25%) > Pattern(20%)
 Wardrobe role: Accent — one versatile wool scarf is sufficient.
+Tags: accessories, smart-casual, office, weekend, winter, deep-autumn, supporting, accent
 
 ### Cap
 Tier: C — Specialist
@@ -59,6 +64,7 @@ Avoid: Snapbacks, flat brims, large embroidered logos, camouflage
 Colours: Olive, Chocolate, Tobacco, Warm Navy
 Evaluation order: Shape(30%) > Material(25%) > Colour(25%) > Details(20%)
 Wardrobe role: Specialist — own one versatile cap rather than multiple trend-driven options.
+Tags: accessories, casual, weekend, travel, summer, deep-autumn, specialist, specialist
 
 ### Pocket Square
 Tier: C — Specialist
@@ -68,3 +74,4 @@ Avoid: Matching tie sets, loud prints, bright novelty colours
 Colours: Cream, Ecru
 Evaluation order: Material(30%) = Colour(30%) > Pattern(20%) = Construction(20%)
 Wardrobe role: Specialist — white or cream linen should be the first pocket square purchased.
+Tags: accessories, formal, formal-occasion, dinner, all-season, deep-autumn, specialist, specialist

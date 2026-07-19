@@ -11,6 +11,7 @@ Avoid: Shirt-tight fit, oversized fashion fit, long shacket styling; extra slim,
 Colours: Olive, Dark Olive, Tobacco, Chocolate, Forest Green, Cream, Ecru
 Evaluation order: Fit(30%) > Layering Silhouette(20%) > Fabric(20%) > Construction(15%) > Colour(15%)
 Wardrobe role: Foundation — highest-ROI layering garment, wear open by default, earth tones dominant.
+Tags: outerwear, casual, weekend, layering, all-season, deep-autumn, core, foundation
 
 ### Harrington Jacket
 Tier: S — Foundation
@@ -21,6 +22,7 @@ Avoid: Longline cuts, cropped fashion cuts, oversized silhouettes; tight chest, 
 Colours: Olive, Tobacco, Chocolate, Stone, Warm Navy
 Evaluation order: Fit(30%) > Silhouette(20%) > Fabric(20%) > Construction(15%) > Colour(15%)
 Wardrobe role: Foundation — highest-ROI jacket category, waist-length improves proportions, earth tones dominant.
+Tags: outerwear, smart-casual, weekend, casual-friday, all-season, deep-autumn, foundation-tier, foundation
 
 ### Chore Jacket
 Tier: B — Supporting
@@ -31,6 +33,7 @@ Avoid: Cropped cuts; polyester-rich fabric, thin synthetic canvas; bright colour
 Colours: Olive, Tobacco, Chocolate, Ecru
 Evaluation order: Fit(30%) > Silhouette(20%) > Fabric(20%) > Construction(15%) > Colour(15%)
 Wardrobe role: Accent — texture over utility styling, clean workwear over rugged workwear.
+Tags: outerwear, casual, weekend, all-season, deep-autumn, supporting, accent
 
 ### Field Jacket
 Tier: C — Specialist
@@ -41,6 +44,7 @@ Avoid: Oversized military styling, long parka proportions; shiny technical fabri
 Colours: Olive, Tobacco, Dark Brown
 Evaluation order: Fit(30%) > Silhouette(20%) > Fabric(20%) > Construction(15%) > Colour(15%)
 Wardrobe role: Specialist — utility kept understated, silhouette prioritized over pocket count.
+Tags: outerwear, casual, weekend, travel, all-season, deep-autumn, specialist, specialist
 
 ### Bomber Jacket
 Tier: C — Specialist
@@ -51,6 +55,7 @@ Avoid: Cropped fashion fits, oversized bomber styling; shiny nylon, satin; black
 Colours: Olive, Tobacco, Chocolate, Warm Navy
 Evaluation order: Fit(30%) > Silhouette(20%) > Fabric(20%) > Construction(15%) > Colour(15%)
 Wardrobe role: Specialist — understated over military-inspired, matte finishes age better than shiny.
+Tags: outerwear, casual, weekend, all-season, deep-autumn, specialist, specialist
 
 ### Suede Jacket
 Tier: B — Supporting
@@ -61,6 +66,7 @@ Avoid: Faux suede, plastic-coated finishes; black, bright colours; heavy distres
 Colours: Tobacco, Chocolate, Dark Olive
 Evaluation order: Fit(30%) > Silhouette(25%) > Fabric(20%) > Construction(15%) > Colour(10%)
 Wardrobe role: Foundation — quality suede worth paying more for, texture is the statement not the design.
+Tags: outerwear, smart-casual, dinner, date, all-season, deep-autumn, supporting, foundation
 
 ### Overcoat
 Tier: C — Specialist
@@ -71,3 +77,4 @@ Avoid: Very short coats, oversized fashion fits; polyester-heavy fabric; bright 
 Colours: Chocolate, Charcoal Brown, Warm Navy
 Evaluation order: Fit(30%) > Silhouette(25%) > Fabric(20%) > Construction(15%) > Colour(10%)
 Wardrobe role: Specialist — buy one exceptional overcoat rather than several average ones.
+Tags: outerwear, formal, office, tailoring, winter, deep-autumn, specialist, specialist

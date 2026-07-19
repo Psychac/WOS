@@ -11,6 +11,7 @@ Avoid: Very short jackets, long fashion cuts, double-breasted (first blazer); he
 Colours: Warm Navy, Chocolate Brown, Tobacco
 Evaluation order: Fit(30%) > Silhouette(20%) > Fabric(20%) > Shoulders(15%) > Construction(10%) > Colour & Pattern(5%)
 Wardrobe role: Foundation — highest-ROI tailored garment, warm navy is the default first colour.
+Tags: tailoring, smart-casual, office, dinner, all-season, deep-autumn, core, foundation
 
 ### Suit
 Tier: A — Core
@@ -21,6 +22,7 @@ Avoid: Skinny fashion suits, oversized cuts, double-breasted (first suit); heavy
 Colours: Warm Navy, Charcoal
 Evaluation order: Fit(30%) > Silhouette(20%) > Fabric(20%) > Shoulders(15%) > Construction(10%) > Colour(5%)
 Wardrobe role: Foundation — own fewer, better suits; fit and alterations matter more than brand; warm navy first.
+Tags: tailoring, formal, office, formal-occasion, all-season, deep-autumn, core, foundation
 
 ### Sport Coat
 Tier: A — Core
@@ -31,6 +33,7 @@ Avoid: Oversized tailoring, very short jackets; polyester-rich fabrics, high-shi
 Colours: Olive, Tobacco, Brown, Warm Navy
 Evaluation order: Fit(30%) > Silhouette(25%) > Fabric(20%) > Pattern(15%) > Colour(10%)
 Wardrobe role: Foundation/Accent — texture is the defining feature; own one versatile piece before bolder patterns.
+Tags: tailoring, smart-casual, dinner, weekend, all-season, deep-autumn, core, foundation-accent
 
 ### Waistcoat
 Tier: C — Specialist
@@ -41,6 +44,7 @@ Avoid: Fashion waistcoats, very short lengths; tight pulling, excess fabric; shi
 Colours: Match the suit
 Evaluation order: Fit(30%) > Silhouette(25%) > Fabric(20%) > Construction(15%) > Colour(10%)
 Wardrobe role: Specialist — buy only after core tailoring wardrobe is complete; treat as enhancement not necessity.
+Tags: tailoring, formal, formal-occasion, all-season, deep-autumn, specialist, specialist
 
 ### Tuxedo
 Tier: C — Specialist
@@ -51,3 +55,4 @@ Avoid: Fashion tuxedos, skinny tailoring; notch lapels; shiny synthetic fabrics;
 Colours: Midnight Navy, Black
 Evaluation order: Fit(30%) > Silhouette(25%) > Fabric(20%) > Lapels(15%) > Construction(10%)
 Wardrobe role: Specialist — rent before buying unless black-tie events are frequent; fit matters more than luxury branding.
+Tags: tailoring, formal, black-tie, all-season, deep-autumn, specialist, specialist

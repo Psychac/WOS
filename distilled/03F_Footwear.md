@@ -11,6 +11,7 @@ Avoid: Bulky athletic silhouettes, square toes, aggressively pointed toes, overs
 Colours: Off-White, Cream
 Evaluation order: Last & Shape(30%) > Construction(25%) > Upper Material(20%) > Sole(15%) > Colour(5%) > Details(5%)
 Wardrobe role: Foundation — highest-ROI purchase, off-white/cream preferred over optical white, keep design clean.
+Tags: footwear, casual, weekend, casual-friday, all-season, deep-autumn, foundation-tier, foundation
 
 ### Penny Loafers
 Tier: S — Foundation
@@ -21,6 +22,7 @@ Avoid: Narrow Italian lasts, square toes, aggressively pointed toes, chunky fash
 Colours: Dark Brown, Chocolate, Tobacco
 Evaluation order: Last & Shape(30%) > Construction(25%) > Upper Material(20%) > Vamp & Apron(15%) > Sole(5%) > Colour & Details(5%)
 Wardrobe role: Foundation — highest-ROI footwear purchase, last shape over brand, brown is first choice.
+Tags: footwear, smart-casual, office, dinner, all-season, deep-autumn, foundation-tier, foundation
 
 ### Derby Shoes
 Tier: A — Core
@@ -31,6 +33,7 @@ Avoid: Square toes, pointed fashion toes, very narrow lasts; closed Oxford lacin
 Colours: Dark Brown, Chocolate, Espresso
 Evaluation order: Last & Shape(30%) > Construction(25%) > Upper Material(20%) > Sole(15%) > Colour(5%) > Lacing(5%)
 Wardrobe role: Foundation — first formal shoe should be brown Derby, not black Oxford; elegant proportions over decoration.
+Tags: footwear, formal, office, formal-occasion, all-season, deep-autumn, core, foundation
 
 ### Chelsea Boots
 Tier: B — Supporting
@@ -41,6 +44,7 @@ Avoid: Square toes, aggressive points, bulky work-boot lasts; faux/patent leathe
 Colours: Dark Brown Suede, Chocolate, Tobacco
 Evaluation order: Last & Shape(30%) > Construction(25%) > Upper Material(20%) > Sole(15%) > Colour(10%)
 Wardrobe role: Accent — suede offers greater versatility than smooth black leather; keep silhouette sleek not rugged.
+Tags: footwear, smart-casual, weekend, dinner, winter, deep-autumn, supporting, accent
 
 ### Oxford Shoes
 Tier: C — Specialist
@@ -50,6 +54,7 @@ Avoid: Heavy broguing, square toes, thick rubber soles, bright colours
 Colours: Dark Brown, Espresso
 Evaluation order: Last & Shape(30%) > Construction(25%) > Upper Material(20%) > Sole(15%) > Colour(10%)
 Wardrobe role: Specialist — purchase after Derby shoes unless formal dress becomes frequent.
+Tags: footwear, formal, formal-occasion, all-season, deep-autumn, specialist, specialist
 
 ### Chukka Boots
 Tier: B — Supporting
@@ -59,6 +64,7 @@ Avoid: Thick work soles, bulky lasts, decorative hardware
 Colours: Tobacco, Chocolate, Dark Brown
 Evaluation order: Last & Shape(30%) > Construction(25%) > Upper Material(20%) > Sole(15%) > Colour(10%)
 Wardrobe role: Accent — suede gives best balance of texture and versatility; keep simple not rugged.
+Tags: footwear, casual, weekend, all-season, deep-autumn, supporting, accent
 
 ### Sandals
 Tier: C — Specialist
@@ -68,3 +74,4 @@ Avoid: Athletic sandals, neon colours, thick foam soles, large logos
 Colours: Dark Brown, Tobacco
 Evaluation order: Shape(30%) > Construction(25%) > Upper Material(20%) > Sole(15%) > Colour(10%)
 Wardrobe role: Accent — one quality leather pair is sufficient.
+Tags: footwear, casual, weekend, travel, summer, deep-autumn, specialist, accent

@@ -11,6 +11,7 @@ Avoid: Extra Slim, oversized, long loose sleeves; soft collapsing/tiny/oversized
 Colours: Olive, Dark Olive, Forest Green, Tobacco, Cream, Ecru, Warm Navy
 Evaluation order: Fit(30%) > Collar & Placket(20%) > Fabric(20%) > Construction(15%) > Colour(15%)
 Wardrobe role: Foundation — highest-value garment, collar quality over brand, piqué default fabric.
+Tags: knitwear, smart-casual, weekend, casual-friday, summer, deep-autumn, foundation-tier, foundation
 
 ### Knit Polo
 Tier: A — Core
@@ -21,6 +22,7 @@ Avoid: Extra Slim, oversized, long body length; tiny/contrast/oversized collars,
 Colours: Olive, Dark Olive, Tobacco, Chocolate, Forest Green, Cream, Ecru
 Evaluation order: Fit(30%) > Collar & Placket(20%) > Fabric(20%) > Construction(15%) > Colour(15%)
 Wardrobe role: Foundation — strongest fit for Modern Creative Minimalist aesthetic, fabric quality/drape over brand.
+Tags: knitwear, smart-casual, weekend, dinner, all-season, deep-autumn, core, foundation
 
 ### Crewneck Sweater
 Tier: B — Supporting
@@ -31,6 +33,7 @@ Avoid: Oversized, skinny, excessively long body; very tight neck, oversized neck
 Colours: Olive, Forest Green, Tobacco, Chocolate, Cream, Ecru, Charcoal Brown
 Evaluation order: Fit(30%) > Neckline(20%) > Fabric(20%) > Construction(15%) > Colour(15%)
 Wardrobe role: Accent — seasonal layering, fabric quality prioritized over thickness, fine-gauge preferred.
+Tags: knitwear, smart-casual, office, weekend, winter, deep-autumn, supporting, accent
 
 ### Quarter-Zip Sweater
 Tier: B — Supporting
@@ -41,6 +44,7 @@ Avoid: Oversized fit; plastic zippers; contrast panels
 Colours: Olive, Tobacco, Forest Green, Chocolate
 Evaluation order: Fit(30%) > Zipper & Neckline(20%) > Fabric(20%) > Construction(15%) > Colour(15%)
 Wardrobe role: Accent — autumn/winter layering, wear zipper partially open, keep hardware understated.
+Tags: knitwear, smart-casual, weekend, winter, deep-autumn, supporting, accent
 
 ### Cardigan
 Tier: C — Specialist
@@ -51,3 +55,4 @@ Avoid: Chunky oversized knits; decorative patterns
 Colours: Olive, Chocolate, Forest Green, Charcoal Brown
 Evaluation order: Fit(30%) > Fabric(25%) > Construction(20%) > Colour(15%) > Closure(10%)
 Wardrobe role: Specialist — classic button-front over fashion-forward, fine-gauge offers greatest versatility.
+Tags: knitwear, smart-casual, weekend, winter, deep-autumn, specialist, specialist

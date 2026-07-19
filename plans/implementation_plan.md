@@ -37,10 +37,14 @@ The active task list for this roadmap is tracked in [TASKS.md](TASKS.md).
 * **Phase 2 — Modularization** ✓ (7 split documents, 9,920 lines)
 * **Phase 3 — Garment Document Refactor** ✓ (All verification checks pass)
 * **Phase 4 — Evaluation Engine** ✓ (EVALUATION_ENGINE.md created)
+* **Phase 5 — Runtime Specification** ✓ (distilled/ contains compressed runtime specs for docs 01–05)
+* **Phase 6 — Knowledge Retrieval** ✓ (metadata schema defined in AI_GUIDE.md; tags applied to distilled/03A–03G)
 
-The knowledge base has been audited, modularized, and refactored to canonical specifications. The evaluation process is now formally defined.
+The knowledge base has been audited, modularized, refactored to canonical specifications, distilled into a compressed runtime reference, and tagged for retrieval. The evaluation process is formally defined.
 
-The remaining work is additional reference layers (Phases 5–8).
+**Phase 7 — Product Evaluation Database** is deferred (see status under Phase 7 below).
+
+The remaining active work is Phase 8.
 
 ---
 
@@ -483,6 +487,23 @@ It is re-derived from the curated documentation by an AI agent following this do
 
 ---
 
+## Status
+
+**✅ COMPLETE**
+
+### Deliverables
+
+- ✓ [distilled/01_Personal_Profile.md](../distilled/01_Personal_Profile.md)
+- ✓ [distilled/02_Decision_Framework.md](../distilled/02_Decision_Framework.md)
+- ✓ [distilled/03_Fundamentals.md](../distilled/03_Fundamentals.md)
+- ✓ [distilled/03A_Shirts.md](../distilled/03A_Shirts.md) – [03G_Accessories.md](../distilled/03G_Accessories.md) (all 7 garment categories)
+- ✓ [distilled/04_Wardrobe.md](../distilled/04_Wardrobe.md)
+- ✓ [distilled/05_Outfit_Library.md](../distilled/05_Outfit_Library.md)
+
+Every curated document (01–05) now has a compressed runtime counterpart in `distilled/`. Each file links back to its source and instructs future agents to re-derive rather than edit directly.
+
+---
+
 ## Principles
 
 Preserve meaning.
@@ -517,11 +538,9 @@ Wardrobe role
 
 ### Success Criteria
 
-Runtime specification should contain only information necessary for inference.
-
-No explanatory text.
-
-No duplicated rationale.
+- ✓ Runtime specification contains only information necessary for inference.
+- ✓ No explanatory text.
+- ✓ No duplicated rationale.
 
 ---
 
@@ -530,6 +549,20 @@ No duplicated rationale.
 ## Goal
 
 Improve AI retrieval.
+
+---
+
+## Status
+
+**✅ COMPLETE**
+
+### Deliverables
+
+- ✓ Metadata schema defined in [AI_GUIDE.md](../AI_GUIDE.md) (Runtime Metadata Schema section)
+- ✓ `Tags:` line added to every garment entry across `distilled/03A`–`03G` (7 files, ~34 entries)
+- ✓ Schema fields: category, formality, occasion(s), season, colour-palette, priority-tier, wardrobe-role
+
+01, 02, 04, and 05 were not tagged — they are single-topic documents (profile, framework, inventory, outfit templates) rather than collections of individually retrievable entries, so per-entry metadata does not apply.
 
 ---
 
@@ -585,6 +618,10 @@ Future retrieval should use metadata rather than filename matching.
 
 # Phase 7 — Product Evaluation Database
 
+## Status
+
+**⏸ DEFERRED** — Revisit once doc 04 (Wardrobe) holds real inventory data; a structured schema has little to reference until then. See discussion in TASKS.md. A lighter-weight append-only evaluation log (verdict + one-line reasoning, no rigid schema) was suggested as a nearer-term alternative if logging becomes needed sooner.
+
 ## Goal
 
 Create a structured database of evaluated products.
@@ -628,6 +665,10 @@ The WOS should eventually evaluate products rather than relying on conversationa
 ---
 
 # Phase 8 — Outfit Engine
+
+## Status
+
+**⏸ DEFERRED** — Blocked on the same gap as Phase 7: doc 04 (Wardrobe) and doc 05 (Outfit Library) are still empty templates, with no real garments or proven combinations to reason over. Unlike Phase 7, this phase requires no new infrastructure — the rules (doc02) and garment specs (doc03) it depends on are already complete, so once doc 04 is populated, this becomes usable immediately without further build work.
 
 ## Goal
 

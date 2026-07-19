@@ -11,6 +11,7 @@ Avoid: Low rise; skinny, baggy, oversized; aggressive taper, wide leg, balloon f
 Colours: Charcoal, Dark Grey, Warm Navy
 Evaluation order: Fit(30%) > Rise(20%) > Leg Shape(20%) > Hem & Break(15%) > Fabric(15%)
 Wardrobe role: Foundation — sole trouser for tailoring/formal dressing.
+Tags: trousers, formal, office, tailoring, all-season, deep-autumn, core, foundation
 
 ### Chinos
 Tier: S — Foundation
@@ -21,6 +22,7 @@ Avoid: Low rise; skinny, oversized, baggy; aggressive taper, wide leg, balloon f
 Colours: Olive, Dark Olive, Tobacco, Cream, Ecru
 Evaluation order: Fit(30%) > Rise(20%) > Fabric(20%) > Construction(15%) > Colour(15%)
 Wardrobe role: Foundation — highest-value garment category; avoid duplicate role coverage.
+Tags: trousers, smart-casual, office, weekend, all-season, deep-autumn, foundation-tier, foundation
 
 ### Jeans
 Tier: S — Foundation
@@ -31,6 +33,7 @@ Avoid: Low rise; skinny, spray-on, oversized, baggy; aggressive taper, wide leg,
 Colours: Dark Indigo, Rinse Wash
 Evaluation order: Fit(30%) > Wash(20%) > Leg Shape(20%) > Fabric(15%) > Construction(10%) > Rise(5%)
 Wardrobe role: Foundation — highest-value garment category; dark indigo default.
+Tags: trousers, casual, weekend, casual-friday, all-season, deep-autumn, foundation-tier, foundation
 
 ### Linen Trousers
 Tier: B — Supporting
@@ -41,6 +44,7 @@ Avoid: Low rise; skinny, oversized; polyester-heavy blends; black, bright colour
 Colours: Cream, Ecru, Sand, Olive
 Evaluation order: Fit(30%) > Fabric(25%) > Rise(15%) > Colour(15%) > Construction(15%)
 Wardrobe role: Accent — summer/resort, drape prioritized over wrinkle resistance.
+Tags: trousers, casual, weekend, travel, summer, deep-autumn, supporting, accent
 
 ### Corduroy Trousers
 Tier: B — Supporting
@@ -50,6 +54,7 @@ Avoid: Very wide wale, thin synthetic corduroy; bright colours
 Colours: Olive, Tobacco, Chocolate, Forest Green
 Evaluation order: Fit(30%) > Fabric(25%) > Colour(20%) > Rise(15%) > Construction(10%)
 Wardrobe role: Accent — autumn/winter texture piece; medium wale balances refinement and texture.
+Tags: trousers, casual, weekend, winter, deep-autumn, supporting, accent
 
 ### Shorts
 Tier: B — Supporting
@@ -60,3 +65,4 @@ Avoid: Oversized; below-knee or very short athletic cuts; shiny athletic fabric 
 Colours: Olive, Cream, Tobacco, Stone
 Evaluation order: Fit(30%) > Length(20%) > Rise(20%) > Fabric(15%) > Colour(15%)
 Wardrobe role: Accent — summer/beach casual, kept clean and understated.
+Tags: trousers, casual, weekend, travel, summer, deep-autumn, supporting, accent
