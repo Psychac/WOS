@@ -134,3 +134,54 @@ Record:
 * Post-purchase review
 
 Future purchasing decisions should learn from previous successes and mistakes.
+
+Footwear:
+
+* US Polo Assn Men Black Salvador 4.0 Sneakers (These easily pass as formal shoes even tho they are sneakers)
+* Bonkerz black sneakers with brown accents
+* Brown loafers (they are more party type and low end, glossy)
+
+Bottoms:
+
+* Navy formal trousers
+* Black formal trousers
+* Coffee brown formal trousers
+* Black chino/jeans hybrid
+* Cream chino/jeans hybrid
+* Light blue faded denim jeans
+
+Shirts:
+
+* Plain white formal shirt
+* Mustard-light yellow formal shirt
+* White shirt with blue printed pattern
+* White shirt with pink printed pattern
+* Warm grey formal shirt
+* Maroon/dark violet mix shirt with black print pattern(party wear)
+
+T-Shirts:
+
+* Oxyfire red graphic tee (round neck)
+* Mustard graphic tee (round neck)
+* Two black graphic tees (round neck)
+* Nobero aloe green tee (round neck)
+* Core Lab Beige Solid Slim Fit T-Shirt from Snitch (Crew neck)
+* Core Lab Brown Solid Slim Fit T-Shirt from Snitch (Crew neck)
+
+Layering:
+
+* Snitch olive overshirt
+
+Accessories:
+
+* Black leather belt
+* Brown leather belt
+* Fastrack black dual-time watch with red accents
+* Vincent Chase black-green rectangular sunglasses
+
+Suits:
+
+* Coffee brown tailored single breasted, unpadded suit with off white shirt
+* Slightly off white Nawabi
+
+Use this wardrobe as the default context when evaluating purchases, outfits, wardrobe gaps, or recommendations unless updated by the user.
