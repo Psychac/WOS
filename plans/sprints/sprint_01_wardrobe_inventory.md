@@ -1,5 +1,7 @@
 # Sprint 1 — Complete Wardrobe Inventory
 
+**Status:** Complete
+
 ## Objective
 
 Transform `docs/04_Wardrobe.md` from a simple inventory into a comprehensive evaluation of the current wardrobe. The resulting document should accurately represent the present state of the wardrobe and serve as the primary reference for all future purchasing decisions.
