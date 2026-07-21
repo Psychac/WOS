@@ -1,5 +1,7 @@
 # Sprint 2 — Wardrobe Analysis & Shopping Priorities
 
+**Status:** Complete
+
 ## Objective
 
 Use the completed wardrobe inventory together with the Decision Framework and Garment Specifications to evaluate the wardrobe as a complete system.

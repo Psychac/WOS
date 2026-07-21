@@ -744,26 +744,81 @@ Organize garments by category.
 
 # Wardrobe Analysis
 
-Wear frequency, primary role, replacement status, and duplication notes are recorded per item above. This section synthesizes findings across the full inventory.
+Wear frequency, primary role, replacement status, and duplication notes are recorded per item above. This section synthesizes findings across the full inventory to evaluate the wardrobe as a system, per the Decision Hierarchy in [02_Decision_Framework.md](02_Decision_Framework.md).
 
-## Duplication Summary
+## Strengths
+
+* **Office shirt rotation** — six formal shirts span the full palette (white, mustard, two prints, warm grey, black-line) without colour overlap, and each anchors a distinct trouser pairing. The two custom-tailored pieces (2020 white, 2025 warm grey) demonstrate that tailoring resolves fit issues ready-made shirts consistently show.
+* **Casual trouser hybrids** — the black and cream chino/jeans hybrids are the wardrobe's strongest performers, together anchoring 10-11 confirmed top pairings across both casual and semi-formal registers. This is the closest the wardrobe comes to a true foundation piece.
+* **Belt coverage** — black and brown belts fully cover the wardrobe's two base colour registers with no gap and no overlap.
+* **Recent formal-occasion tailoring** — the 2026 coffee brown suit and off-white Nawabi are high-quality, purpose-built, and non-overlapping (Western vs. ethnic formality registers), giving solid coverage for wedding-tier occasions.
+* **Palette discipline** — nearly every garment sits within the Deep Autumn priority palette from [01_Personal_Profile.md](01_Personal_Profile.md); there are no colour rejects requiring correction.
+
+## Weaknesses
+
+* **No knitwear** — Polo Shirt (Tier S) and Knit Polo (Tier A) are entirely unowned. This is the largest single-category gap relative to the foundational tiers defined in [03_Garment_Specifications.md](03_Garment_Specifications.md).
+* **No jackets** — only one overshirt exists; the Harrington Jacket (Tier S) and any structured jacket are missing, leaving outerwear coverage to a single piece.
+* **Casual tops skew synthetic** — all eight t-shirts and the overshirt are polyester-blend; the wardrobe has no natural-fibre casual top, limiting breathability and fabric variety.
+* **Single everyday shoe** — the Salvador sneakers cover formal and casual footwear alone. Declining condition plus a toe-box conflict with the wide-forefoot profile in [02_Decision_Framework.md](02_Decision_Framework.md#permanent-footwear-constraints) makes this the wardrobe's most exposed single point of failure.
+* **No formal-occasion watch** — the Fastrack is sporty and mismatches the coffee brown suit and the Nawabi.
+* **All dress trousers are formal-only** — navy, black, and coffee brown all serve office wear; there is no lighter trouser suited to Friday casual dressing.
+* **Coffee brown formal trousers under-tailored** — good Raymond cloth undermined by an overly tight leg from an unsuccessful tailoring attempt; the weakest performer among the three formal trousers.
+
+## Category Coverage
+
+| Category | Status | Notes |
+|---|---|---|
+| Formal Shirts | Complete | 6 items, full palette spread, no role overlap |
+| Polos | Missing | None owned |
+| T-Shirts | Adequate | 8 items, good colour range, but concentrated on the cream hybrid |
+| Knitwear | Missing | None owned — Tier S/A gap |
+| Overshirts | Adequate | 1 item, functional but pairings largely untested |
+| Jackets | Missing | None owned |
+| Dress Trousers | Complete | 3 items, one per shirt colour zone, but all formal-only |
+| Casual Trousers | Complete | 2 hybrids, wardrobe's highest-versatility items |
+| Jeans | Underdeveloped | 1 item, duplicates the cream hybrid's role at far lower wear frequency |
+| Shorts | Missing | None owned |
+| Sneakers | Underdeveloped | 2 items, but one carries the entire everyday/formal-adjacent load |
+| Loafers | Underdeveloped | 1 item, occasion-only, no smart-casual loafer |
+| Belts | Complete | 2 items, full colour coverage |
+| Watches | Underdeveloped | 1 item, no formal-occasion option |
+| Bags | Missing | None owned |
+| Sunglasses | Complete | 1 item, functional need fully met |
+| Fragrance | Missing | None owned |
+| Suits / Ethnic Wear | Complete | 1 Western suit, 1 Nawabi, non-overlapping occasions |
+
+## Shopping Priorities
+
+Categories only, per the Opportunity Cost Principle in [02_Decision_Framework.md](02_Decision_Framework.md). Product-level evaluation happens at purchase time via [EVALUATION_ENGINE.md](../EVALUATION_ENGINE.md).
+
+### Tier 1
+
+1. **Backup everyday sneaker (minimal leather sneaker, Tier S)** — Why it matters: removes the wardrobe's single point of failure in footwear. Opportunity cost: low — no other purchase resolves as broad a risk. Versatility gain: high — a second all-purpose shoe roughly doubles realistic footwear rotation without adding a new role.
+2. **Knitwear foundation piece (crewneck sweater or knit polo)** — Why it matters: closes a fully missing foundational category and adds a layering option distinct from the overshirt. Opportunity cost: low — no existing item performs this role at any level. Versatility gain: high — pairs with both formal trousers and casual hybrids, extending both registers.
+3. **Casual Friday trouser (softer cotton, lighter than the formal three)** — Why it matters: the current three dress trousers are formal-only, leaving Friday casual dressing dependent entirely on the chino/jeans hybrids. Opportunity cost: medium — competes with the knitwear purchase for budget priority. Versatility gain: medium — extends the shirt rotation into a genuinely casual register.
+
+### Tier 2
+
+4. **Structured jacket (chore jacket or Harrington, Tier S/B)** — Why it matters: outerwear currently depends on a single overshirt. Opportunity cost: medium — a real gap, but less urgent than footwear or knitwear. Versatility gain: medium — adds a second layering register once knitwear exists to layer under it.
+5. **Formal-occasion watch (leather strap, minimal dial)** — Why it matters: closes the mismatch between the sporty Fastrack and the suit/Nawabi. Opportunity cost: medium — narrow occasion scope limits realized use. Versatility gain: low — single-purpose by design, but resolves a specific, recurring mismatch.
+6. **Smart-casual loafer (penny loafer, Tier S)** — Why it matters: the only loafer owned is occasion-only party wear; there is no everyday loafer for smart-casual dressing. Opportunity cost: medium — overlaps partially with the Tier 1 sneaker purchase. Versatility gain: medium — opens a formality register between sneakers and dress shoes.
+
+### Tier 3
+
+7. **Natural-fibre casual tee (cotton)** — Why it matters: reduces the casual rotation's total dependence on polyester-blend tees. Opportunity cost: high — cosmetic/comfort gain over an already-adequate category. Versatility gain: low — replaces rather than expands existing role coverage.
+8. **Structured bag** — Why it matters: closes a fully missing but low-frequency-need category. Opportunity cost: high — no urgent use case identified. Versatility gain: low.
+9. **Fragrance** — Why it matters: closes a missing category with no wardrobe-system impact. Opportunity cost: high. Versatility gain: none — outside garment versatility scope entirely.
+
+## Duplication
 
 * **Light blue and baby pink printed shirts** — same maker, fabric, pattern style, fit, and pairing (navy trousers); colour is the only distinction.
 * **Two black graphic tees (Kwabey, Nobero)** — same colour, fit, fabric, and pairing (cream chino/jeans hybrid); print and brand are the only distinctions.
-* **Light blue faded denim jeans** — functionally duplicates the cream chino/jeans hybrid's role and pairings at far lower wear frequency; the clearest role duplication in the wardrobe.
+* **Light blue faded denim jeans** — functionally duplicates the cream chino/jeans hybrid's role and pairings at far lower wear frequency; the clearest role duplication in the wardrobe, and a retirement candidate rather than a replacement target.
 
-## Replacement Priorities
+## Bottlenecks
 
-1. **US Polo Assn Black Salvador 4.0 sneakers** — highest priority. Toe box conflicts with the documented wide-forefoot profile, and condition has declined after two years of near-daily wear as the wardrobe's only everyday/formal-adjacent shoe.
-2. **Coffee brown formal trousers** — re-tailor before replacing. Good Raymond cloth undermined by an overly tight leg from an unsuccessful tailoring attempt.
-3. **Mustard-light yellow formal shirt** — consider altering. Ready-made cut runs loose through the body and arms compared to the tailored shirts in the same rotation.
-4. **Black formal trousers** — monitor only. Waist has tightened slightly, likely wash shrinkage; not yet severe enough to act on.
-5. **Light blue faded denim jeans** — candidate for retirement rather than replacement, given the duplication noted above.
-
-## Identified Gaps
-
-* **Backup everyday shoe** — the wardrobe has no second all-purpose sneaker/shoe; the Salvador pair's declining condition is a single point of failure for both formal and casual footwear.
-* **Formal-occasion watch** — the Fastrack is sporty and the only watch owned; it mismatches the coffee brown suit and the Nawabi.
-* **Cream chino/jeans hybrid concentration** — six separate tops depend on this one trouser (the party shirt, two graphic tees, both black graphic tees, and the Core Lab brown tee), the wardrobe's largest single point of concentration risk.
-* **Black formal trouser concentration** — three of the six formal shirts (white, warm grey, black vertical line) all pair exclusively with this one trouser, a smaller-scale version of the same pattern.
-* **Friday/weekend navy trouser** — all three formal trousers (navy, black, coffee brown) are formal-only, leaving no lighter navy option for Friday casual wear.
+* **Single everyday shoe** — every formal and casual outfit currently routes through the Salvador sneakers. This is the wardrobe's most severe bottleneck: its failure would compromise outfit-building across the entire wardrobe, not just one category.
+* **Cream chino/jeans hybrid concentration** — six separate tops (the party shirt, two graphic tees, both black graphic tees, the Core Lab brown tee) depend on this one trouser, the largest concentration risk among bottoms.
+* **Black formal trouser concentration** — three of six formal shirts (white, warm grey, black vertical line) pair exclusively with this one trouser, a smaller-scale version of the same pattern.
+* **No knitwear layering option** — without a sweater or knit polo, transitional/cool-weather outfits have no layer between a shirt/tee and the overshirt, constraining cold-weather outfit variety.
+* **Formal-only dress trousers** — with no lighter trouser available, Friday casual dressing is fully absorbed by the two chino/jeans hybrids, compounding their existing concentration risk.
