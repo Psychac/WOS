@@ -1,5 +1,7 @@
 # Sprint 3 — Outfit Library
 
+**Status:** Complete
+
 ## Objective
 
 Create a practical outfit guide using only garments currently owned.
